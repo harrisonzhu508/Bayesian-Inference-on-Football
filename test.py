@@ -64,8 +64,8 @@ covariance= -hessian.inverse()
 mu = theta
 
 #save results
-np.savetxt("theta_laplace.csv", mu.numpy(), delimiter=",")
-np.savetxt("theta_laplace.csv", covariance.numpy(), delimiter=",")
+np.savetxt("theta_laplace.csv", theta.numpy(), delimiter=",")
+np.savetxt("covariance_laplace.csv", covariance.numpy(), delimiter=",")
 #display results
 #print(mu)
 
