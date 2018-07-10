@@ -1,0 +1,1559 @@
+date,localTeam,visitorTeam,localGoals,visitorGoals
+6/1/1995,Argentina,Peru,0,3
+6/1/1995,Argentina,Australia,0,2
+7/1/1995,Argentina,Colombia,0,0
+8/1/1995,Argentina,Brazil,1,5
+8/1/1995,Argentina,Serbia,0,2
+10/1/1995,Argentina,Peru,1,1
+10/1/1995,Argentina,Uruguay,0,0
+13/1/1995,Argentina,Colombia,2,0
+13/1/1995,Argentina,Serbia,1,1
+18/1/1995,Argentina,Japan,2,2
+31/1/1995,Argentina,Croatia,1,0
+1/2/1995,Argentina,England,1,0
+4/2/1995,Argentina,Colombia,0,1
+11/2/1995,Argentina,Brazil,0,1
+15/2/1995,Argentina,Colombia,2,1
+21/2/1995,Argentina,Uruguay,1,1
+22/2/1995,Argentina,Colombia,0,0
+26/2/1995,Argentina,Brazil,2,2
+1/3/1995,Argentina,Peru,2,0
+22/3/1995,Argentina,Nigeria,2,1
+29/3/1995,Argentina,England,0,0
+29/3/1995,Argentina,Uruguay,1,1
+31/3/1995,Argentina,Uruguay,1,0
+5/4/1995,Argentina,Colombia,1,0
+31/5/1995,Argentina,Peru,1,0
+31/5/1995,Argentina,Mexico,1,2
+1/6/1995,Argentina,Uruguay,1,1
+3/6/1995,Argentina,Colombia,2,1
+4/6/1995,Argentina,Brazil,1,0
+5/6/1995,Argentina,Uruguay,1,0
+6/6/1995,Argentina,Colombia,3,0
+8/6/1995,Argentina,Brazil,3,3
+10/6/1995,Argentina,Tunisia,2,2
+11/6/1995,Argentina,Peru,1,3
+17/6/1995,Argentina,Croatia,1,0
+21/6/1995,Argentina,Serbia,0,0
+23/6/1995,Argentina,Mexico,1,2
+24/6/1995,Argentina,Brazil,2,1
+30/6/1995,Argentina,Colombia,2,0
+7/7/1995,Argentina,Peru,1,1
+10/7/1995,Argentina,Uruguay,2,0
+13/7/1995,Argentina,Panama,3,0
+13/7/1995,Argentina,Colombia,1,1
+15/7/1995,Argentina,Brazil,4,0
+17/7/1995,Argentina,Peru,2,2
+19/7/1995,Argentina,Costa Rica,2,0
+23/7/1995,Argentina,Nigeria,1,1
+6/8/1995,Argentina,Korea Republic,3,0
+9/8/1995,Argentina,Mexico,1,5
+12/8/1995,Argentina,Germany,0,1
+16/8/1995,Argentina,Spain,1,1
+16/8/1995,Argentina,Brazil,0,2
+23/8/1995,Argentina,Portugal,1,2
+6/9/1995,Argentina,Colombia,1,3
+6/9/1995,Argentina,Costa Rica,0,0
+6/9/1995,Argentina,Uruguay,0,0
+20/9/1995,Argentina,Nigeria,2,1
+11/10/1995,Argentina,Brazil,0,0
+11/10/1995,Argentina,Uruguay,2,0
+11/10/1995,Argentina,Brazil,1,1
+11/10/1995,Argentina,Colombia,2,1
+24/10/1995,Argentina,Peru,2,1
+28/10/1995,Argentina,Iran,2,1
+31/10/1995,Argentina,Switzerland,1,1
+8/11/1995,Argentina,Belgium,0,1
+15/11/1995,Argentina,Brazil,3,1
+16/11/1995,Argentina,Croatia,1,4
+29/11/1995,Argentina,Uruguay,2,2
+12/12/1995,Argentina,Colombia,1,1
+20/12/1995,Argentina,Brazil,3,1
+3/1/1996,Argentina,Panama,3,1
+21/1/1996,Argentina,Uruguay,2,0
+9/2/1996,Argentina,Colombia,0,3
+10/2/1996,Argentina,Brazil,1,4
+14/2/1996,Argentina,Peru,3,0
+19/2/1996,Argentina,Nigeria,5,0
+21/2/1996,Australia,Colombia,1,2
+22/2/1996,Australia,Japan,1,1
+25/2/1996,Australia,Japan,0,2
+28/2/1996,Australia,Japan,0,0
+28/2/1996,Australia,Sweden,2,1
+13/3/1996,Australia,Sweden,3,0
+23/3/1996,Australia,Korea Republic,2,2
+27/3/1996,Australia,Iran,0,2
+27/3/1996,Australia,Brazil,2,0
+24/4/1996,Australia,Korea Republic,0,0
+24/4/1996,Australia,Japan,0,0
+16/5/1996,Australia,Korea Republic,0,2
+23/5/1996,Australia,France,0,0
+26/5/1996,Australia,Brazil,1,0
+26/5/1996,Australia,France,2,0
+29/5/1996,Australia,Uruguay,3,2
+1/6/1996,Australia,Argentina,0,1
+2/6/1996,Australia,Tunisia,1,1
+2/6/1996,Australia,Uruguay,2,0
+8/6/1996,Australia,Japan,1,1
+9/6/1996,Australia,Denmark,1,1
+15/6/1996,Australia,Uruguay,1,1
+16/6/1996,Australia,Argentina,3,0
+16/6/1996,Australia,Nigeria,0,3
+19/6/1996,Australia,Japan,0,3
+22/6/1996,Australia,Denmark,0,0
+23/6/1996,Australia,Serbia,2,1
+26/6/1996,Australia,Korea Republic,1,1
+7/7/1996,Australia,Japan,3,1
+7/7/1996,Australia,Serbia,0,0
+14/8/1996,Australia,Saudi Arabia,3,0
+14/8/1996,Australia,Japan,0,1
+25/8/1996,Australia,Costa Rica,5,3
+28/8/1996,Australia,Spain,2,2
+31/8/1996,Australia,Saudi Arabia,2,0
+4/9/1996,Australia,Korea Republic,0,2
+9/10/1996,Australia,Korea Republic,2,1
+9/10/1996,Australia,Japan,0,0
+13/10/1996,Australia,Saudi Arabia,1,0
+7/11/1996,Australia,Brazil,2,0
+9/11/1996,Australia,Germany,1,0
+23/11/1996,Australia,Colombia,4,1
+11/12/1996,Belgium,Germany,2,2
+11/12/1996,Belgium,Denmark,0,3
+12/12/1996,Belgium,France,2,0
+14/12/1996,Belgium,Russia,0,0
+14/12/1996,Belgium,France,2,0
+15/12/1996,Belgium,England,2,0
+16/12/1996,Belgium,Colombia,2,6
+19/12/1996,Belgium,Mexico,0,0
+28/12/1996,Belgium,Korea Republic,2,3
+12/1/1997,Belgium,Peru,0,0
+22/1/1997,Belgium,Morocco,2,1
+22/1/1997,Belgium,Portugal,0,0
+22/1/1997,Belgium,Sweden,0,2
+7/2/1997,Belgium,Croatia,1,1
+10/2/1997,Belgium,Costa Rica,2,1
+12/2/1997,Belgium,Russia,0,1
+13/2/1997,Belgium,Poland,0,1
+26/2/1997,Belgium,Croatia,4,2
+12/3/1997,Belgium,France,0,0
+16/3/1997,Belgium,Serbia,0,0
+29/3/1997,Belgium,Spain,1,1
+29/3/1997,Belgium,Saudi Arabia,2,0
+2/4/1997,Belgium,Poland,1,0
+30/4/1997,Belgium,Portugal,4,0
+30/4/1997,Belgium,Serbia,0,1
+30/4/1997,Belgium,Morocco,1,1
+21/5/1997,Belgium,Spain,1,1
+22/5/1997,Belgium,Croatia,2,2
+31/5/1997,Belgium,Germany,0,2
+3/6/1997,Belgium,Croatia,1,1
+7/6/1997,Belgium,Serbia,0,1
+8/6/1997,Belgium,France,2,0
+8/6/1997,Belgium,Colombia,4,3
+8/6/1997,Belgium,Japan,1,1
+10/6/1997,Belgium,Tunisia,0,1
+12/6/1997,Belgium,Russia,1,0
+13/6/1997,Belgium,Australia,5,0
+13/6/1997,Belgium,Iceland,2,1
+16/6/1997,Belgium,Spain,3,2
+16/6/1997,Belgium,Mexico,4,1
+16/6/1997,Belgium,Japan,1,1
+19/6/1997,Belgium,Saudi Arabia,2,0
+19/6/1997,Belgium,Portugal,1,1
+21/6/1997,Belgium,Costa Rica,2,1
+26/6/1997,Brazil,Sweden,7,0
+28/6/1997,Brazil,Japan,1,0
+27/7/1997,Brazil,Peru,3,0
+9/8/1997,Brazil,Colombia,2,0
+10/8/1997,Brazil,Argentina,1,2
+13/8/1997,Brazil,Uruguay,0,3
+20/8/1997,Brazil,Colombia,0,1
+24/8/1997,Brazil,Poland,2,1
+6/9/1997,Brazil,Mexico,1,1
+10/9/1997,Brazil,Costa Rica,3,1
+10/9/1997,Brazil,Mexico,2,1
+19/9/1997,Brazil,Colombia,1,1
+28/9/1997,Brazil,Peru,1,2
+9/10/1997,Brazil,Morocco,2,0
+12/10/1997,Brazil,Mexico,0,0
+24/10/1997,Brazil,Australia,1,0
+1/11/1997,Brazil,Argentina,0,2
+9/11/1997,Brazil,Morocco,3,3
+16/11/1997,Brazil,Denmark,1,1
+16/11/1997,Brazil,Serbia,3,2
+22/11/1997,Brazil,Russia,1,1
+29/11/1997,Brazil,Poland,2,2
+7/12/1997,Brazil,Mexico,0,0
+12/12/1997,Brazil,Argentina,1,3
+12/12/1997,Brazil,Uruguay,0,3
+14/12/1997,Brazil,Germany,0,0
+14/12/1997,Brazil,Saudi Arabia,0,5
+16/12/1997,Brazil,Argentina,3,2
+16/12/1997,Brazil,Uruguay,1,0
+19/12/1997,Brazil,Argentina,0,1
+21/12/1997,Brazil,Colombia,6,0
+28/1/1998,Brazil,Peru,1,0
+28/1/1998,Brazil,Mexico,0,1
+28/1/1998,Brazil,Peru,0,3
+11/2/1998,Brazil,Panama,1,0
+15/2/1998,Brazil,Iceland,0,3
+22/2/1998,Brazil,Serbia,0,3
+24/2/1998,Brazil,Belgium,3,1
+1/3/1998,Brazil,Uruguay,2,1
+25/3/1998,Brazil,Argentina,0,0
+25/3/1998,Brazil,Costa Rica,1,2
+25/3/1998,Brazil,Colombia,1,0
+25/3/1998,Brazil,Peru,4,0
+25/3/1998,Brazil,Argentina,1,1
+1/4/1998,Brazil,Croatia,2,1
+15/4/1998,Brazil,Australia,1,0
+22/4/1998,Brazil,France,4,1
+22/4/1998,Brazil,Mexico,3,0
+22/4/1998,Brazil,Argentina,1,0
+22/4/1998,Brazil,Uruguay,3,1
+22/4/1998,Brazil,Sweden,0,0
+29/4/1998,Brazil,Colombia,0,1
+13/5/1998,Brazil,Portugal,1,1
+23/5/1998,Brazil,England,0,0
+27/5/1998,Brazil,Argentina,0,1
+27/5/1998,Brazil,Argentina,0,1
+27/5/1998,Brazil,Argentina,3,1
+28/5/1998,Brazil,Colombia,3,0
+29/5/1998,Brazil,England,0,0
+29/5/1998,Brazil,France,2,2
+29/5/1998,Brazil,Japan,3,0
+30/5/1998,Brazil,Mexico,3,1
+31/5/1998,Brazil,Uruguay,1,2
+3/6/1998,Brazil,Spain,2,0
+3/6/1998,Brazil,Australia,2,0
+3/6/1998,Brazil,Portugal,0,0
+3/6/1998,Brazil,Panama,1,0
+6/6/1998,Brazil,Serbia,7,0
+6/6/1998,Brazil,Croatia,1,1
+12/6/1998,Brazil,Mexico,0,1
+13/6/1998,Brazil,Colombia,1,3
+13/6/1998,Brazil,Germany,2,3
+14/6/1998,Brazil,Mexico,1,0
+14/6/1998,Brazil,Peru,1,0
+15/6/1998,Brazil,Colombia,2,0
+16/6/1998,Brazil,Peru,3,0
+18/6/1998,Brazil,Uruguay,4,0
+20/6/1998,Brazil,Peru,2,2
+20/6/1998,Brazil,Colombia,0,1
+21/6/1998,Brazil,Argentina,2,2
+22/6/1998,Brazil,Colombia,1,0
+24/6/1998,Colombia,Uruguay,2,1
+25/6/1998,Colombia,Nigeria,1,1
+25/6/1998,Colombia,Peru,2,0
+26/6/1998,Colombia,Uruguay,1,0
+26/6/1998,Colombia,Argentina,0,2
+28/6/1998,Colombia,Peru,1,4
+29/6/1998,Colombia,Costa Rica,2,1
+30/6/1998,Colombia,Serbia,2,2
+3/7/1998,Colombia,Tunisia,3,2
+4/7/1998,Colombia,England,0,3
+8/7/1998,Colombia,Germany,2,1
+12/7/1998,Colombia,Peru,3,0
+19/8/1998,Colombia,Peru,1,0
+2/9/1998,Colombia,Brazil,2,0
+2/9/1998,Colombia,Argentina,1,1
+5/9/1998,Colombia,Uruguay,1,1
+5/9/1998,Colombia,Australia,2,1
+17/9/1998,Colombia,Peru,3,2
+23/9/1998,Colombia,Mexico,1,1
+23/9/1998,Colombia,Peru,1,0
+10/10/1998,Colombia,Brazil,2,3
+14/10/1998,Colombia,Brazil,1,0
+14/10/1998,Colombia,Argentina,1,1
+18/11/1998,Colombia,Uruguay,5,1
+20/1/1999,Colombia,Costa Rica,1,0
+9/2/1999,Colombia,Uruguay,3,3
+10/2/1999,Colombia,Korea Republic,0,1
+10/2/1999,Colombia,England,0,2
+10/2/1999,Colombia,Peru,0,1
+10/2/1999,Colombia,Panama,0,1
+28/2/1999,Colombia,Panama,1,1
+27/3/1999,Colombia,Morocco,3,1
+28/3/1999,Colombia,Uruguay,1,0
+31/3/1999,Colombia,Switzerland,0,2
+31/3/1999,Colombia,Brazil,0,1
+5/5/1999,Colombia,Argentina,3,1
+30/5/1999,Colombia,Uruguay,1,1
+3/6/1999,Colombia,Nigeria,0,0
+5/6/1999,Colombia,Peru,0,0
+5/6/1999,Colombia,Peru,2,3
+5/6/1999,Colombia,Mexico,1,2
+6/6/1999,Colombia,Senegal,0,0
+9/6/1999,Colombia,Costa Rica,2,2
+9/6/1999,Colombia,Peru,1,0
+12/6/1999,Colombia,Argentina,1,1
+16/6/1999,Colombia,Uruguay,2,0
+16/6/1999,Colombia,Peru,2,1
+17/6/1999,Colombia,Serbia,3,3
+19/6/1999,Colombia,Tunisia,1,1
+29/6/1999,Colombia,Senegal,3,2
+1/7/1999,Colombia,Uruguay,0,1
+3/7/1999,Colombia,Costa Rica,2,1
+4/7/1999,Colombia,Peru,0,3
+7/7/1999,Colombia,Peru,0,2
+10/7/1999,Colombia,Argentina,3,3
+11/7/1999,Colombia,Costa Rica,2,1
+14/7/1999,Colombia,Uruguay,0,2
+17/7/1999,Colombia,Brazil,1,0
+18/7/1999,Costa Rica,Panama,3,0
+24/7/1999,Costa Rica,Mexico,4,0
+25/7/1999,Costa Rica,Saudi Arabia,5,1
+1/8/1999,Costa Rica,Panama,8,2
+4/8/1999,Costa Rica,Mexico,4,3
+18/8/1999,Costa Rica,Korea Republic,1,2
+18/8/1999,Costa Rica,Colombia,0,0
+18/8/1999,Costa Rica,Brazil,5,4
+4/9/1999,Costa Rica,Mexico,2,0
+4/9/1999,Costa Rica,Panama,2,1
+7/9/1999,Costa Rica,Korea Republic,4,0
+7/9/1999,Costa Rica,Poland,4,2
+8/9/1999,Costa Rica,Panama,1,1
+8/9/1999,Costa Rica,Peru,0,0
+9/10/1999,Costa Rica,Sweden,2,2
+9/10/1999,Costa Rica,Panama,3,2
+9/10/1999,Costa Rica,Panama,2,0
+10/10/1999,Costa Rica,Mexico,0,0
+10/10/1999,Costa Rica,Mexico,2,1
+13/10/1999,Costa Rica,Uruguay,2,1
+20/10/1999,Costa Rica,Argentina,0,0
+13/11/1999,Costa Rica,Brazil,3,0
+13/11/1999,Costa Rica,Spain,0,0
+17/11/1999,Costa Rica,Peru,0,2
+21/12/1999,Costa Rica,Mexico,0,0
+9/1/2000,Costa Rica,Panama,2,1
+23/1/2000,Costa Rica,Mexico,4,2
+26/1/2000,Costa Rica,Korea Republic,3,0
+29/1/2000,Costa Rica,Japan,0,0
+3/2/2000,Costa Rica,England,2,0
+5/2/2000,Costa Rica,Panama,0,1
+7/2/2000,Costa Rica,Brazil,2,1
+17/2/2000,Costa Rica,Panama,2,2
+23/2/2000,Costa Rica,Panama,1,1
+23/2/2000,Costa Rica,Panama,2,1
+23/2/2000,Costa Rica,Mexico,0,0
+23/2/2000,Croatia,Poland,0,0
+23/2/2000,Croatia,Korea Republic,1,0
+28/3/2000,Croatia,Denmark,0,0
+29/3/2000,Croatia,Portugal,1,1
+29/3/2000,Croatia,Denmark,2,1
+26/4/2000,Croatia,Poland,0,1
+26/4/2000,Croatia,Iran,1,1
+26/4/2000,Croatia,Australia,1,0
+27/5/2000,Croatia,Denmark,1,1
+28/5/2000,Croatia,Mexico,0,2
+28/5/2000,Croatia,Serbia,0,0
+30/5/2000,Croatia,Spain,0,0
+3/6/2000,Croatia,Germany,2,2
+3/6/2000,Croatia,France,1,1
+4/6/2000,Croatia,Belgium,2,2
+4/6/2000,Croatia,Mexico,0,1
+6/6/2000,Croatia,Poland,1,5
+10/6/2000,Croatia,Belgium,2,1
+11/6/2000,Croatia,Germany,3,0
+11/6/2000,Croatia,France,4,1
+12/6/2000,Croatia,England,3,2
+17/6/2000,Croatia,Iceland,1,0
+20/6/2000,Croatia,Brazil,3,0
+21/6/2000,Croatia,Sweden,3,4
+25/6/2000,Croatia,Iran,1,2
+28/6/2000,Croatia,Poland,1,1
+28/6/2000,Croatia,Australia,2,1
+29/6/2000,Croatia,England,1,3
+1/7/2000,Croatia,Russia,5,1
+16/7/2000,Croatia,Germany,0,1
+19/7/2000,Croatia,England,0,1
+26/7/2000,Croatia,Sweden,3,1
+26/7/2000,Croatia,Spain,0,0
+15/8/2000,Croatia,Switzerland,1,0
+16/8/2000,Croatia,Korea Republic,4,1
+16/8/2000,Croatia,Serbia,2,1
+2/9/2000,Croatia,Portugal,0,0
+2/9/2000,Croatia,Belgium,1,1
+2/9/2000,Croatia,Iceland,1,2
+2/9/2000,Croatia,Australia,0,1
+3/9/2000,Croatia,Mexico,7,1
+3/9/2000,Croatia,Spain,1,2
+7/10/2000,Croatia,Portugal,2,4
+7/10/2000,Croatia,Iceland,0,1
+8/10/2000,Croatia,Brazil,2,1
+14/10/2000,Croatia,Senegal,1,4
+23/10/2000,Denmark,Mexico,1,2
+26/10/2000,Denmark,Argentina,1,2
+29/10/2000,Denmark,Spain,1,0
+15/11/2000,Denmark,Portugal,1,0
+15/11/2000,Denmark,France,2,1
+15/11/2000,Denmark,Croatia,1,0
+15/11/2000,Denmark,Switzerland,1,1
+20/12/2000,Denmark,Iran,1,1
+20/12/2000,Denmark,Sweden,0,2
+13/1/2001,Denmark,Belgium,0,1
+23/1/2001,Denmark,Germany,1,0
+31/1/2001,Denmark,Iceland,2,3
+8/2/2001,Denmark,Tunisia,1,1
+24/2/2001,Denmark,Senegal,0,0
+27/2/2001,Denmark,France,1,0
+28/2/2001,Denmark,England,3,2
+28/2/2001,Denmark,Poland,3,0
+28/2/2001,Denmark,Croatia,0,4
+7/3/2001,Denmark,Sweden,3,3
+24/3/2001,Denmark,England,5,0
+24/3/2001,Denmark,Poland,2,0
+24/3/2001,Denmark,Portugal,1,1
+28/3/2001,Denmark,Sweden,2,1
+24/4/2001,Denmark,Spain,0,1
+25/4/2001,Denmark,Iceland,1,1
+25/4/2001,Denmark,Spain,4,0
+25/4/2001,Denmark,Portugal,0,1
+25/4/2001,Denmark,Sweden,1,0
+25/4/2001,Denmark,Korea Republic,0,2
+25/5/2001,Denmark,Senegal,4,0
+30/5/2001,Denmark,Japan,0,5
+30/5/2001,Denmark,Germany,0,2
+30/5/2001,Denmark,Iceland,1,2
+1/6/2001,Denmark,England,1,0
+1/6/2001,Denmark,Portugal,2,1
+2/6/2001,Denmark,Sweden,1,1
+3/6/2001,Denmark,Russia,3,0
+3/6/2001,Denmark,Brazil,4,0
+3/6/2001,Denmark,Australia,1,0
+4/6/2001,Denmark,Portugal,0,0
+7/6/2001,Denmark,Germany,2,1
+7/6/2001,Denmark,Sweden,1,0
+9/6/2001,Denmark,Portugal,1,0
+10/6/2001,Denmark,Serbia,0,1
+16/6/2001,Denmark,France,1,2
+1/7/2001,Denmark,Sweden,1,0
+4/7/2001,Denmark,Iceland,1,0
+12/7/2001,Denmark,Germany,0,1
+14/7/2001,Denmark,Poland,1,0
+15/7/2001,Denmark,Sweden,2,0
+16/7/2001,Denmark,Panama,1,1
+18/7/2001,Denmark,Mexico,1,0
+22/7/2001,England,Uruguay,2,1
+23/7/2001,England,Japan,3,0
+25/7/2001,England,Sweden,2,1
+29/7/2001,England,Brazil,1,0
+9/8/2001,England,Colombia,5,0
+15/8/2001,England,Switzerland,1,0
+15/8/2001,England,Portugal,1,1
+15/8/2001,England,Croatia,3,0
+16/8/2001,England,Switzerland,0,1
+24/8/2001,England,Spain,2,0
+1/9/2001,England,Germany,1,5
+1/9/2001,England,Poland,1,2
+4/9/2001,England,Mexico,0,2
+5/9/2001,England,Brazil,2,1
+13/9/2001,England,Portugal,2,2
+16/9/2001,England,Saudi Arabia,2,1
+28/9/2001,England,Tunisia,2,2
+4/10/2001,England,France,0,2
+6/10/2001,England,Poland,1,0
+6/10/2001,England,Sweden,6,0
+6/10/2001,England,Belgium,4,0
+7/10/2001,England,Argentina,0,0
+7/10/2001,England,Brazil,2,2
+7/10/2001,England,Germany,1,1
+8/11/2001,England,Germany,2,0
+8/11/2001,England,Spain,0,1
+10/11/2001,England,Mexico,1,1
+10/11/2001,England,Sweden,2,0
+11/11/2001,England,Sweden,1,1
+13/11/2001,England,Brazil,1,1
+14/11/2001,England,Portugal,1,0
+14/11/2001,England,Australia,1,1
+20/11/2001,England,Serbia,1,0
+25/11/2001,England,Croatia,3,0
+10/1/2002,England,Denmark,1,0
+27/1/2002,England,Japan,0,0
+30/1/2002,England,Iceland,3,1
+31/1/2002,England,Switzerland,0,0
+6/2/2002,England,Poland,0,1
+7/2/2002,England,Argentina,1,2
+13/2/2002,England,Uruguay,1,2
+13/2/2002,England,Portugal,0,1
+13/2/2002,England,Spain,1,1
+13/2/2002,England,Brazil,2,1
+7/3/2002,England,Germany,6,1
+13/3/2002,England,Russia,0,0
+27/3/2002,England,Croatia,1,0
+27/3/2002,England,Switzerland,0,2
+27/3/2002,England,Croatia,3,2
+27/3/2002,England,Mexico,1,1
+17/4/2002,England,France,0,0
+17/4/2002,England,Switzerland,0,1
+17/4/2002,England,Spain,1,1
+17/4/2002,England,Sweden,1,1
+21/4/2002,England,Belgium,2,0
+9/5/2002,England,Brazil,1,2
+12/5/2002,England,Poland,2,1
+14/5/2002,England,Germany,3,2
+18/5/2002,England,Denmark,1,2
+19/5/2002,England,Peru,1,1
+21/5/2002,England,Switzerland,1,1
+25/5/2002,England,France,1,1
+26/5/2002,England,Australia,1,0
+26/5/2002,England,Portugal,2,1
+26/5/2002,England,Russia,2,3
+31/5/2002,England,Iceland,0,1
+1/6/2002,England,Spain,8,0
+1/6/2002,England,Germany,1,2
+2/6/2002,England,Brazil,1,0
+2/6/2002,England,Nigeria,1,1
+3/6/2002,England,Costa Rica,0,1
+4/6/2002,France,Poland,2,2
+4/6/2002,France,Spain,2,0
+5/6/2002,France,Mexico,2,0
+6/6/2002,France,Sweden,1,1
+6/6/2002,France,Brazil,0,0
+7/6/2002,France,England,0,1
+7/6/2002,France,Spain,2,1
+9/6/2002,France,Saudi Arabia,1,0
+10/6/2002,France,Denmark,4,0
+10/6/2002,France,Croatia,1,1
+11/6/2002,France,Brazil,2,0
+11/6/2002,France,Morocco,3,3
+12/6/2002,France,Russia,0,0
+12/6/2002,France,Iceland,1,1
+13/6/2002,France,Croatia,2,5
+14/6/2002,France,Poland,3,2
+14/6/2002,France,Japan,2,0
+14/6/2002,France,Denmark,1,0
+15/6/2002,France,Portugal,0,3
+16/6/2002,France,England,1,2
+17/6/2002,France,Germany,2,0
+21/6/2002,France,Japan,1,2
+22/6/2002,France,Portugal,0,0
+25/6/2002,France,Mexico,0,1
+30/6/2002,France,Brazil,0,2
+21/8/2002,France,Denmark,1,1
+21/8/2002,France,Russia,1,1
+21/8/2002,France,Belgium,1,1
+7/9/2002,France,Senegal,1,1
+17/9/2002,France,Uruguay,1,1
+12/10/2002,France,Serbia,1,1
+12/10/2002,France,Colombia,2,2
+16/10/2002,France,Japan,2,3
+20/11/2002,France,Brazil,2,0
+20/11/2002,France,England,3,0
+20/11/2002,France,Poland,0,2
+20/11/2002,France,Sweden,2,3
+4/2/2003,France,Switzerland,0,1
+4/2/2003,France,Costa Rica,1,1
+12/2/2003,France,Germany,0,0
+12/2/2003,France,Mexico,1,3
+12/2/2003,France,Denmark,0,0
+12/2/2003,France,Switzerland,1,0
+12/2/2003,France,Korea Republic,3,1
+12/2/2003,France,Argentina,1,0
+23/2/2003,France,Morocco,0,1
+28/3/2003,France,England,2,2
+29/3/2003,France,Colombia,4,0
+29/3/2003,France,Serbia,0,0
+29/3/2003,France,Tunisia,2,1
+16/4/2003,France,Uruguay,0,1
+30/4/2003,France,Argentina,3,1
+30/4/2003,France,Nigeria,1,0
+30/4/2003,France,Spain,0,0
+30/4/2003,France,Costa Rica,1,2
+30/4/2003,France,Mexico,1,0
+31/5/2003,France,Brazil,0,1
+3/6/2003,France,Croatia,2,1
+7/6/2003,France,Belgium,2,2
+8/6/2003,France,Iceland,1,4
+8/6/2003,France,Serbia,0,2
+11/6/2003,France,England,0,1
+11/6/2003,France,Uruguay,0,3
+11/6/2003,France,Japan,3,0
+18/6/2003,France,Germany,1,0
+20/6/2003,France,Spain,2,1
+22/6/2003,France,Australia,0,1
+13/7/2003,France,Nigeria,1,0
+16/7/2003,France,Germany,2,2
+19/7/2003,France,Spain,0,2
+24/7/2003,France,Portugal,2,0
+24/7/2003,France,Sweden,3,4
+27/7/2003,France,Brazil,1,0
+30/7/2003,France,Denmark,1,0
+20/8/2003,France,Belgium,3,2
+20/8/2003,France,Serbia,3,1
+20/8/2003,France,Germany,3,0
+20/8/2003,France,Russia,1,3
+20/8/2003,France,Switzerland,0,2
+6/9/2003,France,Iceland,0,0
+6/9/2003,France,Germany,0,3
+7/9/2003,France,Portugal,1,2
+10/9/2003,France,Sweden,2,1
+10/9/2003,France,Spain,0,1
+10/9/2003,France,England,0,2
+10/9/2003,France,Colombia,4,1
+8/10/2003,Germany,Denmark,0,1
+11/10/2003,Germany,France,3,0
+11/10/2003,Germany,Croatia,0,0
+15/10/2003,Germany,Portugal,0,2
+15/11/2003,Germany,Brazil,0,3
+16/11/2003,Germany,Nigeria,2,3
+16/11/2003,Germany,Colombia,1,1
+16/11/2003,Germany,Serbia,4,3
+19/11/2003,Germany,Iran,3,3
+19/11/2003,Germany,Mexico,1,1
+19/11/2003,Germany,Croatia,0,0
+10/12/2003,Germany,Switzerland,0,0
+27/1/2004,Germany,Spain,0,1
+7/2/2004,Germany,England,1,0
+11/2/2004,Germany,Argentina,1,1
+14/2/2004,Germany,Saudi Arabia,2,1
+18/2/2004,Germany,Brazil,0,2
+18/2/2004,Germany,Serbia,1,2
+18/2/2004,Germany,Iceland,2,1
+18/2/2004,Germany,France,1,1
+18/2/2004,Germany,Belgium,2,1
+31/3/2004,Germany,Brazil,3,0
+31/3/2004,Germany,Argentina,2,0
+31/3/2004,Germany,Russia,0,2
+31/3/2004,Germany,Australia,2,0
+31/3/2004,Germany,Tunisia,1,0
+28/4/2004,Germany,Argentina,0,1
+28/4/2004,Germany,Brazil,2,2
+20/5/2004,Germany,Mexico,0,0
+30/5/2004,Germany,Japan,2,3
+1/6/2004,Germany,Colombia,1,1
+1/6/2004,Germany,Costa Rica,1,3
+2/6/2004,Germany,Poland,3,1
+2/6/2004,Germany,Sweden,0,2
+5/6/2004,Germany,Argentina,1,2
+5/6/2004,Germany,Portugal,6,1
+5/6/2004,Germany,Sweden,3,1
+6/6/2004,Germany,Switzerland,5,0
+12/6/2004,Germany,Denmark,1,0
+13/6/2004,Germany,Serbia,2,1
+13/6/2004,Germany,Poland,0,0
+16/6/2004,Germany,Spain,2,0
+17/6/2004,Germany,Belgium,2,2
+17/6/2004,Germany,Russia,3,0
+20/6/2004,Germany,England,1,0
+21/6/2004,Germany,Argentina,2,4
+21/6/2004,Germany,Australia,1,3
+22/6/2004,Germany,Serbia,2,2
+24/6/2004,Germany,England,2,2
+27/6/2004,Germany,Spain,0,2
+30/6/2004,Germany,Australia,2,1
+7/7/2004,Germany,Uruguay,2,2
+10/7/2004,Germany,Brazil,0,1
+11/7/2004,Germany,Belgium,4,1
+12/7/2004,Germany,France,2,2
+13/7/2004,Germany,Portugal,4,2
+13/7/2004,Germany,Argentina,1,0
+17/7/2004,Germany,Sweden,2,0
+17/7/2004,Germany,Poland,0,1
+18/7/2004,Germany,Portugal,0,4
+20/7/2004,Germany,Argentina,3,0
+21/7/2004,Germany,Argentina,1,1
+24/7/2004,Germany,Australia,1,2
+25/7/2004,Germany,Poland,2,2
+28/7/2004,Germany,England,0,0
+31/7/2004,Germany,Poland,3,4
+18/8/2004,Germany,England,1,2
+18/8/2004,Germany,Mexico,1,5
+4/9/2004,Germany,France,1,1
+4/9/2004,Germany,Spain,1,3
+8/9/2004,Germany,Brazil,1,1
+8/9/2004,Germany,Saudi Arabia,1,2
+8/9/2004,Iceland,Switzerland,0,1
+9/10/2004,Iceland,Russia,4,2
+9/10/2004,Iceland,Saudi Arabia,0,2
+9/10/2004,Iceland,France,2,0
+13/10/2004,Iceland,Russia,0,0
+13/10/2004,Iceland,Sweden,1,4
+13/10/2004,Iceland,Denmark,7,1
+17/11/2004,Iceland,Poland,0,2
+17/11/2004,Iceland,Germany,0,0
+17/11/2004,Iceland,Japan,1,0
+16/12/2004,Iceland,Sweden,0,3
+18/12/2004,Iceland,Croatia,1,0
+19/12/2004,Iceland,Spain,3,1
+15/1/2005,Iceland,Denmark,2,1
+22/1/2005,Iceland,Sweden,1,1
+26/1/2005,Iceland,Spain,0,0
+9/2/2005,Iceland,Portugal,1,2
+9/2/2005,Iceland,Denmark,1,1
+9/2/2005,Iceland,Switzerland,2,2
+23/2/2005,Iceland,Russia,1,1
+23/2/2005,Iceland,Croatia,0,1
+9/3/2005,Iceland,Sweden,1,1
+25/3/2005,Iceland,Croatia,2,1
+25/3/2005,Iran,Saudi Arabia,2,0
+26/3/2005,Iran,Saudi Arabia,2,1
+26/3/2005,Iran,Australia,4,0
+26/3/2005,Iran,Nigeria,0,0
+27/3/2005,Iran,Korea Republic,1,0
+30/3/2005,Iran,Korea Republic,1,0
+30/3/2005,Iran,Saudi Arabia,1,1
+30/3/2005,Iran,Morocco,0,0
+30/3/2005,Iran,Germany,1,1
+27/4/2005,Iran,Panama,1,1
+22/5/2005,Iran,Japan,0,1
+31/5/2005,Iran,Costa Rica,2,3
+4/6/2005,Iran,Korea Republic,5,0
+4/6/2005,Iran,Korea Republic,0,0
+7/6/2005,Iran,Costa Rica,0,0
+8/6/2005,Iran,Korea Republic,3,1
+8/6/2005,Iran,Saudi Arabia,2,2
+15/6/2005,Iran,Senegal,2,1
+15/6/2005,Iran,Iceland,4,3
+16/6/2005,Iran,Brazil,1,2
+18/6/2005,Iran,Korea Republic,2,4
+18/6/2005,Iran,Russia,3,0
+19/6/2005,Iran,Tunisia,1,0
+21/6/2005,Iran,Korea Republic,0,2
+21/6/2005,Iran,Saudi Arabia,2,2
+22/6/2005,Iran,Nigeria,2,2
+25/6/2005,Iran,Korea Republic,2,3
+26/6/2005,Iran,Japan,1,1
+29/6/2005,Iran,Korea Republic,4,1
+29/6/2005,Iran,Panama,4,3
+6/7/2005,Japan,Nigeria,0,1
+17/7/2005,Japan,Argentina,1,2
+21/7/2005,Japan,Korea Republic,2,3
+7/8/2005,Japan,Korea Republic,0,1
+15/8/2005,Japan,Costa Rica,3,2
+17/8/2005,Japan,Brazil,1,1
+17/8/2005,Japan,Saudi Arabia,4,1
+17/8/2005,Japan,Saudi Arabia,2,1
+17/8/2005,Japan,Poland,0,1
+17/8/2005,Japan,Sweden,2,0
+17/8/2005,Japan,Serbia,2,0
+3/9/2005,Japan,Mexico,1,3
+3/9/2005,Japan,Uruguay,1,3
+4/9/2005,Japan,Tunisia,3,2
+7/9/2005,Japan,Sweden,5,0
+7/9/2005,Japan,Korea Republic,0,0
+7/9/2005,Japan,Croatia,1,1
+7/10/2005,Japan,Brazil,3,2
+8/10/2005,Japan,Korea Republic,0,2
+8/10/2005,Japan,Iran,1,0
+8/10/2005,Japan,Korea Republic,1,1
+8/10/2005,Japan,Mexico,2,2
+9/10/2005,Japan,Croatia,2,0
+12/10/2005,Japan,Brazil,2,1
+12/10/2005,Japan,Belgium,2,0
+12/10/2005,Japan,Peru,3,1
+12/10/2005,Japan,Iran,1,0
+26/10/2005,Japan,Mexico,3,1
+9/11/2005,Japan,Saudi Arabia,3,2
+12/11/2005,Japan,Korea Republic,3,2
+12/11/2005,Japan,Brazil,0,0
+12/11/2005,Japan,Australia,2,2
+12/11/2005,Japan,France,2,0
+12/11/2005,Japan,Serbia,1,0
+16/11/2005,Japan,Australia,1,0
+16/11/2005,Japan,Senegal,2,0
+18/1/2006,Japan,Nigeria,1,1
+29/1/2006,Japan,Costa Rica,2,0
+31/1/2006,Japan,Sweden,2,1
+4/2/2006,Japan,Belgium,1,1
+9/2/2006,Japan,Russia,0,1
+11/2/2006,Japan,Tunisia,1,0
+15/2/2006,Japan,Argentina,0,1
+1/3/2006,Japan,Uruguay,2,3
+1/3/2006,Japan,Korea Republic,2,1
+1/3/2006,Japan,Argentina,3,2
+1/3/2006,Japan,Colombia,0,1
+1/3/2006,Japan,Nigeria,0,3
+1/3/2006,Japan,Senegal,0,1
+28/3/2006,Japan,Korea Republic,1,2
+11/5/2006,Japan,Serbia,2,1
+23/5/2006,Japan,Iran,1,1
+27/5/2006,Japan,Argentina,1,0
+27/5/2006,Japan,Germany,1,1
+27/5/2006,Japan,Peru,0,0
+28/5/2006,Japan,Mexico,2,2
+30/5/2006,Japan,Brazil,2,2
+30/5/2006,Japan,Iran,1,2
+31/5/2006,Japan,Croatia,2,0
+2/6/2006,Japan,Brazil,3,0
+2/6/2006,Japan,Saudi Arabia,0,0
+3/6/2006,Japan,Peru,0,1
+4/6/2006,Japan,Colombia,2,0
+7/6/2006,Japan,Australia,2,1
+9/6/2006,Japan,Saudi Arabia,4,2
+11/6/2006,Japan,Korea Republic,3,1
+12/6/2006,Japan,Uruguay,3,1
+13/6/2006,Japan,Australia,1,0
+13/6/2006,Japan,Belgium,0,0
+14/6/2006,Japan,Korea Republic,1,0
+14/6/2006,Japan,Serbia,2,2
+16/6/2006,Japan,Korea Republic,6,0
+17/6/2006,Japan,England,2,0
+18/6/2006,Japan,Argentina,2,0
+18/6/2006,Japan,Korea Republic,1,1
+18/6/2006,Japan,Peru,0,0
+19/6/2006,Japan,Korea Republic,3,1
+20/6/2006,Japan,Iceland,1,2
+20/6/2006,Japan,Brazil,2,2
+21/6/2006,Japan,Australia,2,1
+22/6/2006,Japan,Mexico,2,2
+22/6/2006,Japan,Australia,1,4
+23/6/2006,Japan,Uruguay,0,1
+23/6/2006,Japan,Colombia,2,0
+24/6/2006,Japan,Uruguay,2,1
+24/6/2006,Japan,Brazil,2,0
+27/6/2006,Japan,Australia,1,3
+30/6/2006,Japan,Tunisia,1,1
+1/7/2006,Japan,Korea Republic,0,1
+1/7/2006,Japan,Saudi Arabia,0,0
+5/7/2006,Japan,Australia,0,1
+8/7/2006,Japan,Brazil,3,1
+15/8/2006,Japan,Korea Republic,0,0
+16/8/2006,Korea Republic,Colombia,2,0
+16/8/2006,Korea Republic,Serbia,3,0
+16/8/2006,Korea Republic,Costa Rica,0,2
+1/9/2006,Korea Republic,Brazil,4,2
+2/9/2006,Korea Republic,Saudi Arabia,1,1
+3/9/2006,Korea Republic,Morocco,0,3
+3/9/2006,Korea Republic,Sweden,1,0
+6/9/2006,Korea Republic,Colombia,0,2
+6/9/2006,Korea Republic,Iran,1,1
+6/9/2006,Korea Republic,Serbia,0,0
+6/9/2006,Korea Republic,Brazil,2,0
+7/10/2006,Korea Republic,Japan,1,0
+7/10/2006,Korea Republic,Japan,2,0
+11/10/2006,Korea Republic,Mexico,2,0
+11/10/2006,Korea Republic,Brazil,1,2
+11/10/2006,Korea Republic,Belgium,2,1
+11/10/2006,Korea Republic,Mexico,2,1
+15/11/2006,Korea Republic,Croatia,0,1
+15/11/2006,Korea Republic,Costa Rica,2,0
+15/11/2006,Korea Republic,Japan,3,1
+15/11/2006,Korea Republic,Serbia,1,2
+19/11/2006,Korea Republic,Serbia,1,2
+6/2/2007,Korea Republic,Saudi Arabia,1,3
+6/2/2007,Korea Republic,France,2,0
+7/2/2007,Korea Republic,Mexico,1,3
+7/2/2007,Korea Republic,Australia,0,1
+7/2/2007,Korea Republic,Nigeria,0,1
+7/2/2007,Korea Republic,Nigeria,3,1
+7/2/2007,Korea Republic,Senegal,1,1
+13/2/2007,Korea Republic,Croatia,1,0
+18/2/2007,Korea Republic,Croatia,1,1
+24/3/2007,Korea Republic,Costa Rica,2,0
+24/3/2007,Korea Republic,England,0,2
+24/3/2007,Korea Republic,France,4,0
+24/3/2007,Korea Republic,Poland,2,1
+25/3/2007,Korea Republic,Portugal,3,1
+28/3/2007,Korea Republic,Spain,0,1
+28/3/2007,Korea Republic,Germany,1,1
+28/3/2007,Korea Republic,Brazil,1,0
+9/5/2007,Korea Republic,Colombia,0,4
+1/6/2007,Korea Republic,Japan,1,1
+2/6/2007,Korea Republic,Uruguay,1,2
+2/6/2007,Korea Republic,Argentina,1,2
+2/6/2007,Korea Republic,Iran,0,3
+2/6/2007,Korea Republic,Germany,4,0
+2/6/2007,Korea Republic,Japan,1,1
+5/6/2007,Korea Republic,Saudi Arabia,0,0
+6/6/2007,Korea Republic,Iran,0,0
+6/6/2007,Korea Republic,Sweden,5,0
+13/6/2007,Korea Republic,Serbia,1,0
+17/6/2007,Korea Republic,Croatia,1,0
+26/6/2007,Korea Republic,Senegal,0,3
+27/6/2007,Korea Republic,Iran,0,2
+2/7/2007,Korea Republic,Uruguay,4,2
+8/7/2007,Korea Republic,Saudi Arabia,4,0
+10/7/2007,Korea Republic,Japan,2,2
+11/7/2007,Korea Republic,Saudi Arabia,1,1
+11/7/2007,Korea Republic,Iran,0,3
+14/7/2007,Korea Republic,Australia,3,1
+15/7/2007,Korea Republic,Senegal,3,0
+21/7/2007,Korea Republic,Serbia,1,1
+22/7/2007,Korea Republic,Nigeria,0,0
+25/7/2007,Korea Republic,Iran,2,3
+28/7/2007,Korea Republic,Japan,0,0
+22/8/2007,Korea Republic,Serbia,3,2
+22/8/2007,Korea Republic,Poland,1,1
+22/8/2007,Korea Republic,Australia,1,2
+22/8/2007,Korea Republic,Iran,0,1
+22/8/2007,Korea Republic,Australia,2,2
+8/9/2007,Korea Republic,Japan,1,1
+8/9/2007,Korea Republic,Peru,2,2
+8/9/2007,Korea Republic,Croatia,2,2
+8/9/2007,Korea Republic,Brazil,0,0
+9/9/2007,Korea Republic,Switzerland,1,0
+11/9/2007,Korea Republic,Tunisia,0,1
+11/9/2007,Korea Republic,Belgium,3,4
+12/9/2007,Korea Republic,Uruguay,3,0
+12/9/2007,Korea Republic,Costa Rica,1,3
+12/9/2007,Korea Republic,Saudi Arabia,1,1
+13/10/2007,Korea Republic,Iran,1,3
+14/10/2007,Korea Republic,Morocco,0,0
+14/10/2007,Korea Republic,Colombia,2,2
+17/10/2007,Korea Republic,Serbia,2,1
+16/11/2007,Korea Republic,Senegal,2,2
+17/11/2007,Mexico,Nigeria,1,0
+17/11/2007,Mexico,Uruguay,2,0
+17/11/2007,Mexico,Colombia,3,0
+18/11/2007,Mexico,Nigeria,1,1
+20/11/2007,Mexico,Saudi Arabia,2,1
+20/11/2007,Mexico,Serbia,0,1
+21/11/2007,Mexico,Colombia,2,1
+21/11/2007,Mexico,Brazil,3,0
+21/11/2007,Mexico,Serbia,2,3
+21/11/2007,Mexico,Peru,3,0
+21/11/2007,Mexico,Colombia,1,1
+21/11/2007,Mexico,Costa Rica,2,2
+13/1/2008,Mexico,Peru,0,1
+23/1/2008,Mexico,Costa Rica,2,2
+30/1/2008,Mexico,Australia,0,0
+6/2/2008,Mexico,Peru,2,1
+6/2/2008,Mexico,Argentina,1,0
+6/2/2008,Mexico,Argentina,2,2
+23/2/2008,Mexico,Peru,1,1
+26/3/2008,Mexico,Brazil,1,4
+26/3/2008,Mexico,Saudi Arabia,1,0
+26/3/2008,Mexico,Brazil,1,0
+26/3/2008,Mexico,Colombia,3,1
+26/3/2008,Mexico,Iran,0,4
+28/5/2008,Mexico,Panama,2,1
+31/5/2008,Mexico,Argentina,2,1
+31/5/2008,Mexico,Colombia,2,1
+1/6/2008,Mexico,Brazil,1,1
+3/6/2008,Mexico,Australia,1,0
+4/6/2008,Mexico,Costa Rica,1,4
+8/6/2008,Mexico,Uruguay,2,0
+8/6/2008,Mexico,Korea Republic,4,0
+10/6/2008,Mexico,Serbia,4,1
+12/6/2008,Mexico,Colombia,2,1
+14/6/2008,Mexico,Argentina,1,1
+14/6/2008,Mexico,Colombia,1,2
+15/6/2008,Mexico,Brazil,2,0
+16/6/2008,Mexico,Brazil,0,1
+17/6/2008,Mexico,Costa Rica,6,0
+18/6/2008,Mexico,Brazil,2,0
+19/6/2008,Mexico,Peru,2,3
+26/6/2008,Mexico,Uruguay,0,3
+29/6/2008,Mexico,Iceland,0,1
+20/8/2008,Mexico,Costa Rica,0,3
+20/8/2008,Mexico,Uruguay,2,0
+20/8/2008,Mexico,Brazil,1,3
+20/8/2008,Mexico,Sweden,2,3
+6/9/2008,Mexico,Colombia,0,1
+6/9/2008,Mexico,Argentina,1,1
+10/9/2008,Mexico,Poland,1,4
+10/9/2008,Mexico,Brazil,2,1
+10/9/2008,Mexico,Argentina,1,1
+10/9/2008,Mexico,Colombia,2,3
+11/10/2008,Mexico,Costa Rica,2,1
+11/10/2008,Mexico,Panama,2,1
+11/10/2008,Mexico,Uruguay,0,0
+14/10/2008,Mexico,Korea Republic,3,1
+15/10/2008,Mexico,Iran,1,2
+15/10/2008,Mexico,Iran,0,0
+19/11/2008,Mexico,Panama,6,2
+19/11/2008,Mexico,Costa Rica,1,0
+19/11/2008,Mexico,Argentina,0,0
+19/11/2008,Mexico,Uruguay,1,2
+19/11/2008,Mexico,Colombia,0,2
+14/12/2008,Mexico,Panama,0,1
+23/1/2009,Mexico,Brazil,3,0
+28/1/2009,Mexico,Nigeria,0,1
+1/2/2009,Mexico,Argentina,0,0
+11/2/2009,Mexico,Peru,0,2
+11/2/2009,Mexico,Sweden,1,1
+11/2/2009,Mexico,Costa Rica,0,0
+11/2/2009,Mexico,Panama,2,0
+28/3/2009,Mexico,Colombia,1,2
+28/3/2009,Mexico,Iceland,2,0
+28/3/2009,Mexico,Senegal,0,0
+1/4/2009,Mexico,Uruguay,1,1
+1/4/2009,Mexico,Spain,2,0
+20/5/2009,Mexico,Colombia,3,1
+31/5/2009,Mexico,Costa Rica,4,0
+2/6/2009,Mexico,Brazil,0,1
+6/6/2009,Mexico,Serbia,1,0
+6/6/2009,Mexico,Colombia,0,1
+6/6/2009,Mexico,Brazil,0,4
+10/6/2009,Mexico,Costa Rica,1,0
+10/6/2009,Mexico,Peru,0,0
+17/6/2009,Mexico,Nigeria,2,1
+17/6/2009,Mexico,Costa Rica,1,1
+20/6/2009,Mexico,Panama,0,0
+9/7/2009,Mexico,Panama,1,1
+23/7/2009,Mexico,Korea Republic,1,1
+12/8/2009,Mexico,Portugal,2,3
+5/9/2009,Mexico,Panama,1,3
+5/9/2009,Mexico,Costa Rica,0,3
+5/9/2009,Mexico,Costa Rica,1,1
+5/9/2009,Mexico,Argentina,3,1
+5/9/2009,Mexico,Uruguay,1,0
+5/9/2009,Mexico,Panama,5,0
+6/9/2009,Mexico,Iceland,2,2
+9/9/2009,Mexico,Costa Rica,5,1
+9/9/2009,Mexico,Croatia,1,1
+30/9/2009,Mexico,Panama,1,2
+10/10/2009,Mexico,Iceland,2,1
+10/10/2009,Mexico,Croatia,1,0
+10/10/2009,Morocco,Senegal,0,1
+14/10/2009,Morocco,Tunisia,2,0
+14/10/2009,Morocco,Croatia,0,1
+14/10/2009,Morocco,Nigeria,0,1
+10/11/2009,Morocco,Senegal,1,0
+14/11/2009,Morocco,England,1,0
+14/11/2009,Morocco,France,0,1
+14/11/2009,Morocco,Senegal,0,0
+14/11/2009,Morocco,Senegal,2,1
+18/11/2009,Morocco,France,0,1
+18/11/2009,Morocco,Korea Republic,1,1
+26/1/2010,Morocco,Senegal,3,2
+14/2/2010,Morocco,Tunisia,1,3
+3/3/2010,Morocco,Senegal,0,1
+3/3/2010,Morocco,Switzerland,0,2
+3/3/2010,Morocco,Argentina,0,1
+3/3/2010,Morocco,Tunisia,1,3
+24/3/2010,Morocco,Tunisia,0,0
+7/4/2010,Morocco,Senegal,0,3
+10/5/2010,Morocco,Tunisia,1,0
+24/5/2010,Morocco,Senegal,3,1
+24/5/2010,Morocco,Tunisia,0,2
+25/5/2010,Morocco,Nigeria,0,0
+26/5/2010,Morocco,Uruguay,2,1
+27/5/2010,Morocco,Tunisia,2,0
+29/5/2010,Morocco,Tunisia,3,2
+30/5/2010,Nigeria,Argentina,1,2
+30/5/2010,Nigeria,Denmark,1,1
+30/5/2010,Nigeria,Tunisia,1,1
+1/6/2010,Nigeria,Morocco,1,0
+1/6/2010,Nigeria,Senegal,0,1
+2/6/2010,Nigeria,Senegal,0,0
+3/6/2010,Nigeria,England,1,0
+8/6/2010,Nigeria,Brazil,6,0
+11/6/2010,Nigeria,Morocco,0,0
+12/6/2010,Nigeria,Senegal,1,0
+13/6/2010,Nigeria,Tunisia,4,0
+16/6/2010,Nigeria,Tunisia,0,1
+17/6/2010,Nigeria,Saudi Arabia,4,1
+17/6/2010,Nigeria,Colombia,0,2
+18/6/2010,Nigeria,Korea Republic,0,1
+22/6/2010,Nigeria,Argentina,0,1
+22/6/2010,Nigeria,Uruguay,2,2
+23/6/2010,Nigeria,Spain,2,1
+24/6/2010,Nigeria,Argentina,1,3
+25/6/2010,Nigeria,Senegal,0,0
+26/6/2010,Panama,Mexico,2,1
+27/6/2010,Panama,Costa Rica,3,1
+27/6/2010,Panama,Costa Rica,4,1
+29/6/2010,Panama,Costa Rica,1,0
+3/7/2010,Panama,Mexico,0,4
+7/7/2010,Panama,Costa Rica,0,1
+10/7/2010,Panama,Peru,2,3
+11/8/2010,Panama,Costa Rica,2,2
+11/8/2010,Panama,Colombia,2,1
+11/8/2010,Panama,Costa Rica,1,1
+3/9/2010,Panama,Costa Rica,0,1
+3/9/2010,Panama,Peru,2,2
+3/9/2010,Panama,Costa Rica,0,0
+7/9/2010,Panama,Costa Rica,4,1
+7/9/2010,Panama,Spain,1,0
+7/9/2010,Panama,Costa Rica,0,1
+7/9/2010,Panama,Peru,1,0
+7/9/2010,Panama,Mexico,1,2
+7/9/2010,Panama,Mexico,1,3
+7/10/2010,Panama,Costa Rica,0,3
+8/10/2010,Panama,Mexico,1,0
+8/10/2010,Panama,Mexico,2,0
+8/10/2010,Panama,Costa Rica,3,1
+12/10/2010,Panama,Costa Rica,1,3
+12/10/2010,Peru,Colombia,0,0
+12/10/2010,Peru,Argentina,1,0
+17/11/2010,Peru,Costa Rica,1,0
+17/11/2010,Peru,Uruguay,1,1
+17/11/2010,Peru,Argentina,1,2
+17/11/2010,Peru,Colombia,4,0
+17/11/2010,Peru,Uruguay,0,2
+17/11/2010,Peru,Japan,0,0
+14/1/2011,Peru,Brazil,1,1
+17/1/2011,Peru,Colombia,0,5
+21/1/2011,Peru,Argentina,1,1
+22/1/2011,Peru,Mexico,0,1
+25/1/2011,Peru,Uruguay,2,2
+29/1/2011,Peru,Uruguay,0,1
+8/2/2011,Peru,Brazil,1,0
+9/2/2011,Peru,Colombia,2,1
+9/2/2011,Peru,Colombia,1,2
+9/2/2011,Peru,Argentina,1,0
+9/2/2011,Peru,Argentina,1,0
+9/2/2011,Peru,Uruguay,1,0
+29/3/2011,Peru,Panama,0,0
+29/3/2011,Peru,Colombia,0,0
+29/3/2011,Peru,Brazil,1,2
+29/5/2011,Peru,Costa Rica,2,1
+1/6/2011,Peru,Colombia,0,0
+1/6/2011,Peru,Argentina,4,1
+3/6/2011,Peru,Uruguay,2,1
+4/6/2011,Peru,Costa Rica,2,2
+4/6/2011,Peru,Panama,0,2
+5/6/2011,Peru,Senegal,2,1
+7/6/2011,Peru,Mexico,0,0
+9/6/2011,Peru,Uruguay,0,1
+12/6/2011,Peru,Nigeria,4,1
+22/6/2011,Peru,Colombia,0,0
+25/6/2011,Peru,Argentina,2,0
+28/6/2011,Peru,Uruguay,1,0
+2/7/2011,Peru,Colombia,1,0
+4/7/2011,Peru,Argentina,1,1
+6/7/2011,Peru,Brazil,0,0
+8/7/2011,Peru,Uruguay,1,0
+11/7/2011,Peru,Colombia,3,0
+12/7/2011,Peru,Croatia,1,0
+16/7/2011,Peru,Iceland,1,1
+16/7/2011,Poland,Germany,0,2
+19/7/2011,Poland,England,0,2
+10/8/2011,Poland,Russia,3,2
+10/8/2011,Poland,Sweden,3,0
+10/8/2011,Poland,Spain,1,0
+10/8/2011,Poland,England,0,2
+2/9/2011,Poland,Iceland,1,1
+6/9/2011,Poland,Japan,3,1
+6/9/2011,Poland,Belgium,2,2
+6/9/2011,Poland,Sweden,1,3
+14/9/2011,Poland,Serbia,0,0
+28/9/2011,Poland,Denmark,2,0
+7/10/2011,Poland,England,0,1
+7/10/2011,Poland,Serbia,2,2
+7/10/2011,Poland,Iceland,5,3
+11/10/2011,Poland,Colombia,2,1
+11/10/2011,Poland,Serbia,3,1
+11/10/2011,Poland,Portugal,1,2
+11/11/2011,Poland,Belgium,2,0
+11/11/2011,Poland,Denmark,2,0
+11/11/2011,Poland,Croatia,2,0
+12/11/2011,Poland,Australia,1,0
+15/11/2011,Poland,Argentina,1,2
+15/11/2011,Poland,France,2,2
+15/11/2011,Poland,Mexico,1,0
+15/11/2011,Poland,Germany,0,0
+23/1/2012,Poland,Portugal,1,2
+24/2/2012,Poland,Russia,3,1
+29/2/2012,Poland,England,4,2
+29/2/2012,Poland,Uruguay,1,3
+29/2/2012,Poland,Denmark,0,2
+29/2/2012,Poland,Germany,1,2
+29/2/2012,Poland,Iceland,0,2
+29/2/2012,Poland,Serbia,0,0
+29/2/2012,Poland,Portugal,1,3
+29/2/2012,Poland,Denmark,1,1
+23/5/2012,Poland,Uruguay,1,0
+25/5/2012,Poland,Mexico,0,1
+25/5/2012,Poland,Nigeria,1,1
+26/5/2012,Poland,Korea Republic,1,3
+26/5/2012,Portugal,Germany,2,0
+26/5/2012,Portugal,Germany,5,3
+27/5/2012,Portugal,France,3,2
+30/5/2012,Portugal,Denmark,4,1
+30/5/2012,Portugal,England,3,2
+31/5/2012,Portugal,Germany,2,0
+2/6/2012,Portugal,Brazil,2,0
+2/6/2012,Portugal,Poland,1,0
+3/6/2012,Portugal,Tunisia,2,0
+3/6/2012,Portugal,Brazil,0,1
+5/6/2012,Portugal,Spain,2,1
+9/6/2012,Portugal,England,3,4
+9/6/2012,Portugal,Sweden,1,0
+10/6/2012,Portugal,Russia,4,2
+11/6/2012,Portugal,Spain,1,1
+12/6/2012,Portugal,England,1,1
+12/6/2012,Portugal,Russia,1,1
+13/6/2012,Portugal,Croatia,2,3
+15/6/2012,Portugal,Iran,2,3
+17/6/2012,Portugal,Mexico,1,2
+18/6/2012,Portugal,France,0,1
+18/6/2012,Portugal,Brazil,4,0
+19/6/2012,Portugal,Belgium,2,0
+23/6/2012,Portugal,Poland,2,0
+27/6/2012,Portugal,Serbia,0,0
+15/8/2012,Portugal,Germany,0,1
+15/8/2012,Portugal,Denmark,2,4
+15/8/2012,Portugal,Sweden,0,0
+15/8/2012,Portugal,Brazil,1,3
+15/8/2012,Portugal,Denmark,2,2
+15/8/2012,Portugal,Spain,2,0
+15/8/2012,Portugal,Iceland,0,3
+7/9/2012,Portugal,Spain,4,0
+7/9/2012,Portugal,Panama,0,2
+7/9/2012,Portugal,Russia,5,0
+11/9/2012,Portugal,Sweden,1,1
+11/9/2012,Portugal,Argentina,1,0
+11/9/2012,Portugal,Serbia,1,1
+19/9/2012,Portugal,France,2,1
+12/10/2012,Portugal,Denmark,3,0
+12/10/2012,Portugal,Belgium,0,1
+12/10/2012,Portugal,Iceland,1,0
+12/10/2012,Portugal,Sweden,0,3
+16/10/2012,Portugal,Mexico,4,4
+16/10/2012,Portugal,Mexico,0,2
+16/10/2012,Portugal,Switzerland,1,0
+16/10/2012,Portugal,Saudi Arabia,0,4
+16/10/2012,Portugal,Tunisia,1,1
+17/10/2012,Russia,Poland,1,1
+14/11/2012,Russia,Germany,1,1
+14/11/2012,Russia,Brazil,1,2
+14/11/2012,Russia,Serbia,1,5
+14/11/2012,Russia,Switzerland,1,3
+14/11/2012,Russia,Serbia,0,0
+14/11/2012,Russia,France,4,2
+14/11/2012,Russia,France,1,2
+21/11/2012,Russia,Iceland,2,1
+9/12/2012,Russia,Serbia,0,0
+6/2/2013,Russia,Switzerland,4,0
+6/2/2013,Russia,Serbia,2,1
+6/2/2013,Russia,Tunisia,1,2
+6/2/2013,Russia,Sweden,0,2
+6/2/2013,Russia,Switzerland,2,2
+6/2/2013,Russia,Portugal,3,1
+6/2/2013,Russia,Brazil,2,3
+22/3/2013,Russia,Croatia,2,0
+25/3/2013,Russia,Poland,1,1
+26/3/2013,Russia,England,0,1
+17/4/2013,Russia,Serbia,0,0
+31/5/2013,Russia,Sweden,2,2
+1/6/2013,Russia,Spain,1,2
+2/6/2013,Russia,Argentina,2,2
+4/6/2013,Russia,Germany,1,1
+5/6/2013,Russia,Belgium,1,0
+7/6/2013,Russia,Serbia,0,0
+7/6/2013,Russia,Uruguay,2,1
+7/6/2013,Russia,Portugal,0,0
+7/6/2013,Russia,Brazil,1,0
+9/6/2013,Russia,Serbia,3,0
+10/6/2013,Russia,Korea Republic,0,1
+11/6/2013,Russia,Morocco,2,0
+11/6/2013,Russia,Korea Republic,0,0
+15/6/2013,Russia,Sweden,3,0
+16/6/2013,Russia,Portugal,2,1
+18/6/2013,Russia,Croatia,2,0
+18/6/2013,Russia,Serbia,0,1
+19/6/2013,Russia,Costa Rica,2,0
+20/6/2013,Russia,Belgium,1,2
+22/6/2013,Russia,Portugal,1,2
+23/6/2013,Russia,Mexico,0,3
+26/6/2013,Russia,Korea Republic,2,1
+30/6/2013,Russia,Iran,3,0
+7/7/2013,Russia,Argentina,1,2
+13/7/2013,Russia,Spain,0,0
+20/7/2013,Russia,Brazil,0,0
+24/7/2013,Russia,France,2,1
+25/7/2013,Saudi Arabia,Mexico,3,2
+28/7/2013,Saudi Arabia,Denmark,1,2
+14/8/2013,Saudi Arabia,Australia,0,0
+14/8/2013,Saudi Arabia,Iran,1,0
+14/8/2013,Saudi Arabia,Iran,2,4
+14/8/2013,Saudi Arabia,Iceland,0,0
+14/8/2013,Saudi Arabia,Brazil,3,2
+14/8/2013,Saudi Arabia,Mexico,1,0
+6/9/2013,Saudi Arabia,Australia,1,2
+6/9/2013,Saudi Arabia,Germany,1,1
+6/9/2013,Saudi Arabia,Mexico,4,4
+7/9/2013,Saudi Arabia,Denmark,6,0
+10/9/2013,Saudi Arabia,Senegal,3,1
+10/9/2013,Saudi Arabia,Japan,1,2
+10/9/2013,Saudi Arabia,Iran,2,0
+11/10/2013,Saudi Arabia,Iceland,3,1
+11/10/2013,Saudi Arabia,Brazil,1,2
+11/10/2013,Saudi Arabia,Denmark,6,0
+11/10/2013,Saudi Arabia,Uruguay,2,1
+11/10/2013,Saudi Arabia,Senegal,2,0
+12/10/2013,Saudi Arabia,Korea Republic,0,2
+15/10/2013,Saudi Arabia,Sweden,2,1
+15/10/2013,Saudi Arabia,Portugal,2,0
+15/10/2013,Saudi Arabia,Poland,3,5
+15/10/2013,Saudi Arabia,Spain,3,2
+14/11/2013,Saudi Arabia,Japan,0,2
+15/11/2013,Saudi Arabia,Iran,0,0
+15/11/2013,Saudi Arabia,Korea Republic,2,1
+15/11/2013,Saudi Arabia,Japan,1,0
+15/11/2013,Saudi Arabia,Australia,1,1
+19/11/2013,Saudi Arabia,Morocco,1,0
+19/11/2013,Saudi Arabia,Argentina,2,3
+19/11/2013,Saudi Arabia,Uruguay,2,0
+19/11/2013,Saudi Arabia,Australia,0,1
+19/11/2013,Saudi Arabia,Japan,2,1
+19/11/2013,Saudi Arabia,Peru,2,3
+21/1/2014,Senegal,Tunisia,0,2
+25/1/2014,Senegal,Nigeria,0,1
+25/1/2014,Senegal,Morocco,3,4
+29/1/2014,Senegal,Tunisia,4,0
+5/3/2014,Senegal,Uruguay,1,1
+5/3/2014,Senegal,Nigeria,1,0
+5/3/2014,Senegal,Nigeria,2,2
+13/5/2014,Senegal,Morocco,0,0
+28/5/2014,Senegal,Tunisia,1,0
+28/5/2014,Serbia,Uruguay,0,1
+30/5/2014,Serbia,Russia,3,0
+31/5/2014,Serbia,Russia,2,2
+1/6/2014,Serbia,Spain,0,2
+2/6/2014,Serbia,Korea Republic,1,3
+3/6/2014,Serbia,Nigeria,4,0
+3/6/2014,Serbia,Japan,2,0
+6/6/2014,Serbia,Iran,1,0
+6/6/2014,Serbia,Switzerland,1,0
+6/6/2014,Serbia,Croatia,0,1
+6/6/2014,Serbia,Spain,2,0
+7/6/2014,Serbia,Japan,1,0
+12/6/2014,Serbia,Switzerland,3,1
+14/6/2014,Serbia,Russia,1,3
+16/6/2014,Serbia,Spain,4,0
+16/6/2014,Serbia,Belgium,0,0
+17/6/2014,Serbia,Uruguay,0,0
+17/6/2014,Serbia,Belgium,1,1
+19/6/2014,Serbia,Portugal,2,1
+20/6/2014,Serbia,Poland,2,5
+21/6/2014,Serbia,Poland,1,0
+22/6/2014,Serbia,Sweden,1,0
+23/6/2014,Serbia,France,0,3
+23/6/2014,Serbia,Poland,1,3
+24/6/2014,Serbia,Belgium,0,0
+24/6/2014,Serbia,Croatia,1,4
+25/6/2014,Serbia,Japan,2,3
+26/6/2014,Serbia,France,0,1
+28/6/2014,Serbia,Denmark,2,0
+30/6/2014,Serbia,Portugal,2,0
+1/7/2014,Serbia,Morocco,1,0
+4/7/2014,Serbia,Nigeria,2,1
+4/7/2014,Spain,Uruguay,0,1
+5/7/2014,Spain,Germany,1,0
+8/7/2014,Spain,Belgium,1,7
+13/7/2014,Spain,Argentina,1,0
+3/9/2014,Spain,Serbia,2,4
+4/9/2014,Spain,Sweden,2,0
+4/9/2014,Spain,Nigeria,1,0
+5/9/2014,Spain,Russia,0,2
+7/9/2014,Spain,Croatia,2,2
+7/9/2014,Spain,Brazil,1,1
+8/9/2014,Spain,Argentina,3,2
+8/9/2014,Spain,Poland,0,1
+8/9/2014,Spain,France,0,2
+9/10/2014,Spain,France,1,1
+10/10/2014,Spain,Japan,1,1
+10/10/2014,Spain,Mexico,0,0
+11/10/2014,Spain,Portugal,0,2
+11/10/2014,Spain,Germany,2,1
+11/10/2014,Spain,Peru,2,0
+12/10/2014,Spain,Denmark,1,0
+14/10/2014,Spain,Russia,0,1
+14/10/2014,Spain,Belgium,0,4
+14/10/2014,Spain,England,1,3
+15/10/2014,Spain,Uruguay,1,0
+12/11/2014,Spain,Serbia,2,1
+12/11/2014,Spain,Russia,3,1
+13/11/2014,Spain,Croatia,3,3
+14/11/2014,Spain,Tunisia,1,3
+18/11/2014,Spain,France,1,0
+18/11/2014,Spain,Argentina,1,0
+18/11/2014,Spain,Denmark,2,1
+18/11/2014,Spain,Iceland,1,0
+18/11/2014,Spain,Sweden,0,1
+4/1/2015,Spain,France,2,0
+17/1/2015,Spain,Peru,0,1
+31/1/2015,Spain,Russia,2,1
+25/3/2015,Spain,England,2,2
+26/3/2015,Spain,Belgium,1,3
+27/3/2015,Spain,Argentina,2,0
+28/3/2015,Spain,Saudi Arabia,0,1
+29/3/2015,Spain,Korea Republic,2,0
+29/3/2015,Spain,Poland,2,1
+31/3/2015,Spain,Switzerland,2,1
+31/3/2015,Spain,Portugal,3,1
+6/6/2015,Spain,Colombia,1,0
+7/6/2015,Spain,Serbia,2,0
+7/6/2015,Spain,Korea Republic,3,4
+11/6/2015,Spain,France,2,1
+13/6/2015,Spain,Saudi Arabia,2,0
+14/6/2015,Spain,France,2,1
+15/6/2015,Spain,Uruguay,1,1
+16/6/2015,Spain,Uruguay,1,0
+17/6/2015,Spain,Germany,0,1
+21/6/2015,Spain,Costa Rica,0,0
+26/6/2015,Spain,England,0,0
+27/6/2015,Spain,Korea Republic,2,2
+19/7/2015,Spain,Colombia,1,0
+22/7/2015,Spain,Costa Rica,1,2
+5/8/2015,Spain,Argentina,1,1
+4/9/2015,Spain,Switzerland,3,1
+4/9/2015,Sweden,Iceland,0,1
+5/9/2015,Sweden,Japan,0,1
+5/9/2015,Sweden,Switzerland,1,0
+7/9/2015,Sweden,Denmark,2,1
+8/9/2015,Sweden,Poland,2,0
+8/9/2015,Sweden,France,2,2
+8/10/2015,Sweden,Denmark,2,0
+8/10/2015,Sweden,Russia,1,0
+11/10/2015,Sweden,England,1,2
+11/10/2015,Sweden,Poland,1,2
+13/10/2015,Sweden,Spain,1,1
+13/10/2015,Sweden,Switzerland,3,0
+25/10/2015,Sweden,Nigeria,2,3
+13/11/2015,Sweden,Argentina,1,1
+13/11/2015,Sweden,Senegal,2,0
+13/11/2015,Sweden,Portugal,4,2
+13/11/2015,Sweden,Croatia,2,0
+14/11/2015,Sweden,Poland,1,0
+14/11/2015,Sweden,England,2,1
+17/11/2015,Sweden,Poland,3,0
+17/11/2015,Sweden,Croatia,0,1
+17/11/2015,Sweden,Korea Republic,2,2
+17/11/2015,Sweden,Iceland,2,0
+17/11/2015,Sweden,England,1,3
+22/1/2016,Sweden,Spain,1,1
+23/3/2016,Sweden,Iceland,1,0
+24/3/2016,Sweden,Denmark,2,1
+25/3/2016,Sweden,Spain,2,2
+26/3/2016,Sweden,France,2,3
+29/3/2016,Sweden,Portugal,4,2
+29/3/2016,Sweden,Denmark,2,1
+29/3/2016,Sweden,Germany,1,0
+27/5/2016,Sweden,Iceland,2,1
+28/5/2016,Sweden,Serbia,1,2
+1/6/2016,Sweden,England,6,1
+2/6/2016,Sweden,France,1,0
+5/6/2016,Sweden,Brazil,3,1
+5/6/2016,Sweden,England,1,1
+10/6/2016,Sweden,Argentina,5,0
+11/6/2016,Sweden,Germany,2,3
+11/6/2016,Sweden,Portugal,1,1
+12/6/2016,Sweden,Belgium,0,1
+14/6/2016,Sweden,Russia,1,1
+16/6/2016,Sweden,Iran,0,0
+17/6/2016,Sweden,Denmark,0,0
+19/6/2016,Sweden,Belgium,0,0
+21/6/2016,Sweden,France,2,1
+22/6/2016,Sweden,Denmark,0,1
+25/6/2016,Sweden,Peru,0,1
+25/6/2016,Switzerland,Germany,1,1
+27/6/2016,Switzerland,England,1,2
+30/6/2016,Switzerland,Serbia,1,1
+3/7/2016,Switzerland,Denmark,5,2
+7/7/2016,Switzerland,Russia,2,0
+10/7/2016,Switzerland,Poland,0,1
+1/9/2016,Switzerland,Sweden,1,0
+1/9/2016,Switzerland,Serbia,0,2
+6/9/2016,Switzerland,Russia,2,1
+6/9/2016,Switzerland,France,3,1
+6/9/2016,Switzerland,Germany,2,0
+6/10/2016,Switzerland,Croatia,2,2
+6/10/2016,Switzerland,France,2,2
+8/10/2016,Switzerland,France,3,2
+9/10/2016,Switzerland,Korea Republic,3,4
+11/10/2016,Switzerland,Costa Rica,1,1
+11/10/2016,Switzerland,Brazil,2,2
+11/10/2016,Switzerland,Argentina,1,0
+11/10/2016,Switzerland,Japan,1,0
+10/11/2016,Switzerland,Nigeria,3,0
+11/11/2016,Switzerland,Germany,2,1
+12/11/2016,Switzerland,Portugal,2,0
+15/11/2016,Switzerland,Uruguay,3,0
+15/11/2016,Switzerland,Costa Rica,2,2
+15/11/2016,Switzerland,Australia,2,1
+15/11/2016,Switzerland,England,0,0
+15/11/2016,Switzerland,Argentina,0,2
+15/1/2017,Switzerland,Germany,0,2
+22/1/2017,Switzerland,Brazil,1,0
+26/1/2017,Switzerland,Iceland,1,0
+8/2/2017,Switzerland,Croatia,1,0
+22/3/2017,Switzerland,Peru,1,0
+23/3/2017,Switzerland,France,1,1
+23/3/2017,Switzerland,England,1,4
+24/3/2017,Switzerland,Belgium,2,0
+28/3/2017,Switzerland,Poland,0,2
+28/3/2017,Switzerland,Portugal,1,0
+28/3/2017,Switzerland,Panama,2,1
+28/3/2017,Switzerland,Japan,2,3
+28/3/2017,Tunisia,Senegal,3,3
+28/5/2017,Tunisia,Senegal,1,2
+6/6/2017,Tunisia,Nigeria,1,1
+7/6/2017,Tunisia,Serbia,2,2
+8/6/2017,Tunisia,Sweden,3,2
+8/6/2017,Tunisia,Morocco,0,0
+9/6/2017,Tunisia,Senegal,1,0
+9/6/2017,Tunisia,Switzerland,2,1
+11/6/2017,Tunisia,Morocco,1,0
+13/6/2017,Tunisia,Korea Republic,0,4
+13/6/2017,Tunisia,Belgium,3,2
+18/6/2017,Tunisia,France,2,2
+19/6/2017,Tunisia,Sweden,2,3
+21/6/2017,Tunisia,Senegal,0,1
+24/6/2017,Tunisia,Japan,1,2
+29/6/2017,Tunisia,Morocco,4,1
+2/7/2017,Tunisia,Senegal,2,1
+19/7/2017,Tunisia,Nigeria,1,0
+31/8/2017,Tunisia,Morocco,2,0
+31/8/2017,Tunisia,Morocco,0,0
+31/8/2017,Tunisia,Serbia,0,0
+1/9/2017,Tunisia,Uruguay,4,0
+1/9/2017,Tunisia,Saudi Arabia,1,0
+5/9/2017,Tunisia,Senegal,1,1
+5/9/2017,Tunisia,Nigeria,1,1
+5/9/2017,Tunisia,Saudi Arabia,1,0
+5/10/2017,Tunisia,France,0,0
+7/10/2017,Tunisia,Peru,4,2
+10/10/2017,Tunisia,Switzerland,1,3
+10/10/2017,Tunisia,Senegal,2,1
+10/10/2017,Tunisia,Morocco,1,1
+10/10/2017,Tunisia,Nigeria,2,0
+10/10/2017,Tunisia,Senegal,1,1
+9/11/2017,Tunisia,Iran,2,1
+10/11/2017,Tunisia,Costa Rica,3,3
+10/11/2017,Tunisia,Spain,0,0
+10/11/2017,Uruguay,Peru,1,3
+10/11/2017,Uruguay,Mexico,2,1
+10/11/2017,Uruguay,Colombia,0,0
+10/11/2017,Uruguay,Brazil,3,0
+11/11/2017,Uruguay,Peru,0,1
+11/11/2017,Uruguay,Argentina,5,0
+13/11/2017,Uruguay,Colombia,0,1
+14/11/2017,Uruguay,Australia,2,4
+14/11/2017,Uruguay,Colombia,1,0
+14/11/2017,Uruguay,Argentina,0,0
+14/11/2017,Uruguay,Costa Rica,2,2
+14/11/2017,Uruguay,Peru,1,1
+14/11/2017,Uruguay,Brazil,3,3
+16/12/2017,Uruguay,Costa Rica,1,4
+11/1/2018,Uruguay,Costa Rica,0,1
+22/3/2018,Uruguay,Colombia,1,0
+23/3/2018,Uruguay,Argentina,2,3
+23/3/2018,Uruguay,Australia,1,1
+23/3/2018,Uruguay,Korea Republic,3,0
+23/3/2018,Uruguay,Denmark,2,0
+23/3/2018,Uruguay,Iran,0,1
+23/3/2018,Uruguay,Peru,0,3
+23/3/2018,Uruguay,Peru,1,2
+23/3/2018,Uruguay,Brazil,1,0
+27/3/2018,Uruguay,Brazil,0,0
+27/3/2018,Uruguay,Colombia,4,0
+27/3/2018,Uruguay,Argentina,0,1
+27/3/2018,Uruguay,Australia,0,1
+27/3/2018,Uruguay,Peru,3,1
+27/3/2018,Uruguay,Brazil,3,2
+27/3/2018,Uruguay,Colombia,1,3
+27/3/2018,Uruguay,Peru,2,0
+27/3/2018,Uruguay,Brazil,6,1
+27/3/2018,Uruguay,Argentina,6,0
+27/3/2018,Uruguay,Costa Rica,1,0
+28/5/2018,Uruguay,France,2,2
+2/6/2018,Uruguay,Korea Republic,2,1
+2/6/2018,Uruguay,Germany,0,0
+2/6/2018,Uruguay,Peru,0,0
+3/6/2018,Uruguay,Mexico,0,3
+3/6/2018,Uruguay,Peru,1,1
+3/6/2018,Uruguay,France,0,2
+7/6/2018,Uruguay,Colombia,2,0
+8/6/2018,Uruguay,Argentina,2,1
+8/6/2018,Uruguay,Costa Rica,2,1
+8/6/2018,Uruguay,England,2,0
+9/6/2018,Uruguay,Costa Rica,2,0
+9/6/2018,Uruguay,Colombia,0,0
+9/6/2018,Uruguay,Peru,1,0
+11/6/2018,Uruguay,Brazil,0,2
+11/6/2018,Uruguay,Argentina,4,1

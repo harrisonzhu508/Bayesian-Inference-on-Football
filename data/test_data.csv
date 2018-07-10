@@ -1,0 +1,151 @@
+season,division,round,localTeam,visitorTeam,localGoals,visitorGoals,date
+2017-2018,1,2,Alaves,Barcelona,0,2,26/8/2017
+2017-2018,1,4,Alaves,Villarreal,0,3,17/9/2017
+2017-2018,1,6,Alaves,Real Madrid,1,2,23/9/2017
+2017-2018,1,8,Alaves,Real Sociedad,0,2,14/10/2017
+2017-2018,1,10,Alaves,Valencia,1,2,28/10/2017
+2017-2018,1,11,Alaves,Espanyol,1,0,4/11/2017
+2017-2018,1,13,Alaves,Eibar,1,2,25/11/2017
+2017-2018,1,15,Alaves,Las Palmas,2,0,8/12/2017
+2017-2018,1,1,Athletic Club,Getafe,0,0,20/8/2017
+2017-2018,1,3,Athletic Club,Girona,2,0,10/9/2017
+2017-2018,1,5,Athletic Club,Atletico de Madrid,1,2,20/9/2017
+2017-2018,1,8,Athletic Club,Sevilla,1,0,14/10/2017
+2017-2018,1,10,Athletic Club,Barcelona,0,2,28/10/2017
+2017-2018,1,12,Athletic Club,Villarreal,1,1,19/11/2017
+2017-2018,1,14,Athletic Club,Real Madrid,0,0,2/12/2017
+2017-2018,1,4,Atletico de Madrid,Malaga,1,0,16/9/2017
+2017-2018,1,6,Atletico de Madrid,Sevilla,2,0,23/9/2017
+2017-2018,1,8,Atletico de Madrid,Barcelona,1,1,14/10/2017
+2017-2018,1,10,Atletico de Madrid,Villarreal,1,1,28/10/2017
+2017-2018,1,12,Atletico de Madrid,Real Madrid,0,0,18/11/2017
+2017-2018,1,14,Atletico de Madrid,Real Sociedad,2,1,2/12/2017
+2017-2018,1,1,Barcelona,Betis,2,0,20/8/2017
+2017-2018,1,3,Barcelona,Espanyol,5,0,9/9/2017
+2017-2018,1,5,Barcelona,Eibar,6,1,19/9/2017
+2017-2018,1,7,Barcelona,Las Palmas,3,0,1/10/2017
+2017-2018,1,9,Barcelona,Malaga,2,0,21/10/2017
+2017-2018,1,11,Barcelona,Sevilla,2,1,4/11/2017
+2017-2018,1,14,Barcelona,Celta de Vigo,2,2,2/12/2017
+2017-2018,1,2,Betis,Celta de Vigo,2,1,25/8/2017
+2017-2018,1,4,Betis,Deportivo,2,1,16/9/2017
+2017-2018,1,6,Betis,Levante,4,0,25/9/2017
+2017-2018,1,8,Betis,Valencia,3,6,15/10/2017
+2017-2018,1,9,Betis,Alaves,2,0,21/10/2017
+2017-2018,1,11,Betis,Getafe,2,2,3/11/2017
+2017-2018,1,13,Betis,Girona,2,2,25/11/2017
+2017-2018,1,15,Betis,Atletico de Madrid,0,1,10/12/2017
+2017-2018,1,1,Celta de Vigo,Real Sociedad,2,3,19/8/2017
+2017-2018,1,3,Celta de Vigo,Alaves,1,0,10/9/2017
+2017-2018,1,5,Celta de Vigo,Getafe,1,1,21/9/2017
+2017-2018,1,7,Celta de Vigo,Girona,3,3,29/9/2017
+2017-2018,1,9,Celta de Vigo,Atletico de Madrid,0,1,22/10/2017
+2017-2018,1,11,Celta de Vigo,Athletic Club,3,1,5/11/2017
+2017-2018,1,13,Celta de Vigo,Leganes,1,0,24/11/2017
+2017-2018,1,1,Deportivo,Real Madrid,0,3,20/8/2017
+2017-2018,1,3,Deportivo,Real Sociedad,2,4,10/9/2017
+2017-2018,1,5,Deportivo,Alaves,1,0,20/9/2017
+2017-2018,1,7,Deportivo,Getafe,2,1,30/9/2017
+2017-2018,1,9,Deportivo,Girona,1,2,23/10/2017
+2017-2018,1,11,Deportivo,Atletico de Madrid,0,1,4/11/2017
+2017-2018,1,13,Deportivo,Athletic Club,2,2,26/11/2017
+2017-2018,1,15,Deportivo,Leganes,1,0,9/12/2017
+2017-2018,1,2,Eibar,Athletic Club,0,1,27/8/2017
+2017-2018,1,4,Eibar,Leganes,1,0,15/9/2017
+2017-2018,1,6,Eibar,Celta de Vigo,0,4,24/9/2017
+2017-2018,1,8,Eibar,Deportivo,0,0,15/10/2017
+2017-2018,1,10,Eibar,Levante,2,2,29/10/2017
+2017-2018,1,12,Eibar,Betis,5,0,20/11/2017
+2017-2018,1,14,Eibar,Espanyol,3,1,3/12/2017
+2017-2018,1,2,Espanyol,Leganes,0,1,27/8/2017
+2017-2018,1,4,Espanyol,Celta de Vigo,2,1,18/9/2017
+2017-2018,1,6,Espanyol,Deportivo,4,1,24/9/2017
+2017-2018,1,8,Espanyol,Levante,0,0,13/10/2017
+2017-2018,1,10,Espanyol,Betis,1,0,30/10/2017
+2017-2018,1,12,Espanyol,Valencia,0,2,19/11/2017
+2017-2018,1,13,Espanyol,Getafe,1,0,27/11/2017
+2017-2018,1,15,Espanyol,Girona,0,1,11/12/2017
+2017-2018,1,2,Getafe,Sevilla,0,1,27/8/2017
+2017-2018,1,4,Getafe,Barcelona,1,2,16/9/2017
+2017-2018,1,6,Getafe,Villarreal,4,0,24/9/2017
+2017-2018,1,8,Getafe,Real Madrid,1,2,14/10/2017
+2017-2018,1,10,Getafe,Real Sociedad,2,1,29/10/2017
+2017-2018,1,12,Getafe,Alaves,4,1,18/11/2017
+2017-2018,1,14,Getafe,Valencia,1,0,3/12/2017
+2017-2018,1,15,Getafe,Eibar,0,0,9/12/2017
+2017-2018,1,1,Girona,Atletico de Madrid,2,2,19/8/2017
+2017-2018,1,2,Girona,Malaga,1,0,26/8/2017
+2017-2018,1,4,Girona,Sevilla,0,1,17/9/2017
+2017-2018,1,6,Girona,Barcelona,0,3,23/9/2017
+2017-2018,1,8,Girona,Villarreal,1,2,15/10/2017
+2017-2018,1,10,Girona,Real Madrid,2,1,29/10/2017
+2017-2018,1,12,Girona,Real Sociedad,1,1,17/11/2017
+2017-2018,1,14,Girona,Alaves,2,3,4/12/2017
+2017-2018,1,2,Las Palmas,Atletico de Madrid,1,5,26/8/2017
+2017-2018,1,4,Las Palmas,Athletic Club,1,0,17/9/2017
+2017-2018,1,6,Las Palmas,Leganes,0,2,24/9/2017
+2017-2018,1,8,Las Palmas,Celta de Vigo,2,5,16/10/2017
+2017-2018,1,10,Las Palmas,Deportivo,1,3,30/10/2017
+2017-2018,1,12,Las Palmas,Levante,0,2,19/11/2017
+2017-2018,1,14,Las Palmas,Betis,1,0,3/12/2017
+2017-2018,1,1,Leganes,Alaves,1,0,18/8/2017
+2017-2018,1,3,Leganes,Getafe,1,2,8/9/2017
+2017-2018,1,5,Leganes,Girona,0,0,20/9/2017
+2017-2018,1,7,Leganes,Atletico de Madrid,0,0,30/9/2017
+2017-2018,1,9,Leganes,Athletic Club,1,0,22/10/2017
+2017-2018,1,12,Leganes,Barcelona,0,3,18/11/2017
+2017-2018,1,14,Leganes,Villarreal,3,1,3/12/2017
+2017-2018,1,1,Levante,Villarreal,1,0,21/8/2017
+2017-2018,1,2,Levante,Deportivo,2,2,26/8/2017
+2017-2018,1,4,Levante,Valencia,1,1,16/9/2017
+2017-2018,1,5,Levante,Real Sociedad,3,0,21/9/2017
+2017-2018,1,7,Levante,Alaves,0,2,30/9/2017
+2017-2018,1,9,Levante,Getafe,1,1,21/10/2017
+2017-2018,1,11,Levante,Girona,1,2,5/11/2017
+2017-2018,1,13,Levante,Atletico de Madrid,0,5,25/11/2017
+2017-2018,1,15,Levante,Athletic Club,1,2,10/12/2017
+2017-2018,1,1,Malaga,Eibar,0,1,21/8/2017
+2017-2018,1,3,Malaga,Las Palmas,1,3,11/9/2017
+2017-2018,1,6,Malaga,Athletic Club,3,3,23/9/2017
+2017-2018,1,8,Malaga,Leganes,0,2,15/10/2017
+2017-2018,1,10,Malaga,Celta de Vigo,2,1,29/10/2017
+2017-2018,1,12,Malaga,Deportivo,3,2,19/11/2017
+2017-2018,1,14,Malaga,Levante,0,0,1/12/2017
+2017-2018,1,2,Real Madrid,Valencia,2,2,27/8/2017
+2017-2018,1,3,Real Madrid,Levante,1,1,9/9/2017
+2017-2018,1,5,Real Madrid,Betis,0,1,20/9/2017
+2017-2018,1,7,Real Madrid,Espanyol,2,0,1/10/2017
+2017-2018,1,9,Real Madrid,Eibar,3,0,22/10/2017
+2017-2018,1,11,Real Madrid,Las Palmas,3,0,5/11/2017
+2017-2018,1,13,Real Madrid,Malaga,3,2,25/11/2017
+2017-2018,1,15,Real Madrid,Sevilla,5,0,9/12/2017
+2017-2018,1,2,Real Sociedad,Villarreal,3,0,25/8/2017
+2017-2018,1,4,Real Sociedad,Real Madrid,1,3,17/9/2017
+2017-2018,1,6,Real Sociedad,Valencia,2,3,24/9/2017
+2017-2018,1,7,Real Sociedad,Betis,4,4,1/10/2017
+2017-2018,1,9,Real Sociedad,Espanyol,1,1,23/10/2017
+2017-2018,1,11,Real Sociedad,Eibar,3,1,5/11/2017
+2017-2018,1,13,Real Sociedad,Las Palmas,2,2,26/11/2017
+2017-2018,1,15,Real Sociedad,Malaga,0,2,10/12/2017
+2017-2018,1,1,Sevilla,Espanyol,1,1,19/8/2017
+2017-2018,1,3,Sevilla,Eibar,3,0,9/9/2017
+2017-2018,1,5,Sevilla,Las Palmas,1,0,20/9/2017
+2017-2018,1,7,Sevilla,Malaga,2,0,30/9/2017
+2017-2018,1,10,Sevilla,Leganes,2,1,28/10/2017
+2017-2018,1,12,Sevilla,Celta de Vigo,2,1,18/11/2017
+2017-2018,1,14,Sevilla,Deportivo,2,0,2/12/2017
+2017-2018,1,1,Valencia,Las Palmas,1,0,18/8/2017
+2017-2018,1,3,Valencia,Atletico de Madrid,0,0,9/9/2017
+2017-2018,1,5,Valencia,Malaga,5,0,19/9/2017
+2017-2018,1,7,Valencia,Athletic Club,3,2,1/10/2017
+2017-2018,1,9,Valencia,Sevilla,4,0,21/10/2017
+2017-2018,1,11,Valencia,Leganes,3,0,4/11/2017
+2017-2018,1,13,Valencia,Barcelona,1,1,26/11/2017
+2017-2018,1,15,Valencia,Celta de Vigo,2,1,9/12/2017
+2017-2018,1,3,Villarreal,Betis,3,1,10/9/2017
+2017-2018,1,5,Villarreal,Espanyol,0,0,21/9/2017
+2017-2018,1,7,Villarreal,Eibar,3,0,1/10/2017
+2017-2018,1,9,Villarreal,Las Palmas,4,0,22/10/2017
+2017-2018,1,11,Villarreal,Malaga,2,0,5/11/2017
+2017-2018,1,13,Villarreal,Sevilla,2,3,26/11/2017
+2017-2018,1,15,Villarreal,Barcelona,0,2,10/12/2017

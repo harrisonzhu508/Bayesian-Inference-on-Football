@@ -1,0 +1,1206 @@
+season,division,round,localTeam,visitorTeam,localGoals,visitorGoals,date
+2013-14,2,2,Alaves,Las Palmas,1,1,24/8/2013
+2013-14,2,19,Alaves,Eibar,0,2,21/12/2013
+2013-14,2,22,Alaves,Girona,1,1,18/1/2014
+2013-14,2,38,Alaves,Deportivo,1,1,11/5/2014
+2014-15,2,21,Alaves,Las Palmas,1,1,17/1/2015
+2014-15,2,22,Alaves,Leganes,2,0,24/1/2015
+2014-15,2,35,Alaves,Betis,1,2,25/4/2015
+2014-15,2,39,Alaves,Girona,0,3,20/5/2015
+2015-16,2,6,Alaves,Leganes,0,0,27/9/2015
+2015-16,2,13,Alaves,Girona,1,0,14/11/2015
+2009-10,1,1,Athletic Club,Espanyol,1,0,30/8/2009
+2009-10,1,5,Athletic Club,Sevilla,0,4,26/9/2009
+2009-10,1,9,Athletic Club,Atletico de Madrid,1,0,31/10/2009
+2009-10,1,11,Athletic Club,Barcelona,1,1,21/11/2009
+2009-10,1,18,Athletic Club,Real Madrid,1,0,16/1/2010
+2009-10,1,27,Athletic Club,Getafe,2,2,20/3/2010
+2009-10,1,36,Athletic Club,Malaga,1,1,5/5/2010
+2009-10,1,38,Athletic Club,Deportivo,2,0,15/5/2010
+2010-11,1,2,Athletic Club,Atletico de Madrid,1,2,11/9/2010
+2010-11,1,5,Athletic Club,Barcelona,1,3,25/9/2010
+2010-11,1,9,Athletic Club,Getafe,3,0,31/10/2010
+2010-11,1,15,Athletic Club,Espanyol,2,1,12/12/2010
+2010-11,1,17,Athletic Club,Deportivo,1,2,2/1/2011
+2010-11,1,27,Athletic Club,Sevilla,2,0,6/3/2011
+2010-11,1,31,Athletic Club,Real Madrid,0,3,9/4/2011
+2010-11,1,33,Athletic Club,Real Sociedad,2,1,23/4/2011
+2010-11,1,35,Athletic Club,Levante,3,2,7/5/2011
+2010-11,1,37,Athletic Club,Malaga,1,1,15/5/2011
+2011-12,1,4,Athletic Club,Betis,2,3,18/9/2011
+2011-12,1,10,Athletic Club,Atletico de Madrid,3,0,27/10/2011
+2011-12,1,12,Athletic Club,Barcelona,2,2,6/11/2011
+2011-12,1,19,Athletic Club,Levante,3,0,15/1/2012
+2011-12,1,22,Athletic Club,Espanyol,3,3,4/2/2012
+2011-12,1,24,Athletic Club,Malaga,3,0,19/2/2012
+2011-12,1,26,Athletic Club,Real Sociedad,2,0,4/3/2012
+2011-12,1,32,Athletic Club,Sevilla,1,0,8/4/2012
+2011-12,1,20,Athletic Club,Real Madrid,0,3,2/5/2012
+2011-12,1,37,Athletic Club,Getafe,0,0,5/5/2012
+2012-13,1,1,Athletic Club,Betis,3,5,19/8/2012
+2012-13,1,5,Athletic Club,Malaga,0,0,23/9/2012
+2012-13,1,9,Athletic Club,Getafe,1,2,28/10/2012
+2012-13,1,11,Athletic Club,Sevilla,2,1,11/11/2012
+2012-13,1,13,Athletic Club,Deportivo,1,1,25/11/2012
+2012-13,1,15,Athletic Club,Celta de Vigo,1,0,9/12/2012
+2012-13,1,21,Athletic Club,Atletico de Madrid,3,0,27/1/2013
+2012-13,1,23,Athletic Club,Espanyol,0,4,10/2/2013
+2012-13,1,25,Athletic Club,Real Sociedad,1,3,22/2/2013
+2012-13,1,31,Athletic Club,Real Madrid,0,3,14/4/2013
+2012-13,1,33,Athletic Club,Barcelona,2,2,27/4/2013
+2012-13,1,37,Athletic Club,Levante,0,1,26/5/2013
+2013-14,1,4,Athletic Club,Celta de Vigo,3,2,16/9/2013
+2013-14,1,6,Athletic Club,Betis,2,1,26/9/2013
+2013-14,1,13,Athletic Club,Levante,2,1,9/11/2013
+2013-14,1,15,Athletic Club,Barcelona,1,0,1/12/2013
+2013-14,1,22,Athletic Club,Real Madrid,1,1,2/2/2014
+2013-14,1,24,Athletic Club,Espanyol,1,2,16/2/2014
+2013-14,1,29,Athletic Club,Getafe,1,0,22/3/2014
+2013-14,1,31,Athletic Club,Atletico de Madrid,1,2,29/3/2014
+2013-14,1,33,Athletic Club,Malaga,3,0,14/4/2014
+2013-14,1,35,Athletic Club,Sevilla,3,1,27/4/2014
+2013-14,1,37,Athletic Club,Real Sociedad,1,1,11/5/2014
+2014-15,1,2,Athletic Club,Levante,3,0,30/8/2014
+2014-15,1,6,Athletic Club,Eibar,0,0,27/9/2014
+2014-15,1,8,Athletic Club,Celta de Vigo,1,1,18/10/2014
+2014-15,1,10,Athletic Club,Sevilla,1,0,2/11/2014
+2014-15,1,12,Athletic Club,Espanyol,3,1,21/11/2014
+2014-15,1,16,Athletic Club,Atletico de Madrid,1,4,21/12/2014
+2014-15,1,20,Athletic Club,Malaga,1,1,25/1/2015
+2014-15,1,22,Athletic Club,Barcelona,2,5,8/2/2015
+2014-15,1,26,Athletic Club,Real Madrid,1,0,7/3/2015
+2014-15,1,32,Athletic Club,Getafe,4,0,18/4/2015
+2014-15,1,34,Athletic Club,Real Sociedad,1,1,28/4/2015
+2014-15,1,36,Athletic Club,Deportivo,1,1,9/5/2015
+2015-16,1,1,Athletic Club,Barcelona,0,1,23/8/2015
+2015-16,1,3,Athletic Club,Getafe,3,1,13/9/2015
+2015-16,1,5,Athletic Club,Real Madrid,1,2,23/9/2015
+2015-16,1,11,Athletic Club,Espanyol,2,1,8/11/2015
+2015-16,1,14,Athletic Club,Malaga,0,0,6/12/2015
+2015-16,1,16,Athletic Club,Levante,2,0,20/12/2015
+2015-16,1,18,Athletic Club,Las Palmas,2,2,3/1/2016
+2015-16,1,21,Athletic Club,Eibar,5,2,24/1/2016
+2015-16,1,25,Athletic Club,Real Sociedad,0,1,21/2/2016
+2015-16,1,27,Athletic Club,Deportivo,4,1,2/3/2016
+2015-16,1,29,Athletic Club,Betis,3,1,13/3/2016
+2015-16,1,34,Athletic Club,Atletico de Madrid,0,1,20/4/2016
+2015-16,1,36,Athletic Club,Celta de Vigo,2,1,1/5/2016
+2015-16,1,38,Athletic Club,Sevilla,3,1,14/5/2016
+2009-10,1,10,Atletico de Madrid,Real Madrid,2,3,7/11/2009
+2009-10,1,12,Atletico de Madrid,Espanyol,4,0,29/11/2009
+2009-10,1,16,Atletico de Madrid,Sevilla,2,1,2/1/2010
+2009-10,1,20,Atletico de Madrid,Malaga,0,2,31/1/2010
+2009-10,1,22,Atletico de Madrid,Barcelona,2,1,14/2/2010
+2009-10,1,28,Atletico de Madrid,Athletic Club,2,0,25/3/2010
+2009-10,1,30,Atletico de Madrid,Deportivo,3,0,4/4/2010
+2009-10,1,38,Atletico de Madrid,Getafe,0,3,15/5/2010
+2010-11,1,3,Atletico de Madrid,Barcelona,1,2,19/9/2010
+2010-11,1,7,Atletico de Madrid,Getafe,2,0,16/10/2010
+2010-11,1,13,Atletico de Madrid,Espanyol,2,3,27/11/2010
+2010-11,1,15,Atletico de Madrid,Deportivo,2,0,11/12/2010
+2010-11,1,21,Atletico de Madrid,Athletic Club,0,2,30/1/2011
+2010-11,1,25,Atletico de Madrid,Sevilla,2,2,26/2/2011
+2010-11,1,29,Atletico de Madrid,Real Madrid,1,2,19/3/2011
+2010-11,1,31,Atletico de Madrid,Real Sociedad,3,0,10/4/2011
+2010-11,1,33,Atletico de Madrid,Levante,4,1,24/4/2011
+2010-11,1,35,Atletico de Madrid,Malaga,0,3,7/5/2011
+2011-12,1,7,Atletico de Madrid,Sevilla,0,0,2/10/2011
+2011-12,1,13,Atletico de Madrid,Levante,3,2,20/11/2011
+2011-12,1,17,Atletico de Madrid,Betis,0,2,18/12/2011
+2011-12,1,25,Atletico de Madrid,Barcelona,1,2,26/2/2012
+2011-12,1,29,Atletico de Madrid,Athletic Club,2,1,21/3/2012
+2011-12,1,31,Atletico de Madrid,Getafe,3,0,1/4/2012
+2011-12,1,33,Atletico de Madrid,Real Madrid,1,4,11/4/2012
+2011-12,1,35,Atletico de Madrid,Espanyol,3,1,22/4/2012
+2011-12,1,20,Atletico de Madrid,Real Sociedad,1,1,2/5/2012
+2011-12,1,37,Atletico de Madrid,Malaga,2,1,5/5/2012
+2012-13,1,2,Atletico de Madrid,Athletic Club,4,0,27/8/2012
+2012-13,1,7,Atletico de Madrid,Malaga,2,1,7/10/2012
+2012-13,1,11,Atletico de Madrid,Getafe,2,0,11/11/2012
+2012-13,1,13,Atletico de Madrid,Sevilla,4,0,25/11/2012
+2012-13,1,15,Atletico de Madrid,Deportivo,6,0,9/12/2012
+2012-13,1,17,Atletico de Madrid,Celta de Vigo,1,0,21/12/2012
+2012-13,1,20,Atletico de Madrid,Levante,2,0,20/1/2013
+2012-13,1,22,Atletico de Madrid,Betis,1,0,3/2/2013
+2012-13,1,25,Atletico de Madrid,Espanyol,1,0,24/2/2013
+2012-13,1,27,Atletico de Madrid,Real Sociedad,0,1,10/3/2013
+2012-13,1,33,Atletico de Madrid,Real Madrid,1,2,27/4/2013
+2012-13,1,35,Atletico de Madrid,Barcelona,1,2,12/5/2013
+2013-14,1,8,Atletico de Madrid,Celta de Vigo,2,1,6/10/2013
+2013-14,1,10,Atletico de Madrid,Betis,5,0,27/10/2013
+2013-14,1,12,Atletico de Madrid,Athletic Club,2,0,3/11/2013
+2013-14,1,14,Atletico de Madrid,Getafe,7,0,23/11/2013
+2013-14,1,17,Atletico de Madrid,Levante,3,2,21/12/2013
+2013-14,1,19,Atletico de Madrid,Barcelona,0,0,11/1/2014
+2013-14,1,20,Atletico de Madrid,Sevilla,1,1,19/1/2014
+2013-14,1,22,Atletico de Madrid,Real Sociedad,4,0,2/2/2014
+2013-14,1,26,Atletico de Madrid,Real Madrid,2,2,2/3/2014
+2013-14,1,28,Atletico de Madrid,Espanyol,1,0,15/3/2014
+2013-14,1,37,Atletico de Madrid,Malaga,1,1,11/5/2014
+2014-15,1,2,Atletico de Madrid,Eibar,2,1,30/8/2014
+2014-15,1,4,Atletico de Madrid,Celta de Vigo,2,2,20/9/2014
+2014-15,1,6,Atletico de Madrid,Sevilla,4,0,27/9/2014
+2014-15,1,8,Atletico de Madrid,Espanyol,2,0,19/10/2014
+2014-15,1,12,Atletico de Madrid,Malaga,3,1,22/11/2014
+2014-15,1,13,Atletico de Madrid,Deportivo,2,0,30/11/2014
+2014-15,1,17,Atletico de Madrid,Levante,3,1,3/1/2015
+2014-15,1,22,Atletico de Madrid,Real Madrid,4,0,7/2/2015
+2014-15,1,28,Atletico de Madrid,Getafe,2,0,21/3/2015
+2014-15,1,30,Atletico de Madrid,Real Sociedad,2,0,7/4/2015
+2014-15,1,35,Atletico de Madrid,Athletic Club,0,0,2/5/2015
+2014-15,1,37,Atletico de Madrid,Barcelona,0,1,17/5/2015
+2015-16,1,1,Atletico de Madrid,Las Palmas,1,0,22/8/2015
+2015-16,1,3,Atletico de Madrid,Barcelona,1,2,12/9/2015
+2015-16,1,5,Atletico de Madrid,Getafe,2,0,22/9/2015
+2015-16,1,7,Atletico de Madrid,Real Madrid,1,1,4/10/2015
+2015-16,1,13,Atletico de Madrid,Espanyol,1,0,28/11/2015
+2015-16,1,15,Atletico de Madrid,Athletic Club,2,1,13/12/2015
+2015-16,1,18,Atletico de Madrid,Levante,1,0,2/1/2016
+2015-16,1,21,Atletico de Madrid,Sevilla,0,0,24/1/2016
+2015-16,1,23,Atletico de Madrid,Eibar,3,1,6/2/2016
+2015-16,1,27,Atletico de Madrid,Real Sociedad,3,0,1/3/2016
+2015-16,1,29,Atletico de Madrid,Deportivo,3,0,12/3/2016
+2015-16,1,31,Atletico de Madrid,Betis,5,1,2/4/2016
+2015-16,1,35,Atletico de Madrid,Malaga,1,0,23/4/2016
+2015-16,1,38,Atletico de Madrid,Celta de Vigo,2,0,14/5/2016
+2009-10,1,3,Barcelona,Atletico de Madrid,5,2,19/9/2009
+2009-10,1,12,Barcelona,Real Madrid,1,0,29/11/2009
+2009-10,1,14,Barcelona,Espanyol,1,0,12/12/2009
+2009-10,1,18,Barcelona,Sevilla,4,0,16/1/2010
+2009-10,1,21,Barcelona,Getafe,2,1,6/2/2010
+2009-10,1,24,Barcelona,Malaga,2,1,27/2/2010
+2009-10,1,30,Barcelona,Athletic Club,4,1,3/4/2010
+2009-10,1,32,Barcelona,Deportivo,3,0,14/4/2010
+2010-11,1,9,Barcelona,Sevilla,5,0,30/10/2010
+2010-11,1,13,Barcelona,Real Madrid,5,0,29/11/2010
+2010-11,1,15,Barcelona,Real Sociedad,5,0,12/12/2010
+2010-11,1,17,Barcelona,Levante,2,1,2/1/2011
+2010-11,1,19,Barcelona,Malaga,4,1,16/1/2011
+2010-11,1,22,Barcelona,Atletico de Madrid,3,0,5/2/2011
+2010-11,1,24,Barcelona,Athletic Club,2,1,20/2/2011
+2010-11,1,29,Barcelona,Getafe,2,1,19/3/2011
+2010-11,1,35,Barcelona,Espanyol,2,0,8/5/2011
+2010-11,1,37,Barcelona,Deportivo,0,0,15/5/2011
+2011-12,1,6,Barcelona,Atletico de Madrid,5,0,24/9/2011
+2011-12,1,9,Barcelona,Sevilla,0,0,22/10/2011
+2011-12,1,15,Barcelona,Levante,5,0,3/12/2011
+2011-12,1,19,Barcelona,Betis,4,2,15/1/2012
+2011-12,1,22,Barcelona,Real Sociedad,2,1,4/2/2012
+2011-12,1,31,Barcelona,Athletic Club,2,0,31/3/2012
+2011-12,1,33,Barcelona,Getafe,4,0,10/4/2012
+2011-12,1,35,Barcelona,Real Madrid,1,2,21/4/2012
+2011-12,1,20,Barcelona,Malaga,4,1,2/5/2012
+2011-12,1,37,Barcelona,Espanyol,4,0,5/5/2012
+2012-13,1,1,Barcelona,Real Sociedad,5,1,19/8/2012
+2012-13,1,7,Barcelona,Real Madrid,2,2,7/10/2012
+2012-13,1,10,Barcelona,Celta de Vigo,3,1,3/11/2012
+2012-13,1,14,Barcelona,Athletic Club,5,1,1/12/2012
+2012-13,1,16,Barcelona,Atletico de Madrid,4,1,16/12/2012
+2012-13,1,18,Barcelona,Espanyol,4,0,6/1/2013
+2012-13,1,23,Barcelona,Getafe,6,1,10/2/2013
+2012-13,1,25,Barcelona,Sevilla,2,1,23/2/2013
+2012-13,1,27,Barcelona,Deportivo,2,0,9/3/2013
+2012-13,1,32,Barcelona,Levante,1,0,20/4/2013
+2012-13,1,34,Barcelona,Betis,4,2,5/5/2013
+2012-13,1,38,Barcelona,Malaga,4,1,1/6/2013
+2013-14,1,1,Barcelona,Levante,7,0,18/8/2013
+2013-14,1,4,Barcelona,Sevilla,3,2,14/9/2013
+2013-14,1,6,Barcelona,Real Sociedad,4,1,24/9/2013
+2013-14,1,10,Barcelona,Real Madrid,2,1,26/10/2013
+2013-14,1,12,Barcelona,Espanyol,1,0,1/11/2013
+2013-14,1,21,Barcelona,Malaga,3,0,26/1/2014
+2013-14,1,30,Barcelona,Celta de Vigo,3,0,26/3/2014
+2013-14,1,32,Barcelona,Betis,3,1,5/4/2014
+2013-14,1,34,Barcelona,Athletic Club,2,1,20/4/2014
+2013-14,1,36,Barcelona,Getafe,2,2,3/5/2014
+2013-14,1,38,Barcelona,Atletico de Madrid,1,1,17/5/2014
+2014-15,1,3,Barcelona,Athletic Club,2,0,13/9/2014
+2014-15,1,8,Barcelona,Eibar,3,0,18/10/2014
+2014-15,1,10,Barcelona,Celta de Vigo,0,1,1/11/2014
+2014-15,1,12,Barcelona,Sevilla,5,1,22/11/2014
+2014-15,1,14,Barcelona,Espanyol,5,1,7/12/2014
+2014-15,1,18,Barcelona,Atletico de Madrid,3,1,11/1/2015
+2014-15,1,23,Barcelona,Levante,5,0,15/2/2015
+2014-15,1,24,Barcelona,Malaga,0,1,21/2/2015
+2014-15,1,28,Barcelona,Real Madrid,2,1,22/3/2015
+2014-15,1,34,Barcelona,Getafe,6,0,28/4/2015
+2014-15,1,36,Barcelona,Real Sociedad,2,0,9/5/2015
+2014-15,1,38,Barcelona,Deportivo,2,2,23/5/2015
+2015-16,1,2,Barcelona,Malaga,1,0,29/8/2015
+2015-16,1,4,Barcelona,Levante,4,1,20/9/2015
+2015-16,1,6,Barcelona,Las Palmas,2,1,26/9/2015
+2015-16,1,9,Barcelona,Eibar,3,1,25/10/2015
+2015-16,1,13,Barcelona,Real Sociedad,4,0,28/11/2015
+2015-16,1,15,Barcelona,Deportivo,2,2,12/12/2015
+2015-16,1,17,Barcelona,Betis,4,0,30/12/2015
+2015-16,1,20,Barcelona,Athletic Club,6,0,17/1/2016
+2015-16,1,22,Barcelona,Atletico de Madrid,2,1,30/1/2016
+2015-16,1,24,Barcelona,Celta de Vigo,6,1,14/2/2016
+2015-16,1,26,Barcelona,Sevilla,2,1,28/2/2016
+2015-16,1,29,Barcelona,Getafe,6,0,12/3/2016
+2015-16,1,31,Barcelona,Real Madrid,1,2,2/4/2016
+2015-16,1,37,Barcelona,Espanyol,5,0,8/5/2016
+2009-10,2,12,Betis,Celta de Vigo,1,1,15/11/2009
+2009-10,2,14,Betis,Las Palmas,1,0,29/11/2009
+2009-10,2,30,Betis,Girona,0,1,27/3/2010
+2009-10,2,38,Betis,Real Sociedad,1,0,23/5/2010
+2009-10,2,42,Betis,Levante,4,0,19/6/2010
+2010-11,2,8,Betis,Girona,2,1,16/10/2010
+2010-11,2,28,Betis,Las Palmas,4,1,6/3/2011
+2010-11,2,32,Betis,Celta de Vigo,1,1,3/4/2011
+2011-12,1,7,Betis,Levante,0,1,2/10/2011
+2011-12,1,12,Betis,Malaga,0,0,5/11/2011
+2011-12,1,14,Betis,Real Sociedad,2,3,27/11/2011
+2011-12,1,1,Betis,Sevilla,1,1,21/1/2012
+2011-12,1,23,Betis,Athletic Club,2,1,11/2/2012
+2011-12,1,25,Betis,Getafe,1,1,25/2/2012
+2011-12,1,27,Betis,Real Madrid,2,3,10/3/2012
+2011-12,1,29,Betis,Espanyol,1,1,22/3/2012
+2011-12,1,36,Betis,Atletico de Madrid,2,2,29/4/2012
+2011-12,1,38,Betis,Barcelona,2,2,12/5/2012
+2012-13,1,5,Betis,Espanyol,1,0,22/9/2012
+2012-13,1,3,Betis,Atletico de Madrid,2,4,26/9/2012
+2012-13,1,7,Betis,Real Sociedad,2,0,6/10/2012
+2012-13,1,13,Betis,Real Madrid,1,0,24/11/2012
+2012-13,1,15,Betis,Barcelona,1,2,9/12/2012
+2012-13,1,19,Betis,Levante,2,0,13/1/2013
+2012-13,1,20,Betis,Athletic Club,1,1,21/1/2013
+2012-13,1,25,Betis,Malaga,3,0,24/2/2013
+2012-13,1,29,Betis,Getafe,0,0,1/4/2013
+2012-13,1,31,Betis,Sevilla,3,3,12/4/2013
+2012-13,1,33,Betis,Deportivo,1,1,29/4/2013
+2012-13,1,35,Betis,Celta de Vigo,1,0,12/5/2013
+2013-14,1,2,Betis,Celta de Vigo,1,2,25/8/2013
+2013-14,1,11,Betis,Levante,0,0,31/10/2013
+2013-14,1,13,Betis,Barcelona,1,4,10/11/2013
+2013-14,1,20,Betis,Real Madrid,0,5,18/1/2014
+2013-14,1,22,Betis,Espanyol,2,0,2/2/2014
+2013-14,1,25,Betis,Athletic Club,0,2,23/2/2014
+2013-14,1,27,Betis,Getafe,2,0,8/3/2014
+2013-14,1,29,Betis,Atletico de Madrid,0,2,23/3/2014
+2013-14,1,31,Betis,Malaga,1,2,31/3/2014
+2013-14,1,33,Betis,Sevilla,0,2,13/4/2014
+2013-14,1,35,Betis,Real Sociedad,0,1,26/4/2014
+2014-15,2,8,Betis,Las Palmas,0,0,12/10/2014
+2014-15,2,14,Betis,Alaves,1,2,23/11/2014
+2014-15,2,26,Betis,Girona,2,1,21/2/2015
+2014-15,2,30,Betis,Leganes,1,3,21/3/2015
+2015-16,1,3,Betis,Real Sociedad,1,0,12/9/2015
+2015-16,1,5,Betis,Deportivo,1,2,24/9/2015
+2015-16,1,8,Betis,Espanyol,1,3,17/10/2015
+2015-16,1,10,Betis,Athletic Club,1,3,1/11/2015
+2015-16,1,12,Betis,Atletico de Madrid,0,1,22/11/2015
+2015-16,1,14,Betis,Celta de Vigo,1,1,5/12/2015
+2015-16,1,16,Betis,Sevilla,0,0,19/12/2015
+2015-16,1,18,Betis,Eibar,0,4,3/1/2016
+2015-16,1,21,Betis,Real Madrid,1,1,24/1/2016
+2015-16,1,30,Betis,Malaga,0,1,19/3/2016
+2015-16,1,32,Betis,Levante,1,0,9/4/2016
+2015-16,1,34,Betis,Las Palmas,1,0,19/4/2016
+2015-16,1,36,Betis,Barcelona,0,2,30/4/2016
+2015-16,1,38,Betis,Getafe,2,1,15/5/2016
+2009-10,2,3,Celta de Vigo,Levante,1,1,12/9/2009
+2009-10,2,20,Celta de Vigo,Real Sociedad,0,1,16/1/2010
+2009-10,2,33,Celta de Vigo,Betis,1,1,18/4/2010
+2009-10,2,36,Celta de Vigo,Girona,2,1,8/5/2010
+2009-10,2,38,Celta de Vigo,Las Palmas,1,0,22/5/2010
+2010-11,2,11,Celta de Vigo,Betis,1,1,7/11/2010
+2010-11,2,15,Celta de Vigo,Las Palmas,2,0,5/12/2010
+2010-11,2,37,Celta de Vigo,Girona,0,4,7/5/2011
+2011-12,2,8,Celta de Vigo,Las Palmas,1,2,8/10/2011
+2011-12,2,1,Celta de Vigo,Girona,2,0,25/10/2011
+2011-12,2,34,Celta de Vigo,Deportivo,2,3,15/4/2012
+2012-13,1,1,Celta de Vigo,Malaga,0,1,18/8/2012
+2012-13,1,5,Celta de Vigo,Getafe,2,1,22/9/2012
+2012-13,1,7,Celta de Vigo,Sevilla,2,0,5/10/2012
+2012-13,1,9,Celta de Vigo,Deportivo,1,1,27/10/2012
+2012-13,1,14,Celta de Vigo,Levante,1,1,2/12/2012
+2012-13,1,16,Celta de Vigo,Betis,0,1,17/12/2012
+2012-13,1,21,Celta de Vigo,Real Sociedad,1,1,26/1/2013
+2012-13,1,27,Celta de Vigo,Real Madrid,1,2,10/3/2013
+2012-13,1,29,Celta de Vigo,Barcelona,2,2,30/3/2013
+2012-13,1,34,Celta de Vigo,Athletic Club,1,1,3/5/2013
+2012-13,1,36,Celta de Vigo,Atletico de Madrid,1,3,8/5/2013
+2012-13,1,38,Celta de Vigo,Espanyol,1,0,1/6/2013
+2013-14,1,1,Celta de Vigo,Espanyol,2,2,19/8/2013
+2013-14,1,9,Celta de Vigo,Levante,0,1,21/10/2013
+2013-14,1,11,Celta de Vigo,Barcelona,0,3,29/10/2013
+2013-14,1,21,Celta de Vigo,Betis,4,2,24/1/2014
+2013-14,1,23,Celta de Vigo,Athletic Club,0,0,10/2/2014
+2013-14,1,25,Celta de Vigo,Getafe,1,1,22/2/2014
+2013-14,1,27,Celta de Vigo,Atletico de Madrid,0,2,8/3/2014
+2013-14,1,29,Celta de Vigo,Malaga,0,2,21/3/2014
+2013-14,1,31,Celta de Vigo,Sevilla,1,0,29/3/2014
+2013-14,1,33,Celta de Vigo,Real Sociedad,2,2,12/4/2014
+2013-14,1,37,Celta de Vigo,Real Madrid,2,0,11/5/2014
+2014-15,1,1,Celta de Vigo,Getafe,3,1,24/8/2014
+2014-15,1,3,Celta de Vigo,Real Sociedad,2,2,13/9/2014
+2014-15,1,5,Celta de Vigo,Deportivo,2,1,23/9/2014
+2014-15,1,9,Celta de Vigo,Levante,3,0,24/10/2014
+2014-15,1,13,Celta de Vigo,Eibar,0,1,29/11/2014
+2014-15,1,23,Celta de Vigo,Atletico de Madrid,2,0,15/2/2015
+2014-15,1,27,Celta de Vigo,Athletic Club,1,2,14/3/2015
+2014-15,1,29,Celta de Vigo,Barcelona,0,1,5/4/2015
+2014-15,1,33,Celta de Vigo,Real Madrid,2,4,26/4/2015
+2014-15,1,34,Celta de Vigo,Malaga,1,0,29/4/2015
+2014-15,1,36,Celta de Vigo,Sevilla,1,1,10/5/2015
+2014-15,1,38,Celta de Vigo,Espanyol,3,2,23/5/2015
+2015-16,1,3,Celta de Vigo,Las Palmas,3,3,13/9/2015
+2015-16,1,5,Celta de Vigo,Barcelona,4,1,23/9/2015
+2015-16,1,7,Celta de Vigo,Getafe,0,0,2/10/2015
+2015-16,1,9,Celta de Vigo,Real Madrid,1,3,24/10/2015
+2015-16,1,15,Celta de Vigo,Espanyol,1,0,12/12/2015
+2015-16,1,17,Celta de Vigo,Athletic Club,0,1,30/12/2015
+2015-16,1,19,Celta de Vigo,Atletico de Madrid,0,2,10/1/2016
+2015-16,1,20,Celta de Vigo,Levante,4,3,16/1/2016
+2015-16,1,23,Celta de Vigo,Sevilla,1,1,7/2/2016
+2015-16,1,25,Celta de Vigo,Eibar,3,2,20/2/2016
+2015-16,1,29,Celta de Vigo,Real Sociedad,1,0,12/3/2016
+2015-16,1,31,Celta de Vigo,Deportivo,1,1,2/4/2016
+2015-16,1,33,Celta de Vigo,Betis,1,1,16/4/2016
+2015-16,1,37,Celta de Vigo,Malaga,1,0,8/5/2016
+2009-10,1,2,Deportivo,Malaga,1,0,13/9/2009
+2009-10,1,3,Deportivo,Espanyol,2,3,19/9/2009
+2009-10,1,7,Deportivo,Sevilla,1,0,17/10/2009
+2009-10,1,11,Deportivo,Atletico de Madrid,2,1,21/11/2009
+2009-10,1,13,Deportivo,Barcelona,1,3,5/12/2009
+2009-10,1,19,Deportivo,Athletic Club,3,1,23/1/2010
+2009-10,1,20,Deportivo,Real Madrid,1,3,30/1/2010
+2009-10,1,29,Deportivo,Getafe,1,3,28/3/2010
+2010-11,1,3,Deportivo,Getafe,2,2,20/9/2010
+2010-11,1,9,Deportivo,Espanyol,3,0,31/10/2010
+2010-11,1,12,Deportivo,Malaga,3,0,21/11/2010
+2010-11,1,18,Deportivo,Barcelona,0,4,8/1/2011
+2010-11,1,21,Deportivo,Sevilla,3,3,29/1/2011
+2010-11,1,25,Deportivo,Real Madrid,0,0,26/2/2011
+2010-11,1,27,Deportivo,Real Sociedad,2,1,7/3/2011
+2010-11,1,29,Deportivo,Levante,0,1,20/3/2011
+2010-11,1,34,Deportivo,Atletico de Madrid,0,1,30/4/2011
+2010-11,1,36,Deportivo,Athletic Club,2,1,10/5/2011
+2011-12,2,11,Deportivo,Girona,3,2,30/10/2011
+2011-12,2,13,Deportivo,Celta de Vigo,2,1,13/11/2011
+2011-12,2,39,Deportivo,Las Palmas,3,1,16/5/2012
+2012-13,1,3,Deportivo,Getafe,1,1,1/9/2012
+2012-13,1,5,Deportivo,Sevilla,0,2,24/9/2012
+2012-13,1,8,Deportivo,Barcelona,4,5,20/10/2012
+2012-13,1,12,Deportivo,Levante,0,2,18/11/2012
+2012-13,1,14,Deportivo,Betis,2,3,2/12/2012
+2012-13,1,18,Deportivo,Malaga,1,0,5/1/2013
+2012-13,1,25,Deportivo,Real Madrid,1,2,23/2/2013
+2012-13,1,28,Deportivo,Celta de Vigo,3,1,15/3/2013
+2012-13,1,32,Deportivo,Athletic Club,1,1,21/4/2013
+2012-13,1,34,Deportivo,Atletico de Madrid,0,0,4/5/2013
+2012-13,1,36,Deportivo,Espanyol,2,0,19/5/2013
+2012-13,1,38,Deportivo,Real Sociedad,0,1,1/6/2013
+2013-14,2,17,Deportivo,Alaves,2,1,7/12/2013
+2013-14,2,21,Deportivo,Girona,0,0,11/1/2014
+2013-14,2,22,Deportivo,Las Palmas,1,2,19/1/2014
+2013-14,2,39,Deportivo,Eibar,1,1,18/5/2014
+2014-15,1,4,Deportivo,Real Madrid,2,8,20/9/2014
+2014-15,1,10,Deportivo,Getafe,1,2,31/10/2014
+2014-15,1,12,Deportivo,Real Sociedad,0,0,22/11/2014
+2014-15,1,14,Deportivo,Malaga,0,1,6/12/2014
+2014-15,1,17,Deportivo,Athletic Club,1,0,3/1/2015
+2014-15,1,19,Deportivo,Barcelona,0,4,18/1/2015
+2014-15,1,22,Deportivo,Eibar,2,0,6/2/2015
+2014-15,1,24,Deportivo,Celta de Vigo,0,2,21/2/2015
+2014-15,1,26,Deportivo,Sevilla,3,4,7/3/2015
+2014-15,1,28,Deportivo,Espanyol,0,0,22/3/2015
+2014-15,1,32,Deportivo,Atletico de Madrid,1,2,18/4/2015
+2014-15,1,37,Deportivo,Levante,2,0,17/5/2015
+2015-16,1,1,Deportivo,Real Sociedad,0,0,22/8/2015
+2015-16,1,6,Deportivo,Espanyol,3,0,27/9/2015
+2015-16,1,8,Deportivo,Athletic Club,2,2,18/10/2015
+2015-16,1,10,Deportivo,Atletico de Madrid,1,1,30/10/2015
+2015-16,1,12,Deportivo,Celta de Vigo,2,0,21/11/2015
+2015-16,1,14,Deportivo,Sevilla,1,1,5/12/2015
+2015-16,1,16,Deportivo,Eibar,2,0,19/12/2015
+2015-16,1,24,Deportivo,Betis,2,2,13/2/2016
+2015-16,1,28,Deportivo,Malaga,3,3,5/3/2016
+2015-16,1,30,Deportivo,Levante,2,1,19/3/2016
+2015-16,1,32,Deportivo,Las Palmas,1,3,11/4/2016
+2015-16,1,34,Deportivo,Barcelona,0,8,20/4/2016
+2015-16,1,36,Deportivo,Getafe,0,2,1/5/2016
+2015-16,1,38,Deportivo,Real Madrid,0,2,14/5/2016
+2013-14,2,2,Eibar,Girona,0,3,24/8/2013
+2013-14,2,18,Eibar,Deportivo,2,1,15/12/2013
+2013-14,2,24,Eibar,Las Palmas,1,0,1/2/2014
+2013-14,2,40,Eibar,Alaves,1,0,25/5/2014
+2014-15,1,1,Eibar,Real Sociedad,1,0,24/8/2014
+2014-15,1,3,Eibar,Deportivo,0,1,15/9/2014
+2014-15,1,7,Eibar,Levante,3,3,4/10/2014
+2014-15,1,12,Eibar,Real Madrid,0,4,22/11/2014
+2014-15,1,18,Eibar,Getafe,2,1,10/1/2015
+2014-15,1,21,Eibar,Atletico de Madrid,1,3,31/1/2015
+2014-15,1,25,Eibar,Athletic Club,0,1,1/3/2015
+2014-15,1,27,Eibar,Barcelona,0,2,14/3/2015
+2014-15,1,30,Eibar,Malaga,1,0,7/4/2015
+2014-15,1,32,Eibar,Celta de Vigo,0,1,19/4/2015
+2014-15,1,34,Eibar,Sevilla,1,3,29/4/2015
+2014-15,1,36,Eibar,Espanyol,0,2,8/5/2015
+2015-16,1,2,Eibar,Athletic Club,2,0,30/8/2015
+2015-16,1,4,Eibar,Atletico de Madrid,0,2,19/9/2015
+2015-16,1,6,Eibar,Celta de Vigo,1,1,26/9/2015
+2015-16,1,8,Eibar,Sevilla,1,1,17/10/2015
+2015-16,1,11,Eibar,Getafe,3,1,7/11/2015
+2015-16,1,13,Eibar,Real Madrid,0,2,29/11/2015
+2015-16,1,19,Eibar,Espanyol,2,1,10/1/2016
+2015-16,1,22,Eibar,Malaga,1,2,30/1/2016
+2015-16,1,24,Eibar,Levante,2,0,14/2/2016
+2015-16,1,26,Eibar,Las Palmas,0,1,26/2/2016
+2015-16,1,28,Eibar,Barcelona,0,4,6/3/2016
+2015-16,1,33,Eibar,Real Sociedad,2,1,16/4/2016
+2015-16,1,35,Eibar,Deportivo,1,1,23/4/2016
+2015-16,1,37,Eibar,Betis,1,1,8/5/2016
+2009-10,1,2,Espanyol,Real Madrid,0,3,12/9/2009
+2009-10,1,4,Espanyol,Malaga,2,1,23/9/2009
+2009-10,1,11,Espanyol,Getafe,0,2,22/11/2009
+2009-10,1,20,Espanyol,Athletic Club,1,0,30/1/2010
+2009-10,1,22,Espanyol,Deportivo,2,0,14/2/2010
+2009-10,1,27,Espanyol,Sevilla,2,0,20/3/2010
+2009-10,1,31,Espanyol,Atletico de Madrid,3,0,11/4/2010
+2009-10,1,33,Espanyol,Barcelona,0,0,17/4/2010
+2010-11,1,1,Espanyol,Getafe,3,1,29/8/2010
+2010-11,1,8,Espanyol,Levante,2,1,24/10/2010
+2010-11,1,10,Espanyol,Malaga,1,0,6/11/2010
+2010-11,1,16,Espanyol,Barcelona,1,5,18/12/2010
+2010-11,1,23,Espanyol,Real Madrid,0,1,13/2/2011
+2010-11,1,25,Espanyol,Real Sociedad,4,1,26/2/2011
+2010-11,1,28,Espanyol,Deportivo,2,0,13/3/2011
+2010-11,1,32,Espanyol,Atletico de Madrid,2,2,17/4/2011
+2010-11,1,34,Espanyol,Athletic Club,2,1,2/5/2011
+2010-11,1,38,Espanyol,Sevilla,2,3,21/5/2011
+2011-12,1,3,Espanyol,Athletic Club,2,1,11/9/2011
+2011-12,1,5,Espanyol,Getafe,1,0,22/9/2011
+2011-12,1,7,Espanyol,Real Madrid,0,4,2/10/2011
+2011-12,1,10,Espanyol,Betis,1,0,27/10/2011
+2011-12,1,16,Espanyol,Atletico de Madrid,4,2,11/12/2011
+2011-12,1,18,Espanyol,Barcelona,1,1,8/1/2012
+2011-12,1,25,Espanyol,Levante,1,2,25/2/2012
+2011-12,1,30,Espanyol,Malaga,1,2,25/3/2012
+2011-12,1,32,Espanyol,Real Sociedad,2,2,7/4/2012
+2011-12,1,38,Espanyol,Sevilla,1,1,13/5/2012
+2012-13,1,4,Espanyol,Athletic Club,3,3,16/9/2012
+2012-13,1,6,Espanyol,Atletico de Madrid,0,1,30/9/2012
+2012-13,1,9,Espanyol,Malaga,0,0,27/10/2012
+2012-13,1,13,Espanyol,Getafe,0,2,25/11/2012
+2012-13,1,15,Espanyol,Sevilla,2,2,7/12/2012
+2012-13,1,17,Espanyol,Deportivo,2,0,20/12/2012
+2012-13,1,19,Espanyol,Celta de Vigo,1,0,12/1/2013
+2012-13,1,22,Espanyol,Levante,3,2,2/2/2013
+2012-13,1,24,Espanyol,Betis,1,0,17/2/2013
+2012-13,1,29,Espanyol,Real Sociedad,2,2,31/3/2013
+2012-13,1,35,Espanyol,Real Madrid,1,1,11/5/2013
+2012-13,1,37,Espanyol,Barcelona,0,2,26/5/2013
+2013-14,1,3,Espanyol,Betis,0,0,1/9/2013
+2013-14,1,5,Espanyol,Athletic Club,3,2,23/9/2013
+2013-14,1,7,Espanyol,Getafe,0,2,29/9/2013
+2013-14,1,9,Espanyol,Atletico de Madrid,1,0,19/10/2013
+2013-14,1,11,Espanyol,Malaga,0,0,29/10/2013
+2013-14,1,13,Espanyol,Sevilla,1,3,10/11/2013
+2013-14,1,15,Espanyol,Real Sociedad,1,2,30/11/2013
+2013-14,1,19,Espanyol,Real Madrid,0,1,12/1/2014
+2013-14,1,20,Espanyol,Celta de Vigo,1,0,18/1/2014
+2013-14,1,29,Espanyol,Levante,0,0,22/3/2014
+2013-14,1,31,Espanyol,Barcelona,0,1,29/3/2014
+2014-15,1,2,Espanyol,Sevilla,1,2,30/8/2014
+2014-15,1,4,Espanyol,Malaga,2,2,20/9/2014
+2014-15,1,5,Espanyol,Getafe,2,0,25/9/2014
+2014-15,1,7,Espanyol,Real Sociedad,2,0,5/10/2014
+2014-15,1,9,Espanyol,Deportivo,0,0,26/10/2014
+2014-15,1,13,Espanyol,Levante,2,1,29/11/2014
+2014-15,1,17,Espanyol,Eibar,1,2,4/1/2015
+2014-15,1,19,Espanyol,Celta de Vigo,1,0,17/1/2015
+2014-15,1,27,Espanyol,Atletico de Madrid,0,0,14/3/2015
+2014-15,1,31,Espanyol,Athletic Club,1,0,12/4/2015
+2014-15,1,33,Espanyol,Barcelona,0,2,25/4/2015
+2014-15,1,37,Espanyol,Real Madrid,1,4,17/5/2015
+2015-16,1,1,Espanyol,Getafe,1,0,22/8/2015
+2015-16,1,3,Espanyol,Real Madrid,0,6,12/9/2015
+2015-16,1,12,Espanyol,Malaga,2,0,21/11/2015
+2015-16,1,14,Espanyol,Levante,1,1,7/12/2015
+2015-16,1,16,Espanyol,Las Palmas,1,0,19/12/2015
+2015-16,1,18,Espanyol,Barcelona,0,0,2/1/2016
+2015-16,1,23,Espanyol,Real Sociedad,0,5,8/2/2016
+2015-16,1,25,Espanyol,Deportivo,1,0,20/2/2016
+2015-16,1,27,Espanyol,Betis,0,3,3/3/2016
+2015-16,1,30,Espanyol,Athletic Club,2,1,20/3/2016
+2015-16,1,32,Espanyol,Atletico de Madrid,1,3,9/4/2016
+2015-16,1,34,Espanyol,Celta de Vigo,1,1,19/4/2016
+2015-16,1,36,Espanyol,Sevilla,1,0,1/5/2016
+2015-16,1,38,Espanyol,Eibar,4,2,15/5/2016
+2009-10,1,2,Getafe,Barcelona,0,2,12/9/2009
+2009-10,1,8,Getafe,Athletic Club,2,0,25/10/2009
+2009-10,1,10,Getafe,Deportivo,0,2,7/11/2009
+2009-10,1,19,Getafe,Atletico de Madrid,1,0,24/1/2010
+2009-10,1,28,Getafe,Real Madrid,2,4,25/3/2010
+2009-10,1,30,Getafe,Espanyol,1,1,4/4/2010
+2009-10,1,34,Getafe,Sevilla,4,3,25/4/2010
+2009-10,1,37,Getafe,Malaga,2,1,8/5/2010
+2010-11,1,2,Getafe,Levante,4,1,12/9/2010
+2010-11,1,4,Getafe,Malaga,0,2,23/9/2010
+2010-11,1,10,Getafe,Barcelona,1,3,7/11/2010
+2010-11,1,17,Getafe,Real Madrid,2,3,3/1/2011
+2010-11,1,19,Getafe,Real Sociedad,0,4,15/1/2011
+2010-11,1,20,Getafe,Espanyol,1,3,23/1/2011
+2010-11,1,22,Getafe,Deportivo,4,1,5/2/2011
+2010-11,1,26,Getafe,Atletico de Madrid,1,1,2/3/2011
+2010-11,1,28,Getafe,Athletic Club,2,2,14/3/2011
+2010-11,1,32,Getafe,Sevilla,1,0,16/4/2011
+2011-12,1,2,Getafe,Levante,1,1,28/8/2011
+2011-12,1,6,Getafe,Betis,1,0,26/9/2011
+2011-12,1,12,Getafe,Atletico de Madrid,3,2,6/11/2011
+2011-12,1,14,Getafe,Barcelona,1,0,26/11/2011
+2011-12,1,18,Getafe,Athletic Club,0,0,8/1/2012
+2011-12,1,22,Getafe,Real Madrid,0,1,4/2/2012
+2011-12,1,24,Getafe,Espanyol,1,1,18/2/2012
+2011-12,1,26,Getafe,Malaga,1,3,3/3/2012
+2011-12,1,28,Getafe,Real Sociedad,1,0,17/3/2012
+2011-12,1,34,Getafe,Sevilla,5,1,16/4/2012
+2012-13,1,2,Getafe,Real Madrid,2,1,26/8/2012
+2012-13,1,4,Getafe,Barcelona,1,4,15/9/2012
+2012-13,1,8,Getafe,Levante,0,1,21/10/2012
+2012-13,1,10,Getafe,Betis,2,4,5/11/2012
+2012-13,1,14,Getafe,Malaga,1,0,1/12/2012
+2012-13,1,20,Getafe,Sevilla,1,1,19/1/2013
+2012-13,1,22,Getafe,Deportivo,3,1,2/2/2013
+2012-13,1,24,Getafe,Celta de Vigo,3,1,16/2/2013
+2012-13,1,28,Getafe,Athletic Club,1,0,16/3/2013
+2012-13,1,30,Getafe,Atletico de Madrid,0,0,7/4/2013
+2012-13,1,32,Getafe,Espanyol,0,2,21/4/2013
+2012-13,1,34,Getafe,Real Sociedad,2,1,6/5/2013
+2013-14,1,6,Getafe,Celta de Vigo,2,0,26/9/2013
+2013-14,1,8,Getafe,Betis,3,1,6/10/2013
+2013-14,1,10,Getafe,Athletic Club,0,1,28/10/2013
+2013-14,1,15,Getafe,Levante,1,0,29/11/2013
+2013-14,1,17,Getafe,Barcelona,2,5,22/12/2013
+2013-14,1,20,Getafe,Real Sociedad,2,2,19/1/2014
+2013-14,1,24,Getafe,Real Madrid,0,3,16/2/2014
+2013-14,1,26,Getafe,Espanyol,0,0,1/3/2014
+2013-14,1,33,Getafe,Atletico de Madrid,0,2,13/4/2014
+2013-14,1,35,Getafe,Malaga,1,0,26/4/2014
+2013-14,1,37,Getafe,Sevilla,1,0,11/5/2014
+2014-15,1,6,Getafe,Malaga,1,0,28/9/2014
+2014-15,1,9,Getafe,Atletico de Madrid,0,1,26/10/2014
+2014-15,1,13,Getafe,Athletic Club,1,2,29/11/2014
+2014-15,1,15,Getafe,Barcelona,0,0,13/12/2014
+2014-15,1,19,Getafe,Real Madrid,0,3,18/1/2015
+2014-15,1,20,Getafe,Celta de Vigo,2,1,26/1/2015
+2014-15,1,22,Getafe,Sevilla,2,1,8/2/2015
+2014-15,1,24,Getafe,Espanyol,2,1,20/2/2015
+2014-15,1,27,Getafe,Real Sociedad,0,1,16/3/2015
+2014-15,1,29,Getafe,Deportivo,2,1,5/4/2015
+2014-15,1,33,Getafe,Levante,0,1,25/4/2015
+2014-15,1,37,Getafe,Eibar,1,1,17/5/2015
+2015-16,1,4,Getafe,Malaga,1,0,18/9/2015
+2015-16,1,6,Getafe,Levante,3,0,27/9/2015
+2015-16,1,8,Getafe,Las Palmas,4,0,18/10/2015
+2015-16,1,10,Getafe,Barcelona,0,2,31/10/2015
+2015-16,1,15,Getafe,Real Sociedad,1,1,11/12/2015
+2015-16,1,17,Getafe,Deportivo,0,0,30/12/2015
+2015-16,1,19,Getafe,Betis,1,0,9/1/2016
+2015-16,1,20,Getafe,Espanyol,3,1,17/1/2016
+2015-16,1,22,Getafe,Athletic Club,0,1,30/1/2016
+2015-16,1,24,Getafe,Atletico de Madrid,0,1,14/2/2016
+2015-16,1,26,Getafe,Celta de Vigo,0,1,27/2/2016
+2015-16,1,28,Getafe,Sevilla,1,1,5/3/2016
+2015-16,1,30,Getafe,Eibar,1,1,18/3/2016
+2015-16,1,33,Getafe,Real Madrid,1,5,16/4/2016
+2009-10,2,9,Girona,Betis,0,2,24/10/2009
+2009-10,2,15,Girona,Celta de Vigo,1,2,5/12/2009
+2009-10,2,19,Girona,Las Palmas,0,2,10/1/2010
+2009-10,2,25,Girona,Real Sociedad,1,0,21/2/2010
+2009-10,2,33,Girona,Levante,0,4,16/4/2010
+2010-11,2,16,Girona,Celta de Vigo,1,1,11/12/2010
+2010-11,2,29,Girona,Betis,0,1,12/3/2011
+2010-11,2,33,Girona,Las Palmas,1,1,10/4/2011
+2011-12,2,6,Girona,Las Palmas,4,2,24/9/2011
+2011-12,2,22,Girona,Celta de Vigo,0,1,28/1/2012
+2011-12,2,32,Girona,Deportivo,1,0,31/3/2012
+2012-13,2,5,Girona,Las Palmas,5,0,16/9/2012
+2013-14,2,1,Girona,Alaves,1,0,16/8/2013
+2013-14,2,6,Girona,Las Palmas,0,2,22/9/2013
+2013-14,2,23,Girona,Eibar,1,1,25/1/2014
+2013-14,2,42,Girona,Deportivo,3,1,7/6/2014
+2014-15,2,5,Girona,Betis,1,3,21/9/2014
+2014-15,2,12,Girona,Las Palmas,1,2,8/11/2014
+2014-15,2,18,Girona,Alaves,2,2,20/12/2014
+2014-15,2,34,Girona,Leganes,2,1,18/4/2015
+2015-16,2,30,Girona,Leganes,1,1,20/3/2016
+2015-16,2,34,Girona,Alaves,1,0,16/4/2016
+2009-10,2,1,Las Palmas,Real Sociedad,1,1,29/8/2009
+2009-10,2,5,Las Palmas,Levante,0,1,26/9/2009
+2009-10,2,17,Las Palmas,Celta de Vigo,1,1,19/12/2009
+2009-10,2,35,Las Palmas,Betis,1,1,1/5/2010
+2009-10,2,40,Las Palmas,Girona,0,1,5/6/2010
+2010-11,2,7,Las Palmas,Betis,2,2,9/10/2010
+2010-11,2,12,Las Palmas,Girona,1,1,13/11/2010
+2010-11,2,36,Las Palmas,Celta de Vigo,1,1,30/4/2011
+2011-12,2,18,Las Palmas,Deportivo,0,1,18/12/2011
+2011-12,2,27,Las Palmas,Girona,3,2,3/3/2012
+2011-12,2,29,Las Palmas,Celta de Vigo,3,1,17/3/2012
+2012-13,2,26,Las Palmas,Girona,5,2,17/2/2013
+2013-14,2,1,Las Palmas,Deportivo,0,1,17/8/2013
+2013-14,2,3,Las Palmas,Eibar,1,1,31/8/2013
+2013-14,2,23,Las Palmas,Alaves,0,2,25/1/2014
+2013-14,2,27,Las Palmas,Girona,2,1,22/2/2014
+2014-15,2,16,Las Palmas,Leganes,1,0,6/12/2014
+2014-15,2,29,Las Palmas,Betis,0,3,15/3/2015
+2014-15,2,33,Las Palmas,Girona,2,0,12/4/2015
+2014-15,2,42,Las Palmas,Alaves,3,2,7/6/2015
+2015-16,1,2,Las Palmas,Levante,0,0,30/8/2015
+2015-16,1,5,Las Palmas,Sevilla,2,0,23/9/2015
+2015-16,1,7,Las Palmas,Eibar,0,2,3/10/2015
+2015-16,1,11,Las Palmas,Real Sociedad,2,0,6/11/2015
+2015-16,1,13,Las Palmas,Deportivo,0,2,28/11/2015
+2015-16,1,15,Las Palmas,Betis,1,0,12/12/2015
+2015-16,1,19,Las Palmas,Malaga,1,1,10/1/2016
+2015-16,1,20,Las Palmas,Atletico de Madrid,0,3,17/1/2016
+2015-16,1,22,Las Palmas,Celta de Vigo,2,1,31/1/2016
+2015-16,1,25,Las Palmas,Barcelona,1,2,20/2/2016
+2015-16,1,27,Las Palmas,Getafe,4,0,1/3/2016
+2015-16,1,29,Las Palmas,Real Madrid,1,2,13/3/2016
+2015-16,1,35,Las Palmas,Espanyol,4,0,22/4/2016
+2015-16,1,37,Las Palmas,Athletic Club,0,0,8/5/2016
+2014-15,2,1,Leganes,Alaves,1,1,24/8/2014
+2014-15,2,9,Leganes,Betis,1,0,19/10/2014
+2014-15,2,13,Leganes,Girona,1,2,15/11/2014
+2014-15,2,37,Leganes,Las Palmas,2,1,9/5/2015
+2015-16,2,9,Leganes,Girona,2,2,17/10/2015
+2015-16,2,27,Leganes,Alaves,2,0,28/2/2016
+2009-10,2,8,Levante,Real Sociedad,1,0,18/10/2009
+2009-10,2,12,Levante,Girona,3,2,14/11/2009
+2009-10,2,21,Levante,Betis,1,0,24/1/2010
+2009-10,2,24,Levante,Celta de Vigo,1,0,14/2/2010
+2009-10,2,26,Levante,Las Palmas,1,1,27/2/2010
+2010-11,1,1,Levante,Sevilla,1,4,28/8/2010
+2010-11,1,5,Levante,Real Madrid,0,0,25/9/2010
+2010-11,1,7,Levante,Real Sociedad,2,1,17/10/2010
+2010-11,1,10,Levante,Deportivo,1,2,7/11/2010
+2010-11,1,14,Levante,Atletico de Madrid,2,0,4/12/2010
+2010-11,1,16,Levante,Athletic Club,1,2,18/12/2010
+2010-11,1,21,Levante,Getafe,2,0,29/1/2011
+2010-11,1,27,Levante,Espanyol,1,0,6/3/2011
+2010-11,1,30,Levante,Malaga,3,1,3/4/2011
+2010-11,1,36,Levante,Barcelona,1,1,11/5/2011
+2011-12,1,4,Levante,Real Madrid,1,0,18/9/2011
+2011-12,1,6,Levante,Espanyol,3,1,25/9/2011
+2011-12,1,8,Levante,Malaga,3,0,16/10/2011
+2011-12,1,10,Levante,Real Sociedad,3,2,26/10/2011
+2011-12,1,16,Levante,Sevilla,1,0,10/12/2011
+2011-12,1,21,Levante,Getafe,1,2,29/1/2012
+2011-12,1,26,Levante,Betis,3,1,5/3/2012
+2011-12,1,32,Levante,Atletico de Madrid,2,0,8/4/2012
+2011-12,1,34,Levante,Barcelona,1,2,14/4/2012
+2011-12,1,38,Levante,Athletic Club,3,0,13/5/2012
+2012-13,1,1,Levante,Atletico de Madrid,1,1,19/8/2012
+2012-13,1,3,Levante,Espanyol,3,2,2/9/2012
+2012-13,1,5,Levante,Real Sociedad,2,1,23/9/2012
+2012-13,1,11,Levante,Real Madrid,1,2,11/11/2012
+2012-13,1,13,Levante,Barcelona,0,4,25/11/2012
+2012-13,1,18,Levante,Athletic Club,3,1,5/1/2013
+2012-13,1,23,Levante,Malaga,1,2,9/2/2013
+2012-13,1,27,Levante,Getafe,0,0,10/3/2013
+2012-13,1,29,Levante,Sevilla,1,0,30/3/2013
+2012-13,1,31,Levante,Deportivo,0,4,13/4/2013
+2012-13,1,33,Levante,Celta de Vigo,0,1,27/4/2013
+2012-13,1,38,Levante,Betis,1,1,1/6/2013
+2013-14,1,2,Levante,Sevilla,0,0,25/8/2013
+2013-14,1,4,Levante,Real Sociedad,0,0,14/9/2013
+2013-14,1,8,Levante,Real Madrid,2,3,5/10/2013
+2013-14,1,10,Levante,Espanyol,3,0,26/10/2013
+2013-14,1,19,Levante,Malaga,1,0,12/1/2014
+2013-14,1,20,Levante,Barcelona,1,1,19/1/2014
+2013-14,1,28,Levante,Celta de Vigo,0,1,15/3/2014
+2013-14,1,30,Levante,Betis,1,3,27/3/2014
+2013-14,1,32,Levante,Athletic Club,1,2,7/4/2014
+2013-14,1,34,Levante,Getafe,0,0,19/4/2014
+2013-14,1,36,Levante,Atletico de Madrid,2,0,4/5/2014
+2014-15,1,4,Levante,Barcelona,0,5,21/9/2014
+2014-15,1,8,Levante,Real Madrid,0,5,18/10/2014
+2014-15,1,14,Levante,Getafe,1,1,8/12/2014
+2014-15,1,16,Levante,Real Sociedad,1,1,20/12/2014
+2014-15,1,18,Levante,Deportivo,0,0,9/1/2015
+2014-15,1,21,Levante,Athletic Club,0,2,1/2/2015
+2014-15,1,22,Levante,Malaga,4,1,7/2/2015
+2014-15,1,26,Levante,Eibar,2,1,6/3/2015
+2014-15,1,28,Levante,Celta de Vigo,0,1,21/3/2015
+2014-15,1,30,Levante,Sevilla,1,2,7/4/2015
+2014-15,1,32,Levante,Espanyol,2,2,17/4/2015
+2014-15,1,36,Levante,Atletico de Madrid,2,2,10/5/2015
+2015-16,1,1,Levante,Celta de Vigo,1,2,23/8/2015
+2015-16,1,3,Levante,Sevilla,1,1,11/9/2015
+2015-16,1,5,Levante,Eibar,2,2,23/9/2015
+2015-16,1,9,Levante,Real Sociedad,0,4,25/10/2015
+2015-16,1,11,Levante,Deportivo,1,1,7/11/2015
+2015-16,1,13,Levante,Betis,0,1,27/11/2015
+2015-16,1,17,Levante,Malaga,0,1,30/12/2015
+2015-16,1,21,Levante,Las Palmas,3,2,25/1/2016
+2015-16,1,23,Levante,Barcelona,0,2,7/2/2016
+2015-16,1,25,Levante,Getafe,3,0,19/2/2016
+2015-16,1,27,Levante,Real Madrid,1,3,2/3/2016
+2015-16,1,33,Levante,Espanyol,2,1,15/4/2016
+2015-16,1,35,Levante,Athletic Club,2,2,24/4/2016
+2015-16,1,37,Levante,Atletico de Madrid,2,1,8/5/2016
+2009-10,1,1,Malaga,Atletico de Madrid,3,0,30/8/2009
+2009-10,1,5,Malaga,Barcelona,0,2,26/9/2009
+2009-10,1,17,Malaga,Athletic Club,1,1,10/1/2010
+2009-10,1,18,Malaga,Getafe,1,0,17/1/2010
+2009-10,1,21,Malaga,Deportivo,0,0,7/2/2010
+2009-10,1,23,Malaga,Espanyol,2,1,21/2/2010
+2009-10,1,31,Malaga,Sevilla,1,2,10/4/2010
+2009-10,1,38,Malaga,Real Madrid,1,1,16/5/2010
+2010-11,1,3,Malaga,Sevilla,1,2,19/9/2010
+2010-11,1,7,Malaga,Real Madrid,1,4,16/10/2010
+2010-11,1,9,Malaga,Real Sociedad,1,2,31/10/2010
+2010-11,1,11,Malaga,Levante,1,0,14/11/2010
+2010-11,1,16,Malaga,Atletico de Madrid,0,3,19/12/2010
+2010-11,1,18,Malaga,Athletic Club,1,1,8/1/2011
+2010-11,1,23,Malaga,Getafe,2,2,13/2/2011
+2010-11,1,29,Malaga,Espanyol,2,0,20/3/2011
+2010-11,1,31,Malaga,Deportivo,0,0,10/4/2011
+2010-11,1,38,Malaga,Barcelona,1,3,21/5/2011
+2011-12,1,5,Malaga,Athletic Club,1,0,21/9/2011
+2011-12,1,7,Malaga,Getafe,3,2,1/10/2011
+2011-12,1,9,Malaga,Real Madrid,0,4,22/10/2011
+2011-12,1,11,Malaga,Espanyol,2,1,30/10/2011
+2011-12,1,18,Malaga,Atletico de Madrid,0,0,7/1/2012
+2011-12,1,1,Malaga,Barcelona,1,4,22/1/2012
+2011-12,1,21,Malaga,Sevilla,2,1,29/1/2012
+2011-12,1,27,Malaga,Levante,1,0,10/3/2012
+2011-12,1,31,Malaga,Betis,0,2,31/3/2012
+2011-12,1,34,Malaga,Real Sociedad,1,1,15/4/2012
+2012-13,1,4,Malaga,Levante,3,1,15/9/2012
+2012-13,1,6,Malaga,Betis,4,0,29/9/2012
+2012-13,1,11,Malaga,Real Sociedad,1,2,10/11/2012
+2012-13,1,17,Malaga,Real Madrid,3,2,22/12/2012
+2012-13,1,19,Malaga,Barcelona,1,3,13/1/2013
+2012-13,1,20,Malaga,Celta de Vigo,1,1,19/1/2013
+2012-13,1,24,Malaga,Athletic Club,1,0,16/2/2013
+2012-13,1,26,Malaga,Atletico de Madrid,0,0,3/3/2013
+2012-13,1,28,Malaga,Espanyol,0,2,17/3/2013
+2012-13,1,33,Malaga,Getafe,2,1,28/4/2013
+2012-13,1,35,Malaga,Sevilla,0,0,12/5/2013
+2012-13,1,37,Malaga,Deportivo,3,1,26/5/2013
+2013-14,1,2,Malaga,Barcelona,0,1,25/8/2013
+2013-14,1,10,Malaga,Celta de Vigo,0,5,26/10/2013
+2013-14,1,12,Malaga,Betis,3,2,3/11/2013
+2013-14,1,14,Malaga,Athletic Club,1,2,25/11/2013
+2013-14,1,16,Malaga,Getafe,1,0,14/12/2013
+2013-14,1,18,Malaga,Atletico de Madrid,0,1,4/1/2014
+2013-14,1,22,Malaga,Sevilla,3,2,1/2/2014
+2013-14,1,24,Malaga,Real Sociedad,0,1,17/2/2014
+2013-14,1,28,Malaga,Real Madrid,0,1,15/3/2014
+2013-14,1,30,Malaga,Espanyol,1,2,25/3/2014
+2013-14,1,38,Malaga,Levante,1,0,16/5/2014
+2014-15,1,1,Malaga,Athletic Club,1,0,23/8/2014
+2014-15,1,3,Malaga,Levante,0,0,13/9/2014
+2014-15,1,5,Malaga,Barcelona,0,0,24/9/2014
+2014-15,1,11,Malaga,Eibar,2,1,8/11/2014
+2014-15,1,13,Malaga,Real Madrid,1,2,29/11/2014
+2014-15,1,15,Malaga,Celta de Vigo,1,0,13/12/2014
+2014-15,1,23,Malaga,Espanyol,0,2,14/2/2015
+2014-15,1,25,Malaga,Getafe,3,2,28/2/2015
+2014-15,1,29,Malaga,Real Sociedad,1,1,4/4/2015
+2014-15,1,31,Malaga,Atletico de Madrid,2,2,11/4/2015
+2014-15,1,33,Malaga,Deportivo,1,1,26/4/2015
+2014-15,1,38,Malaga,Sevilla,2,3,23/5/2015
+2015-16,1,1,Malaga,Sevilla,0,0,21/8/2015
+2015-16,1,3,Malaga,Eibar,0,0,13/9/2015
+2015-16,1,7,Malaga,Real Sociedad,3,1,3/10/2015
+2015-16,1,9,Malaga,Deportivo,2,0,24/10/2015
+2015-16,1,11,Malaga,Betis,0,1,7/11/2015
+2015-16,1,16,Malaga,Atletico de Madrid,1,0,20/12/2015
+2015-16,1,18,Malaga,Celta de Vigo,2,0,2/1/2016
+2015-16,1,21,Malaga,Barcelona,1,2,23/1/2016
+2015-16,1,23,Malaga,Getafe,3,0,5/2/2016
+2015-16,1,25,Malaga,Real Madrid,1,1,21/2/2016
+2015-16,1,31,Malaga,Espanyol,1,1,3/4/2016
+2015-16,1,33,Malaga,Athletic Club,0,1,17/4/2016
+2015-16,1,36,Malaga,Levante,3,1,2/5/2016
+2015-16,1,38,Malaga,Las Palmas,4,1,15/5/2016
+2009-10,1,1,Real Madrid,Deportivo,3,2,29/8/2009
+2009-10,1,9,Real Madrid,Getafe,2,0,31/10/2009
+2009-10,1,19,Real Madrid,Malaga,2,0,24/1/2010
+2009-10,1,21,Real Madrid,Espanyol,3,0,6/2/2010
+2009-10,1,25,Real Madrid,Sevilla,3,2,6/3/2010
+2009-10,1,29,Real Madrid,Atletico de Madrid,3,2,28/3/2010
+2009-10,1,31,Real Madrid,Barcelona,0,2,10/4/2010
+2009-10,1,37,Real Madrid,Athletic Club,5,1,8/5/2010
+2010-11,1,4,Real Madrid,Espanyol,3,0,21/9/2010
+2010-11,1,6,Real Madrid,Deportivo,6,1,3/10/2010
+2010-11,1,10,Real Madrid,Atletico de Madrid,2,0,7/11/2010
+2010-11,1,12,Real Madrid,Athletic Club,5,1,20/11/2010
+2010-11,1,16,Real Madrid,Sevilla,1,0,19/12/2010
+2010-11,1,22,Real Madrid,Real Sociedad,4,1,6/2/2011
+2010-11,1,24,Real Madrid,Levante,2,0,19/2/2011
+2010-11,1,26,Real Madrid,Malaga,7,0,3/3/2011
+2010-11,1,32,Real Madrid,Barcelona,1,1,16/4/2011
+2010-11,1,36,Real Madrid,Getafe,4,0,10/5/2011
+2011-12,1,3,Real Madrid,Getafe,4,2,10/9/2011
+2011-12,1,8,Real Madrid,Betis,4,1,15/10/2011
+2011-12,1,14,Real Madrid,Atletico de Madrid,4,1,26/11/2011
+2011-12,1,16,Real Madrid,Barcelona,1,3,10/12/2011
+2011-12,1,1,Real Madrid,Athletic Club,4,1,22/1/2012
+2011-12,1,23,Real Madrid,Levante,4,2,12/2/2012
+2011-12,1,26,Real Madrid,Espanyol,5,0,4/3/2012
+2011-12,1,28,Real Madrid,Malaga,1,1,18/3/2012
+2011-12,1,30,Real Madrid,Real Sociedad,5,1,24/3/2012
+2011-12,1,36,Real Madrid,Sevilla,3,0,29/4/2012
+2012-13,1,6,Real Madrid,Deportivo,5,1,30/9/2012
+2012-13,1,8,Real Madrid,Celta de Vigo,2,0,20/10/2012
+2012-13,1,12,Real Madrid,Athletic Club,5,1,17/11/2012
+2012-13,1,14,Real Madrid,Atletico de Madrid,2,0,1/12/2012
+2012-13,1,16,Real Madrid,Espanyol,2,2,16/12/2012
+2012-13,1,18,Real Madrid,Real Sociedad,4,3,6/1/2013
+2012-13,1,21,Real Madrid,Getafe,4,0,27/1/2013
+2012-13,1,23,Real Madrid,Sevilla,4,1,9/2/2013
+2012-13,1,26,Real Madrid,Barcelona,2,1,2/3/2013
+2012-13,1,30,Real Madrid,Levante,5,1,6/4/2013
+2012-13,1,32,Real Madrid,Betis,3,1,20/4/2013
+2012-13,1,36,Real Madrid,Malaga,6,2,8/5/2013
+2013-14,1,1,Real Madrid,Betis,2,1,18/8/2013
+2013-14,1,3,Real Madrid,Athletic Club,3,1,1/9/2013
+2013-14,1,5,Real Madrid,Getafe,4,1,22/9/2013
+2013-14,1,7,Real Madrid,Atletico de Madrid,0,1,28/9/2013
+2013-14,1,9,Real Madrid,Malaga,2,0,19/10/2013
+2013-14,1,11,Real Madrid,Sevilla,7,3,30/10/2013
+2013-14,1,13,Real Madrid,Real Sociedad,5,1,9/11/2013
+2013-14,1,18,Real Madrid,Celta de Vigo,3,0,6/1/2014
+2013-14,1,27,Real Madrid,Levante,3,0,9/3/2014
+2013-14,1,29,Real Madrid,Barcelona,3,4,23/3/2014
+2013-14,1,38,Real Madrid,Espanyol,3,1,17/5/2014
+2014-15,1,3,Real Madrid,Atletico de Madrid,1,2,13/9/2014
+2014-15,1,7,Real Madrid,Athletic Club,5,0,5/10/2014
+2014-15,1,9,Real Madrid,Barcelona,3,1,25/10/2014
+2014-15,1,14,Real Madrid,Celta de Vigo,3,0,6/12/2014
+2014-15,1,18,Real Madrid,Espanyol,3,0,10/1/2015
+2014-15,1,21,Real Madrid,Real Sociedad,4,1,31/1/2015
+2014-15,1,16,Real Madrid,Sevilla,2,1,4/2/2015
+2014-15,1,23,Real Madrid,Deportivo,2,0,14/2/2015
+2014-15,1,27,Real Madrid,Levante,2,0,15/3/2015
+2014-15,1,31,Real Madrid,Eibar,3,0,11/4/2015
+2014-15,1,32,Real Madrid,Malaga,3,1,18/4/2015
+2014-15,1,38,Real Madrid,Getafe,7,3,23/5/2015
+2015-16,1,2,Real Madrid,Betis,5,0,29/8/2015
+2015-16,1,6,Real Madrid,Malaga,0,0,26/9/2015
+2015-16,1,8,Real Madrid,Levante,3,0,17/10/2015
+2015-16,1,10,Real Madrid,Las Palmas,3,1,31/10/2015
+2015-16,1,12,Real Madrid,Barcelona,0,4,21/11/2015
+2015-16,1,14,Real Madrid,Getafe,4,1,5/12/2015
+2015-16,1,17,Real Madrid,Real Sociedad,3,1,30/12/2015
+2015-16,1,19,Real Madrid,Deportivo,5,0,9/1/2016
+2015-16,1,22,Real Madrid,Espanyol,6,0,31/1/2016
+2015-16,1,24,Real Madrid,Athletic Club,4,2,13/2/2016
+2015-16,1,26,Real Madrid,Atletico de Madrid,0,1,27/2/2016
+2015-16,1,28,Real Madrid,Celta de Vigo,7,1,5/3/2016
+2015-16,1,30,Real Madrid,Sevilla,4,0,20/3/2016
+2015-16,1,32,Real Madrid,Eibar,4,0,9/4/2016
+2009-10,2,4,Real Sociedad,Girona,2,2,20/9/2009
+2009-10,2,17,Real Sociedad,Betis,2,0,20/12/2009
+2009-10,2,22,Real Sociedad,Las Palmas,2,2,30/1/2010
+2009-10,2,29,Real Sociedad,Levante,3,1,21/3/2010
+2009-10,2,41,Real Sociedad,Celta de Vigo,2,0,13/6/2010
+2010-11,1,3,Real Sociedad,Real Madrid,1,2,18/9/2010
+2010-11,1,6,Real Sociedad,Espanyol,1,0,2/10/2010
+2010-11,1,8,Real Sociedad,Deportivo,3,0,25/10/2010
+2010-11,1,12,Real Sociedad,Atletico de Madrid,2,4,21/11/2010
+2010-11,1,14,Real Sociedad,Athletic Club,2,0,5/12/2010
+2010-11,1,18,Real Sociedad,Sevilla,2,3,8/1/2011
+2010-11,1,26,Real Sociedad,Levante,1,1,2/3/2011
+2010-11,1,28,Real Sociedad,Malaga,0,2,13/3/2011
+2010-11,1,34,Real Sociedad,Barcelona,2,1,30/4/2011
+2010-11,1,38,Real Sociedad,Getafe,1,1,21/5/2011
+2011-12,1,3,Real Sociedad,Barcelona,2,2,10/9/2011
+2011-12,1,7,Real Sociedad,Athletic Club,1,2,2/10/2011
+2011-12,1,9,Real Sociedad,Getafe,0,0,23/10/2011
+2011-12,1,11,Real Sociedad,Real Madrid,0,1,29/10/2011
+2011-12,1,13,Real Sociedad,Espanyol,0,0,20/11/2011
+2011-12,1,15,Real Sociedad,Malaga,3,2,4/12/2011
+2011-12,1,1,Real Sociedad,Atletico de Madrid,0,4,21/1/2012
+2011-12,1,23,Real Sociedad,Sevilla,2,0,13/2/2012
+2011-12,1,29,Real Sociedad,Levante,1,3,21/3/2012
+2011-12,1,33,Real Sociedad,Betis,1,1,10/4/2012
+2012-13,1,2,Real Sociedad,Celta de Vigo,2,1,25/8/2012
+2012-13,1,6,Real Sociedad,Athletic Club,2,0,29/9/2012
+2012-13,1,8,Real Sociedad,Atletico de Madrid,0,1,21/10/2012
+2012-13,1,10,Real Sociedad,Espanyol,0,1,4/11/2012
+2012-13,1,15,Real Sociedad,Getafe,1,1,8/12/2012
+2012-13,1,17,Real Sociedad,Sevilla,2,1,20/12/2012
+2012-13,1,19,Real Sociedad,Deportivo,1,1,13/1/2013
+2012-13,1,20,Real Sociedad,Barcelona,3,2,19/1/2013
+2012-13,1,24,Real Sociedad,Levante,1,1,17/2/2013
+2012-13,1,26,Real Sociedad,Betis,3,3,3/3/2013
+2012-13,1,30,Real Sociedad,Malaga,4,2,6/4/2013
+2012-13,1,37,Real Sociedad,Real Madrid,3,3,26/5/2013
+2013-14,1,1,Real Sociedad,Getafe,2,0,17/8/2013
+2013-14,1,3,Real Sociedad,Atletico de Madrid,1,2,1/9/2013
+2013-14,1,5,Real Sociedad,Malaga,0,0,21/9/2013
+2013-14,1,7,Real Sociedad,Sevilla,1,1,28/9/2013
+2013-14,1,14,Real Sociedad,Celta de Vigo,4,3,23/11/2013
+2013-14,1,16,Real Sociedad,Betis,5,1,15/12/2013
+2013-14,1,18,Real Sociedad,Athletic Club,2,0,5/1/2014
+2013-14,1,23,Real Sociedad,Levante,0,0,9/2/2014
+2013-14,1,25,Real Sociedad,Barcelona,3,1,22/2/2014
+2013-14,1,32,Real Sociedad,Real Madrid,0,4,5/4/2014
+2013-14,1,34,Real Sociedad,Espanyol,2,1,19/4/2014
+2014-15,1,2,Real Sociedad,Real Madrid,4,2,31/8/2014
+2014-15,1,8,Real Sociedad,Getafe,1,2,20/10/2014
+2014-15,1,10,Real Sociedad,Malaga,0,1,1/11/2014
+2014-15,1,11,Real Sociedad,Atletico de Madrid,2,1,9/11/2014
+2014-15,1,15,Real Sociedad,Athletic Club,1,1,14/12/2014
+2014-15,1,17,Real Sociedad,Barcelona,1,0,4/1/2015
+2014-15,1,20,Real Sociedad,Eibar,1,0,24/1/2015
+2014-15,1,22,Real Sociedad,Celta de Vigo,1,1,7/2/2015
+2014-15,1,24,Real Sociedad,Sevilla,4,3,22/2/2015
+2014-15,1,26,Real Sociedad,Espanyol,1,0,8/3/2015
+2014-15,1,31,Real Sociedad,Deportivo,2,2,12/4/2015
+2014-15,1,35,Real Sociedad,Levante,3,0,1/5/2015
+2015-16,1,4,Real Sociedad,Espanyol,2,3,19/9/2015
+2015-16,1,6,Real Sociedad,Athletic Club,0,0,27/9/2015
+2015-16,1,8,Real Sociedad,Atletico de Madrid,0,2,18/10/2015
+2015-16,1,10,Real Sociedad,Celta de Vigo,2,3,31/10/2015
+2015-16,1,12,Real Sociedad,Sevilla,2,0,21/11/2015
+2015-16,1,14,Real Sociedad,Eibar,2,1,6/12/2015
+2015-16,1,20,Real Sociedad,Deportivo,1,1,16/1/2016
+2015-16,1,22,Real Sociedad,Betis,2,1,30/1/2016
+2015-16,1,26,Real Sociedad,Malaga,1,1,27/2/2016
+2015-16,1,28,Real Sociedad,Levante,1,1,6/3/2016
+2015-16,1,30,Real Sociedad,Las Palmas,0,1,19/3/2016
+2015-16,1,32,Real Sociedad,Barcelona,1,0,9/4/2016
+2015-16,1,34,Real Sociedad,Getafe,1,2,21/4/2016
+2015-16,1,36,Real Sociedad,Real Madrid,0,1,30/4/2016
+2009-10,1,6,Sevilla,Real Madrid,2,1,4/10/2009
+2009-10,1,8,Sevilla,Espanyol,0,0,24/10/2009
+2009-10,1,12,Sevilla,Malaga,2,2,28/11/2009
+2009-10,1,15,Sevilla,Getafe,1,2,19/12/2009
+2009-10,1,24,Sevilla,Athletic Club,0,0,28/2/2010
+2009-10,1,26,Sevilla,Deportivo,1,1,13/3/2010
+2009-10,1,35,Sevilla,Atletico de Madrid,3,1,2/5/2010
+2009-10,1,37,Sevilla,Barcelona,2,3,8/5/2010
+2010-11,1,2,Sevilla,Deportivo,0,0,12/9/2010
+2010-11,1,6,Sevilla,Atletico de Madrid,3,1,3/10/2010
+2010-11,1,8,Sevilla,Athletic Club,4,3,24/10/2010
+2010-11,1,13,Sevilla,Getafe,1,3,27/11/2010
+2010-11,1,19,Sevilla,Espanyol,1,2,15/1/2011
+2010-11,1,20,Sevilla,Levante,4,1,22/1/2011
+2010-11,1,22,Sevilla,Malaga,0,0,6/2/2011
+2010-11,1,28,Sevilla,Barcelona,1,1,13/3/2011
+2010-11,1,35,Sevilla,Real Madrid,2,6,7/5/2011
+2010-11,1,37,Sevilla,Real Sociedad,3,1,15/5/2011
+2011-12,1,2,Sevilla,Malaga,2,1,28/8/2011
+2011-12,1,4,Sevilla,Real Sociedad,1,0,17/9/2011
+2011-12,1,13,Sevilla,Athletic Club,1,2,20/11/2011
+2011-12,1,15,Sevilla,Getafe,3,0,5/12/2011
+2011-12,1,17,Sevilla,Real Madrid,2,6,17/12/2011
+2011-12,1,19,Sevilla,Espanyol,0,0,14/1/2012
+2011-12,1,26,Sevilla,Atletico de Madrid,1,1,3/3/2012
+2011-12,1,28,Sevilla,Barcelona,0,2,17/3/2012
+2011-12,1,35,Sevilla,Levante,1,1,21/4/2012
+2011-12,1,20,Sevilla,Betis,1,2,2/5/2012
+2012-13,1,1,Sevilla,Getafe,2,1,18/8/2012
+2012-13,1,4,Sevilla,Real Madrid,1,0,15/9/2012
+2012-13,1,6,Sevilla,Barcelona,2,3,29/9/2012
+2012-13,1,10,Sevilla,Levante,0,0,4/11/2012
+2012-13,1,12,Sevilla,Betis,5,1,18/11/2012
+2012-13,1,16,Sevilla,Malaga,0,2,15/12/2012
+2012-13,1,24,Sevilla,Deportivo,3,1,15/2/2013
+2012-13,1,26,Sevilla,Celta de Vigo,4,1,4/3/2013
+2012-13,1,30,Sevilla,Athletic Club,2,1,8/4/2013
+2012-13,1,32,Sevilla,Atletico de Madrid,0,1,21/4/2013
+2012-13,1,34,Sevilla,Espanyol,3,0,5/5/2013
+2012-13,1,36,Sevilla,Real Sociedad,1,2,18/5/2013
+2013-14,1,1,Sevilla,Atletico de Madrid,1,3,18/8/2013
+2013-14,1,3,Sevilla,Malaga,2,2,1/9/2013
+2013-14,1,12,Sevilla,Celta de Vigo,0,1,2/11/2013
+2013-14,1,14,Sevilla,Betis,4,0,24/11/2013
+2013-14,1,16,Sevilla,Athletic Club,1,1,15/12/2013
+2013-14,1,18,Sevilla,Getafe,3,0,5/1/2014
+2013-14,1,21,Sevilla,Levante,2,3,25/1/2014
+2013-14,1,23,Sevilla,Barcelona,1,4,9/2/2014
+2013-14,1,26,Sevilla,Real Sociedad,1,0,2/3/2014
+2013-14,1,30,Sevilla,Real Madrid,2,1,26/3/2014
+2013-14,1,32,Sevilla,Espanyol,4,1,6/4/2014
+2014-15,1,3,Sevilla,Getafe,2,0,14/9/2014
+2014-15,1,5,Sevilla,Real Sociedad,1,0,24/9/2014
+2014-15,1,7,Sevilla,Deportivo,4,1,5/10/2014
+2014-15,1,11,Sevilla,Levante,1,1,9/11/2014
+2014-15,1,15,Sevilla,Eibar,0,0,14/12/2014
+2014-15,1,17,Sevilla,Celta de Vigo,1,0,3/1/2015
+2014-15,1,19,Sevilla,Malaga,2,0,18/1/2015
+2014-15,1,21,Sevilla,Espanyol,3,2,1/2/2015
+2014-15,1,25,Sevilla,Atletico de Madrid,0,0,1/3/2015
+2014-15,1,29,Sevilla,Athletic Club,2,0,4/4/2015
+2014-15,1,31,Sevilla,Barcelona,2,2,11/4/2015
+2014-15,1,35,Sevilla,Real Madrid,2,3,2/5/2015
+2015-16,1,2,Sevilla,Atletico de Madrid,0,3,30/8/2015
+2015-16,1,4,Sevilla,Celta de Vigo,1,2,20/9/2015
+2015-16,1,7,Sevilla,Barcelona,2,1,3/10/2015
+2015-16,1,9,Sevilla,Getafe,5,0,24/10/2015
+2015-16,1,11,Sevilla,Real Madrid,3,2,8/11/2015
+2015-16,1,17,Sevilla,Espanyol,2,0,30/12/2015
+2015-16,1,19,Sevilla,Athletic Club,2,0,9/1/2016
+2015-16,1,20,Sevilla,Malaga,2,1,16/1/2016
+2015-16,1,22,Sevilla,Levante,3,1,31/1/2016
+2015-16,1,24,Sevilla,Las Palmas,2,0,14/2/2016
+2015-16,1,27,Sevilla,Eibar,1,0,2/3/2016
+2015-16,1,31,Sevilla,Real Sociedad,1,2,3/4/2016
+2015-16,1,33,Sevilla,Deportivo,1,1,17/4/2016
+2015-16,1,35,Sevilla,Betis,2,0,24/4/2016
+2009-10,1,1,Valencia,Sevilla,2,0,30/8/2009
+2009-10,1,5,Valencia,Atletico de Madrid,2,2,26/9/2009
+2009-10,1,7,Valencia,Barcelona,0,0,17/10/2009
+2009-10,1,14,Valencia,Real Madrid,2,3,12/12/2009
+2009-10,1,16,Valencia,Espanyol,1,0,2/1/2010
+2009-10,1,23,Valencia,Getafe,2,1,22/2/2010
+2009-10,1,28,Valencia,Malaga,1,0,24/3/2010
+2009-10,1,32,Valencia,Athletic Club,2,0,15/4/2010
+2009-10,1,34,Valencia,Deportivo,1,0,24/4/2010
+2010-11,1,4,Valencia,Atletico de Madrid,1,1,22/9/2010
+2010-11,1,6,Valencia,Athletic Club,2,1,2/10/2010
+2010-11,1,11,Valencia,Getafe,2,0,14/11/2010
+2010-11,1,17,Valencia,Espanyol,2,1,2/1/2011
+2010-11,1,19,Valencia,Deportivo,2,0,16/1/2011
+2010-11,1,20,Valencia,Malaga,4,3,22/1/2011
+2010-11,1,26,Valencia,Barcelona,0,1,2/3/2011
+2010-11,1,29,Valencia,Sevilla,0,1,20/3/2011
+2010-11,1,33,Valencia,Real Madrid,3,6,23/4/2011
+2010-11,1,35,Valencia,Real Sociedad,3,0,7/5/2011
+2010-11,1,37,Valencia,Levante,0,0,15/5/2011
+2011-12,1,3,Valencia,Atletico de Madrid,1,0,10/9/2011
+2011-12,1,5,Valencia,Barcelona,2,2,21/9/2011
+2011-12,1,9,Valencia,Athletic Club,1,1,23/10/2011
+2011-12,1,11,Valencia,Getafe,3,1,29/10/2011
+2011-12,1,13,Valencia,Real Madrid,2,3,19/11/2011
+2011-12,1,15,Valencia,Espanyol,2,1,3/12/2011
+2011-12,1,17,Valencia,Malaga,2,0,18/12/2011
+2011-12,1,19,Valencia,Real Sociedad,0,1,14/1/2012
+2011-12,1,25,Valencia,Sevilla,1,2,26/2/2012
+2011-12,1,31,Valencia,Levante,1,1,1/4/2012
+2011-12,1,35,Valencia,Betis,4,0,22/4/2012
+2012-13,1,2,Valencia,Deportivo,3,3,26/8/2012
+2012-13,1,4,Valencia,Celta de Vigo,2,1,15/9/2012
+2012-13,1,8,Valencia,Athletic Club,3,2,20/10/2012
+2012-13,1,10,Valencia,Atletico de Madrid,2,0,3/11/2012
+2012-13,1,12,Valencia,Espanyol,2,1,17/11/2012
+2012-13,1,14,Valencia,Real Sociedad,2,5,1/12/2012
+2012-13,1,17,Valencia,Getafe,4,2,21/12/2012
+2012-13,1,19,Valencia,Sevilla,2,0,12/1/2013
+2012-13,1,20,Valencia,Real Madrid,0,5,20/1/2013
+2012-13,1,22,Valencia,Barcelona,1,1,3/2/2013
+2012-13,1,26,Valencia,Levante,2,2,2/3/2013
+2012-13,1,28,Valencia,Betis,3,0,16/3/2013
+2012-13,1,32,Valencia,Malaga,5,1,20/4/2013
+2013-14,1,1,Valencia,Malaga,1,0,17/8/2013
+2013-14,1,3,Valencia,Barcelona,2,3,1/9/2013
+2013-14,1,5,Valencia,Sevilla,3,1,22/9/2013
+2013-14,1,9,Valencia,Real Sociedad,1,2,19/10/2013
+2013-14,1,17,Valencia,Real Madrid,2,3,22/12/2013
+2013-14,1,18,Valencia,Levante,2,0,4/1/2014
+2013-14,1,21,Valencia,Espanyol,2,2,25/1/2014
+2013-14,1,23,Valencia,Betis,5,0,8/2/2014
+2013-14,1,27,Valencia,Athletic Club,1,1,9/3/2014
+2013-14,1,31,Valencia,Getafe,1,3,30/3/2014
+2013-14,1,35,Valencia,Atletico de Madrid,0,1,27/4/2014
+2013-14,1,38,Valencia,Celta de Vigo,2,1,17/5/2014
+2014-15,1,2,Valencia,Malaga,3,0,29/8/2014
+2014-15,1,3,Valencia,Espanyol,3,1,14/9/2014
+2014-15,1,7,Valencia,Atletico de Madrid,3,1,4/10/2014
+2014-15,1,11,Valencia,Athletic Club,0,0,9/11/2014
+2014-15,1,13,Valencia,Barcelona,0,1,30/11/2014
+2014-15,1,17,Valencia,Real Madrid,2,1,4/1/2015
+2014-15,1,20,Valencia,Sevilla,3,1,25/1/2015
+2014-15,1,23,Valencia,Getafe,1,0,15/2/2015
+2014-15,1,25,Valencia,Real Sociedad,2,0,1/3/2015
+2014-15,1,27,Valencia,Deportivo,2,0,13/3/2015
+2014-15,1,31,Valencia,Levante,3,0,13/4/2015
+2014-15,1,35,Valencia,Eibar,3,1,3/5/2015
+2014-15,1,37,Valencia,Celta de Vigo,1,1,17/5/2015
+2015-16,1,2,Valencia,Deportivo,1,1,30/8/2015
+2015-16,1,4,Valencia,Betis,0,0,19/9/2015
+2015-16,1,8,Valencia,Malaga,3,0,17/10/2015
+2015-16,1,10,Valencia,Levante,3,0,31/10/2015
+2015-16,1,12,Valencia,Las Palmas,1,1,21/11/2015
+2015-16,1,14,Valencia,Barcelona,1,1,5/12/2015
+2015-16,1,16,Valencia,Getafe,2,2,19/12/2015
+2015-16,1,18,Valencia,Real Madrid,2,2,3/1/2016
+2015-16,1,24,Valencia,Espanyol,2,1,13/2/2016
+2015-16,1,26,Valencia,Athletic Club,0,3,28/2/2016
+2015-16,1,28,Valencia,Atletico de Madrid,1,3,6/3/2016
+2015-16,1,30,Valencia,Celta de Vigo,0,2,20/3/2016
+2015-16,1,32,Valencia,Sevilla,2,1,10/4/2016
+2015-16,1,34,Valencia,Eibar,4,0,20/4/2016
+2015-16,1,38,Valencia,Real Sociedad,0,1,13/5/2016
+2009-10,1,4,Villarreal,Real Madrid,0,2,23/9/2009
+2009-10,1,6,Villarreal,Espanyol,0,0,4/10/2009
+2009-10,1,8,Villarreal,Malaga,2,1,25/10/2009
+2009-10,1,13,Villarreal,Getafe,3,2,6/12/2009
+2009-10,1,22,Villarreal,Athletic Club,2,1,13/2/2010
+2009-10,1,24,Villarreal,Deportivo,1,0,28/2/2010
+2009-10,1,29,Villarreal,Sevilla,3,0,28/3/2010
+2009-10,1,33,Villarreal,Atletico de Madrid,2,1,17/4/2010
+2009-10,1,35,Villarreal,Barcelona,1,4,1/5/2010
+2010-11,1,2,Villarreal,Espanyol,4,0,12/9/2010
+2010-11,1,4,Villarreal,Deportivo,1,0,23/9/2010
+2010-11,1,8,Villarreal,Atletico de Madrid,2,0,24/10/2010
+2010-11,1,10,Villarreal,Athletic Club,4,1,7/11/2010
+2010-11,1,14,Villarreal,Sevilla,1,0,5/12/2010
+2010-11,1,20,Villarreal,Real Sociedad,2,1,23/1/2011
+2010-11,1,22,Villarreal,Levante,0,1,5/2/2011
+2010-11,1,24,Villarreal,Malaga,1,1,20/2/2011
+2010-11,1,30,Villarreal,Barcelona,0,1,2/4/2011
+2010-11,1,34,Villarreal,Getafe,2,1,1/5/2011
+2010-11,1,37,Villarreal,Real Madrid,1,3,15/5/2011
+2011-12,1,3,Villarreal,Sevilla,2,2,10/9/2011
+2011-12,1,9,Villarreal,Levante,0,3,23/10/2011
+2011-12,1,13,Villarreal,Betis,1,0,19/11/2011
+2011-12,1,16,Villarreal,Real Sociedad,1,1,11/12/2011
+2011-12,1,21,Villarreal,Barcelona,0,0,28/1/2012
+2011-12,1,25,Villarreal,Athletic Club,2,2,26/2/2012
+2011-12,1,27,Villarreal,Getafe,1,2,12/3/2012
+2011-12,1,29,Villarreal,Real Madrid,1,1,21/3/2012
+2011-12,1,31,Villarreal,Espanyol,0,0,1/4/2012
+2011-12,1,33,Villarreal,Malaga,2,1,12/4/2012
+2011-12,1,38,Villarreal,Atletico de Madrid,0,1,13/5/2012
+2012-13,2,27,Villarreal,Las Palmas,1,1,24/2/2013
+2012-13,2,39,Villarreal,Girona,4,1,18/5/2013
+2013-14,1,4,Villarreal,Real Madrid,2,2,14/9/2013
+2013-14,1,6,Villarreal,Espanyol,2,1,26/9/2013
+2013-14,1,11,Villarreal,Getafe,0,2,31/10/2013
+2013-14,1,13,Villarreal,Atletico de Madrid,1,1,10/11/2013
+2013-14,1,15,Villarreal,Malaga,1,1,29/11/2013
+2013-14,1,17,Villarreal,Sevilla,1,2,21/12/2013
+2013-14,1,19,Villarreal,Real Sociedad,5,1,13/1/2014
+2013-14,1,24,Villarreal,Celta de Vigo,0,2,15/2/2014
+2013-14,1,26,Villarreal,Betis,1,1,2/3/2014
+2013-14,1,28,Villarreal,Athletic Club,1,1,17/3/2014
+2013-14,1,33,Villarreal,Levante,1,0,12/4/2014
+2013-14,1,35,Villarreal,Barcelona,2,3,27/4/2014
+2014-15,1,2,Villarreal,Barcelona,0,1,31/8/2014
+2014-15,1,6,Villarreal,Real Madrid,0,2,27/9/2014
+2014-15,1,12,Villarreal,Getafe,2,1,23/11/2014
+2014-15,1,14,Villarreal,Real Sociedad,4,0,7/12/2014
+2014-15,1,16,Villarreal,Deportivo,3,0,21/12/2014
+2014-15,1,19,Villarreal,Athletic Club,2,0,17/1/2015
+2014-15,1,20,Villarreal,Levante,1,0,24/1/2015
+2014-15,1,24,Villarreal,Eibar,1,0,22/2/2015
+2014-15,1,26,Villarreal,Celta de Vigo,4,1,8/3/2015
+2014-15,1,28,Villarreal,Sevilla,0,2,22/3/2015
+2014-15,1,30,Villarreal,Espanyol,0,3,9/4/2015
+2014-15,1,34,Villarreal,Atletico de Madrid,0,1,29/4/2015
+2014-15,1,37,Villarreal,Malaga,2,1,17/5/2015
+2015-16,1,2,Villarreal,Espanyol,3,1,28/8/2015
+2015-16,1,4,Villarreal,Athletic Club,3,1,20/9/2015
+2015-16,1,6,Villarreal,Atletico de Madrid,1,0,26/9/2015
+2015-16,1,8,Villarreal,Celta de Vigo,1,2,18/10/2015
+2015-16,1,10,Villarreal,Sevilla,2,1,31/10/2015
+2015-16,1,12,Villarreal,Eibar,1,1,22/11/2015
+2015-16,1,15,Villarreal,Real Madrid,1,0,13/12/2015
+2015-16,1,20,Villarreal,Betis,0,0,16/1/2016
+2015-16,1,24,Villarreal,Malaga,1,0,13/2/2016
+2015-16,1,26,Villarreal,Levante,3,0,28/2/2016
+2015-16,1,28,Villarreal,Las Palmas,0,1,5/3/2016
+2015-16,1,30,Villarreal,Barcelona,2,2,20/3/2016
+2015-16,1,32,Villarreal,Getafe,2,0,10/4/2016
+2015-16,1,35,Villarreal,Real Sociedad,0,0,24/4/2016
+2015-16,1,37,Villarreal,Deportivo,0,2,8/5/2016

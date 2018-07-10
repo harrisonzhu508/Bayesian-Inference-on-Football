@@ -1,0 +1,247 @@
+﻿season,division,round,localTeam,visitorTeam,localGoals,visitorGoals,date
+2016-17,1,4,Alaves,Deportivo,0,0,19/9/2016
+2016-17,1,8,Alaves,Malaga,1,1,16/10/2016
+2016-17,1,10,Alaves,Real Madrid,1,4,29/10/2016
+2016-17,1,12,Alaves,Espanyol,0,1,20/11/2016
+2016-17,1,14,Alaves,Las Palmas,1,1,4/12/2016
+2016-17,1,16,Alaves,Betis,1,0,16/12/2016
+2016-17,1,19,Alaves,Leganes,2,2,21/1/2017
+2016-17,1,20,Alaves,Atletico de Madrid,0,0,28/1/2017
+2016-17,1,22,Alaves,Barcelona,0,6,11/2/2017
+2016-17,1,26,Alaves,Sevilla,1,1,6/3/2017
+2016-17,1,28,Alaves,Real Sociedad,1,0,18/3/2017
+2016-17,1,34,Alaves,Eibar,0,0,27/4/2017
+2016-17,1,36,Alaves,Athletic Club,1,0,7/5/2017
+2016-17,1,37,Alaves,Celta de Vigo,3,1,14/5/2017
+2016-17,1,2,Athletic Club,Barcelona,0,1,28/8/2016
+2016-17,1,6,Athletic Club,Sevilla,3,1,24/9/2016
+2016-17,1,8,Athletic Club,Real Sociedad,3,2,16/10/2016
+2016-17,1,14,Athletic Club,Eibar,3,1,4/12/2016
+2016-17,1,16,Athletic Club,Celta de Vigo,2,1,19/12/2016
+2016-17,1,17,Athletic Club,Alaves,0,0,8/1/2017
+2016-17,1,19,Athletic Club,Atletico de Madrid,2,2,22/1/2017
+2016-17,1,22,Athletic Club,Deportivo,2,1,11/2/2017
+2016-17,1,26,Athletic Club,Malaga,1,0,5/3/2017
+2016-17,1,28,Athletic Club,Real Madrid,1,2,18/3/2017
+2016-17,1,30,Athletic Club,Espanyol,2,0,4/4/2017
+2016-17,1,32,Athletic Club,Las Palmas,5,1,14/4/2017
+2016-17,1,34,Athletic Club,Betis,2,1,27/4/2017
+2016-17,1,37,Athletic Club,Leganes,1,1,14/5/2017
+2016-17,1,1,Atletico de Madrid,Alaves,1,1,21/8/2016
+2016-17,1,6,Atletico de Madrid,Deportivo,1,0,25/9/2016
+2016-17,1,10,Atletico de Madrid,Malaga,4,2,29/10/2016
+2016-17,1,12,Atletico de Madrid,Real Madrid,0,3,19/11/2016
+2016-17,1,14,Atletico de Madrid,Espanyol,0,0,3/12/2016
+2016-17,1,16,Atletico de Madrid,Las Palmas,1,0,17/12/2016
+2016-17,1,18,Atletico de Madrid,Betis,1,0,14/1/2017
+2016-17,1,21,Atletico de Madrid,Leganes,2,0,4/2/2017
+2016-17,1,22,Atletico de Madrid,Celta de Vigo,3,2,12/2/2017
+2016-17,1,24,Atletico de Madrid,Barcelona,1,2,26/2/2017
+2016-17,1,28,Atletico de Madrid,Sevilla,3,1,19/3/2017
+2016-17,1,30,Atletico de Madrid,Real Sociedad,1,0,4/4/2017
+2016-17,1,36,Atletico de Madrid,Eibar,1,0,6/5/2017
+2016-17,1,38,Atletico de Madrid,Athletic Club,3,1,21/5/2017
+2016-17,1,1,Barcelona,Betis,6,2,20/8/2016
+2016-17,1,3,Barcelona,Alaves,1,2,10/9/2016
+2016-17,1,5,Barcelona,Atletico de Madrid,1,1,21/9/2016
+2016-17,1,8,Barcelona,Deportivo,4,0,15/10/2016
+2016-17,1,12,Barcelona,Malaga,0,0,19/11/2016
+2016-17,1,14,Barcelona,Real Madrid,1,1,3/12/2016
+2016-17,1,16,Barcelona,Espanyol,4,1,18/12/2016
+2016-17,1,18,Barcelona,Las Palmas,5,0,14/1/2017
+2016-17,1,21,Barcelona,Athletic Club,3,0,4/2/2017
+2016-17,1,23,Barcelona,Leganes,2,1,19/2/2017
+2016-17,1,26,Barcelona,Celta de Vigo,5,0,4/3/2017
+2016-17,1,30,Barcelona,Sevilla,3,0,5/4/2017
+2016-17,1,32,Barcelona,Real Sociedad,3,2,15/4/2017
+2016-17,1,38,Barcelona,Eibar,4,2,21/5/2017
+2016-17,1,2,Betis,Deportivo,0,0,26/8/2016
+2016-17,1,6,Betis,Malaga,1,0,23/9/2016
+2016-17,1,8,Betis,Real Madrid,1,6,15/10/2016
+2016-17,1,10,Betis,Espanyol,0,1,30/10/2016
+2016-17,1,12,Betis,Las Palmas,2,0,18/11/2016
+2016-17,1,14,Betis,Celta de Vigo,3,3,4/12/2016
+2016-17,1,15,Betis,Athletic Club,1,0,11/12/2016
+2016-17,1,17,Betis,Leganes,2,0,8/1/2017
+2016-17,1,20,Betis,Barcelona,1,1,29/1/2017
+2016-17,1,24,Betis,Sevilla,1,2,25/2/2017
+2016-17,1,26,Betis,Real Sociedad,2,3,3/3/2017
+2016-17,1,32,Betis,Eibar,2,0,16/4/2017
+2016-17,1,35,Betis,Alaves,1,4,30/4/2017
+2016-17,1,37,Betis,Atletico de Madrid,1,1,14/5/2017
+2016-17,1,1,Celta de Vigo,Leganes,0,1,22/8/2016
+2016-17,1,3,Celta de Vigo,Atletico de Madrid,0,4,10/9/2016
+2016-17,1,7,Celta de Vigo,Barcelona,4,3,2/10/2016
+2016-17,1,9,Celta de Vigo,Deportivo,4,1,23/10/2016
+2016-17,1,15,Celta de Vigo,Sevilla,0,3,11/12/2016
+2016-17,1,17,Celta de Vigo,Malaga,3,1,8/1/2017
+2016-17,1,18,Celta de Vigo,Alaves,1,0,15/1/2017
+2016-17,1,25,Celta de Vigo,Espanyol,2,2,1/3/2017
+2016-17,1,29,Celta de Vigo,Las Palmas,3,1,3/4/2017
+2016-17,1,31,Celta de Vigo,Eibar,0,2,9/4/2017
+2016-17,1,33,Celta de Vigo,Betis,0,1,23/4/2017
+2016-17,1,35,Celta de Vigo,Athletic Club,0,3,30/4/2017
+2016-17,1,21,Celta de Vigo,Real Madrid,1,4,17/5/2017
+2016-17,1,38,Celta de Vigo,Real Sociedad,2,2,21/5/2017
+2016-17,1,1,Deportivo,Eibar,2,1,19/8/2016
+2016-17,1,3,Deportivo,Athletic Club,0,1,11/9/2016
+2016-17,1,5,Deportivo,Leganes,1,2,22/9/2016
+2016-17,1,12,Deportivo,Sevilla,2,3,19/11/2016
+2016-17,1,14,Deportivo,Real Sociedad,5,1,5/12/2016
+2016-17,1,23,Deportivo,Alaves,0,1,18/2/2017
+2016-17,1,25,Deportivo,Atletico de Madrid,1,1,2/3/2017
+2016-17,1,21,Deportivo,Betis,1,1,8/3/2017
+2016-17,1,27,Deportivo,Barcelona,2,1,12/3/2017
+2016-17,1,28,Deportivo,Celta de Vigo,0,1,19/3/2017
+2016-17,1,32,Deportivo,Malaga,2,0,15/4/2017
+2016-17,1,34,Deportivo,Real Madrid,2,6,26/4/2017
+2016-17,1,36,Deportivo,Espanyol,1,2,7/5/2017
+2016-17,1,38,Deportivo,Las Palmas,3,0,20/5/2017
+2016-17,1,4,Eibar,Sevilla,1,1,17/9/2016
+2016-17,1,6,Eibar,Real Sociedad,2,0,24/9/2016
+2016-17,1,12,Eibar,Celta de Vigo,1,0,19/11/2016
+2016-17,1,13,Eibar,Betis,3,1,25/11/2016
+2016-17,1,15,Eibar,Alaves,0,0,11/12/2016
+2016-17,1,17,Eibar,Atletico de Madrid,0,2,7/1/2017
+2016-17,1,19,Eibar,Barcelona,0,4,22/1/2017
+2016-17,1,20,Eibar,Deportivo,3,1,28/1/2017
+2016-17,1,24,Eibar,Malaga,3,0,25/2/2017
+2016-17,1,26,Eibar,Real Madrid,1,4,4/3/2017
+2016-17,1,28,Eibar,Espanyol,1,1,18/3/2017
+2016-17,1,30,Eibar,Las Palmas,3,1,6/4/2017
+2016-17,1,33,Eibar,Athletic Club,0,1,24/4/2017
+2016-17,1,35,Eibar,Leganes,2,0,30/4/2017
+2016-17,1,2,Espanyol,Malaga,2,2,26/8/2016
+2016-17,1,4,Espanyol,Real Madrid,0,2,18/9/2016
+2016-17,1,6,Espanyol,Celta de Vigo,0,2,25/9/2016
+2016-17,1,9,Espanyol,Eibar,3,3,22/10/2016
+2016-17,1,11,Espanyol,Athletic Club,0,0,6/11/2016
+2016-17,1,13,Espanyol,Leganes,3,0,26/11/2016
+2016-17,1,17,Espanyol,Deportivo,1,1,6/1/2017
+2016-17,1,20,Espanyol,Sevilla,3,1,29/1/2017
+2016-17,1,22,Espanyol,Real Sociedad,1,2,10/2/2017
+2016-17,1,27,Espanyol,Las Palmas,4,3,10/3/2017
+2016-17,1,29,Espanyol,Betis,2,1,31/3/2017
+2016-17,1,31,Espanyol,Alaves,1,0,8/4/2017
+2016-17,1,33,Espanyol,Atletico de Madrid,0,1,22/4/2017
+2016-17,1,35,Espanyol,Barcelona,0,3,29/4/2017
+2016-17,2,7,Getafe,Girona,0,2,25/9/2016
+2016-17,2,33,Getafe,Levante,2,0,8/4/2017
+2016-17,2,17,Girona,Levante,2,1,4/12/2016
+2016-17,2,28,Girona,Getafe,5,1,4/3/2017
+2016-17,1,4,Las Palmas,Malaga,1,0,17/9/2016
+2016-17,1,6,Las Palmas,Real Madrid,2,2,24/9/2016
+2016-17,1,8,Las Palmas,Espanyol,0,0,14/10/2016
+2016-17,1,10,Las Palmas,Celta de Vigo,3,3,30/10/2016
+2016-17,1,11,Las Palmas,Eibar,1,0,5/11/2016
+2016-17,1,13,Las Palmas,Athletic Club,3,1,28/11/2016
+2016-17,1,15,Las Palmas,Leganes,1,1,10/12/2016
+2016-17,1,19,Las Palmas,Deportivo,1,1,20/1/2017
+2016-17,1,22,Las Palmas,Sevilla,0,1,12/2/2017
+2016-17,1,24,Las Palmas,Real Sociedad,0,1,24/2/2017
+2016-17,1,31,Las Palmas,Betis,4,1,9/4/2017
+2016-17,1,33,Las Palmas,Alaves,1,1,23/4/2017
+2016-17,1,35,Las Palmas,Atletico de Madrid,0,5,29/4/2017
+2016-17,1,37,Las Palmas,Barcelona,1,4,14/5/2017
+2016-17,1,2,Leganes,Atletico de Madrid,0,0,27/8/2016
+2016-17,1,4,Leganes,Barcelona,1,5,17/9/2016
+2016-17,1,8,Leganes,Sevilla,2,3,15/10/2016
+2016-17,1,10,Leganes,Real Sociedad,0,2,28/10/2016
+2016-17,1,16,Leganes,Eibar,1,1,18/12/2016
+2016-17,1,18,Leganes,Athletic Club,0,0,14/1/2017
+2016-17,1,20,Leganes,Celta de Vigo,0,2,28/1/2017
+2016-17,1,24,Leganes,Deportivo,4,0,25/2/2017
+2016-17,1,28,Leganes,Malaga,0,0,19/3/2017
+2016-17,1,30,Leganes,Real Madrid,2,4,5/4/2017
+2016-17,1,32,Leganes,Espanyol,0,1,16/4/2017
+2016-17,1,34,Leganes,Las Palmas,3,0,26/4/2017
+2016-17,1,36,Leganes,Betis,4,0,8/5/2017
+2016-17,1,38,Leganes,Alaves,1,1,20/5/2017
+2016-17,2,12,Levante,Getafe,1,1,30/10/2016
+2016-17,2,38,Levante,Girona,2,1,13/5/2017
+2016-17,1,5,Malaga,Eibar,2,1,20/9/2016
+2016-17,1,7,Malaga,Athletic Club,2,1,2/10/2016
+2016-17,1,9,Malaga,Leganes,4,0,23/10/2016
+2016-17,1,13,Malaga,Deportivo,4,3,26/11/2016
+2016-17,1,18,Malaga,Real Sociedad,0,2,16/1/2017
+2016-17,1,21,Malaga,Espanyol,0,1,4/2/2017
+2016-17,1,23,Malaga,Las Palmas,2,1,20/2/2017
+2016-17,1,25,Malaga,Betis,1,2,28/2/2017
+2016-17,1,27,Malaga,Alaves,1,2,11/3/2017
+2016-17,1,29,Malaga,Atletico de Madrid,0,2,1/4/2017
+2016-17,1,31,Malaga,Barcelona,2,0,8/4/2017
+2016-17,1,35,Malaga,Sevilla,4,2,1/5/2017
+2016-17,1,36,Malaga,Celta de Vigo,3,0,7/5/2017
+2016-17,1,38,Malaga,Real Madrid,0,2,21/5/2017
+2016-17,1,2,Real Madrid,Celta de Vigo,2,1,27/8/2016
+2016-17,1,7,Real Madrid,Eibar,1,1,2/10/2016
+2016-17,1,9,Real Madrid,Athletic Club,2,1,23/10/2016
+2016-17,1,11,Real Madrid,Leganes,3,0,6/11/2016
+2016-17,1,15,Real Madrid,Deportivo,3,2,10/12/2016
+2016-17,1,19,Real Madrid,Malaga,2,1,21/1/2017
+2016-17,1,20,Real Madrid,Real Sociedad,3,0,29/1/2017
+2016-17,1,23,Real Madrid,Espanyol,2,0,18/2/2017
+2016-17,1,25,Real Madrid,Las Palmas,3,3,1/3/2017
+2016-17,1,27,Real Madrid,Betis,2,1,12/3/2017
+2016-17,1,29,Real Madrid,Alaves,3,0,2/4/2017
+2016-17,1,31,Real Madrid,Atletico de Madrid,1,1,8/4/2017
+2016-17,1,33,Real Madrid,Barcelona,2,3,23/4/2017
+2016-17,1,37,Real Madrid,Sevilla,4,1,14/5/2017
+2016-17,1,1,Real Sociedad,Real Madrid,0,3,21/8/2016
+2016-17,1,3,Real Sociedad,Espanyol,1,1,9/9/2016
+2016-17,1,5,Real Sociedad,Las Palmas,4,1,21/9/2016
+2016-17,1,7,Real Sociedad,Betis,1,0,30/9/2016
+2016-17,1,9,Real Sociedad,Alaves,3,0,22/10/2016
+2016-17,1,11,Real Sociedad,Atletico de Madrid,2,0,5/11/2016
+2016-17,1,13,Real Sociedad,Barcelona,1,1,27/11/2016
+2016-17,1,17,Real Sociedad,Sevilla,0,4,7/1/2017
+2016-17,1,19,Real Sociedad,Celta de Vigo,1,0,22/1/2017
+2016-17,1,25,Real Sociedad,Eibar,2,2,28/2/2017
+2016-17,1,27,Real Sociedad,Athletic Club,0,2,12/3/2017
+2016-17,1,29,Real Sociedad,Leganes,1,1,1/4/2017
+2016-17,1,33,Real Sociedad,Deportivo,1,0,23/4/2017
+2016-17,1,37,Real Sociedad,Malaga,2,2,14/5/2017
+2016-17,1,1,Sevilla,Espanyol,6,4,20/8/2016
+2016-17,1,3,Sevilla,Las Palmas,2,1,10/9/2016
+2016-17,1,5,Sevilla,Betis,1,0,20/9/2016
+2016-17,1,7,Sevilla,Alaves,2,1,1/10/2016
+2016-17,1,9,Sevilla,Atletico de Madrid,1,0,23/10/2016
+2016-17,1,11,Sevilla,Barcelona,1,2,6/11/2016
+2016-17,1,16,Sevilla,Malaga,4,1,17/12/2016
+2016-17,1,18,Sevilla,Real Madrid,2,1,15/1/2017
+2016-17,1,23,Sevilla,Eibar,2,0,18/2/2017
+2016-17,1,25,Sevilla,Athletic Club,1,0,2/3/2017
+2016-17,1,27,Sevilla,Leganes,1,1,11/3/2017
+2016-17,1,31,Sevilla,Deportivo,4,2,8/4/2017
+2016-17,1,34,Sevilla,Celta de Vigo,2,1,27/4/2017
+2016-17,1,36,Sevilla,Real Sociedad,1,1,5/5/2017
+2016-17,1,1,Valencia,Las Palmas,2,4,22/8/2016
+2016-17,1,3,Valencia,Betis,2,3,11/9/2016
+2016-17,1,5,Valencia,Alaves,2,1,22/9/2016
+2016-17,1,7,Valencia,Atletico de Madrid,0,2,2/10/2016
+2016-17,1,9,Valencia,Barcelona,2,3,22/10/2016
+2016-17,1,14,Valencia,Malaga,2,2,4/12/2016
+2016-17,1,18,Valencia,Espanyol,2,1,15/1/2017
+2016-17,1,21,Valencia,Eibar,0,4,4/2/2017
+2016-17,1,23,Valencia,Athletic Club,2,0,19/2/2017
+2016-17,1,16,Valencia,Real Madrid,2,1,22/2/2017
+2016-17,1,25,Valencia,Leganes,1,0,28/2/2017
+2016-17,1,29,Valencia,Deportivo,3,0,2/4/2017
+2016-17,1,30,Valencia,Celta de Vigo,3,2,6/4/2017
+2016-17,1,32,Valencia,Sevilla,0,0,16/4/2017
+2016-17,1,34,Valencia,Real Sociedad,2,3,26/4/2017
+2016-17,1,2,Villarreal,Sevilla,0,0,28/8/2016
+2016-17,1,4,Villarreal,Real Sociedad,2,1,18/9/2016
+2016-17,1,8,Villarreal,Celta de Vigo,5,0,16/10/2016
+2016-17,1,9,Villarreal,Las Palmas,2,1,23/10/2016
+2016-17,1,11,Villarreal,Betis,2,0,6/11/2016
+2016-17,1,13,Villarreal,Alaves,0,2,27/11/2016
+2016-17,1,15,Villarreal,Atletico de Madrid,3,0,12/12/2016
+2016-17,1,17,Villarreal,Barcelona,1,1,8/1/2017
+2016-17,1,22,Villarreal,Malaga,1,1,12/2/2017
+2016-17,1,24,Villarreal,Real Madrid,2,3,26/2/2017
+2016-17,1,26,Villarreal,Espanyol,2,0,4/3/2017
+2016-17,1,29,Villarreal,Eibar,2,3,1/4/2017
+2016-17,1,31,Villarreal,Athletic Club,3,1,7/4/2017
+2016-17,1,33,Villarreal,Leganes,2,1,22/4/2017
+2016-17,1,37,Villarreal,Deportivo,0,0,14/5/2017
