@@ -62,6 +62,10 @@ plt.show()
 hessian = f.Hess_log_MAP(theta, train_input)
 covariance= -hessian.inverse()
 mu = theta
+
+#save results
+np.savetxt("theta_laplace.csv", mu.numpy(), delimiter=",")
+np.savetxt("theta_laplace.csv", covariance.numpy(), delimiter=",")
 #display results
 #print(mu)
 
@@ -70,10 +74,10 @@ scores = f.Laplace_sample(mu, covariance, 2000, 1000)
 print(scores)
 
 #save the scores in a manageable matrix
-scores = scores.view(31,31,2)
+scores = scores.view(32,32,2)
 scores_mat = scores[0]
 for i in range(1, 32):
-    scores_mat = torch.cat((scores_mat, scores.view(31,31,2)[i]), 1)
+    scores_mat = torch.cat((scores_mat, scores.view(32,32,2)[i]), 1)
 
 #example
 print(f.results("England","Sweden", scores_mat))
@@ -82,3 +86,4 @@ print(f.results("Sweden", "England", scores_mat))
 #save the scores as csv
 np.savetxt("scores_laplace.csv", scores_mat.numpy(), delimiter=",")
 
+#reloading
