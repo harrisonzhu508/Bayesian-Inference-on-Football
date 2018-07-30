@@ -18,7 +18,7 @@ To predict, we use sampling methods to calculate the integrals. Theoretically, t
 
 Remark: In the presentation PDF where is says 'MSE' it should really be SE. I forgot to divide by the total number of observations - sorry!
 
-##Code##
+## Code
 
 We use PyTorch for its efficient tensor operations, but for purpose of education we will not use the efficient backpropogation methods. 
 
