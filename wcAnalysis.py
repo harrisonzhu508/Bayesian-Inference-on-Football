@@ -19,7 +19,7 @@ from torch import Tensor
 
 #load the data
 #training data
-train_input = pd.read_csv("/Users/harrisonzhu/Documents/GitHub/Bayesian-Inference-on-Football/Bayesian-Inference-on-Football/wc.csv")
+train_input = pd.read_csv("./wc.csv")
 #label the 32 teams from 0 to 31
 Teams_target = sorted(list(set(train_input.localTeam)))
 Teams_main = pd.DataFrame(data = {"Teams" : Teams_target})
