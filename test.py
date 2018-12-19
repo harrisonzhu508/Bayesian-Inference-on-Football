@@ -86,4 +86,3 @@ print(f.results("Sweden", "England", scores_mat))
 #save the scores as csv
 np.savetxt("scores_laplace.csv", scores_mat.numpy(), delimiter=",")
 
-#reloading

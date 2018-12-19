@@ -14,9 +14,7 @@ Our approximation techniques are
 - Gaussian variational approximation
 - Metropolis algorithm
 
-To predict, we use sampling methods to calculate the integrals. Theoretically, they are backed by the Ergodic CLT and the law of large numbers. 
-
-Remark: In the presentation PDF where is says 'MSE' it should really be SE. I forgot to divide by the total number of observations - sorry!
+To predict, we use sampling methods to calculate the integrals - crude Monte Carlo integration.
 
 ## Code
 
@@ -24,3 +22,4 @@ We use PyTorch for its efficient tensor operations, but for purpose of education
 
 ``wcAnalysis.py`` contains all the functions needed for all 3 approximations and its corresponding sampling functions
 ``test.py`` runs the algorithm and runs the analysis
+``worldcup.ipynb`` was my development platform when I tested out my analysis. All the functions have now been properly implemented in ``wcAnalysis.py``
